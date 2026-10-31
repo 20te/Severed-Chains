@@ -1,0 +1,86 @@
+﻿[
+    {
+        "file":  "arrow-turn-poses.png",
+        "width":  1774,
+        "height":  887,
+        "visibleBounds":  [
+                              43,
+                              81,
+                              1737,
+                              797
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "coolon-flight-poses.png",
+        "width":  2172,
+        "height":  724,
+        "visibleBounds":  [
+                              32,
+                              200,
+                              2136,
+                              518
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "destination-diamond-poses.png",
+        "width":  1774,
+        "height":  887,
+        "visibleBounds":  [
+                              88,
+                              199,
+                              1682,
+                              660
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "queen-fury-door-poses.png",
+        "width":  1536,
+        "height":  1024,
+        "visibleBounds":  [
+                              96,
+                              39,
+                              1436,
+                              978
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  254,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "zoom-connector.png",
+        "width":  1774,
+        "height":  887,
+        "visibleBounds":  [
+                              45,
+                              177,
+                              1729,
+                              750
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "zoom-level-diamond-states.png",
+        "width":  2172,
+        "height":  724,
+        "visibleBounds":  [
+                              34,
+                              183,
+                              2138,
+                              539
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    }
+]

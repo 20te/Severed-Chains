@@ -1,0 +1,391 @@
+registry/lod/blue_stone	gfx\ui\modern\goods\stone-spiral-master.png	-1	-1	-1	-1	16	16	0	0	16	16	0	2048,4128,6209,8289,10337,12418,14498,16578,18627,20707,22787,24868,26916,28996,31077,32767	256	256
+registry/lod/boat_license	gfx\ui\modern\goods\boat_license.png	-1	-1	-1	-1	16	16	0	0	16	16	0		256	256
+registry/lod/dragon_block_staff	gfx\ui\modern\goods\dragon_block_staff.png	-1	-1	-1	-1	16	16	0	0	16	16	0		256	256
+registry/lod/fathers_stone	gfx\ui\modern\goods\fathers_stone.png	-1	-1	-1	-1	16	16	0	0	16	16	0		256	256
+registry/lod/good_spirits	gfx\ui\modern\goods\good_spirits.png	-1	-1	-1	-1	16	16	0	0	16	16	0		256	256
+registry/lod/kates_bouquet	gfx\ui\modern\goods\kates_bouquet.png	-1	-1	-1	-1	16	16	0	0	16	16	0		256	256
+registry/lod/key_to_ship	gfx\ui\modern\goods\key_to_ship.png	-1	-1	-1	-1	16	16	0	0	16	16	0		256	256
+registry/lod/lavitzs_picture	gfx\ui\modern\goods\lavitzs_picture.png	-1	-1	-1	-1	16	16	0	0	16	16	0		256	256
+registry/lod/law_maker	gfx\ui\modern\goods\law_maker.png	-1	-1	-1	-1	16	16	0	0	16	16	0		256	256
+registry/lod/law_output	gfx\ui\modern\goods\law_output.png	-1	-1	-1	-1	16	16	0	0	16	16	0		256	256
+registry/lod/letter_from_lynn	gfx\ui\modern\goods\letter_from_lynn.png	-1	-1	-1	-1	16	16	0	0	16	16	0		256	256
+registry/lod/magic_oil	gfx\ui\modern\goods\magic_oil.png	-1	-1	-1	-1	16	16	0	0	16	16	0		256	256
+registry/lod/moon_dagger	gfx\ui\modern\goods\moon_dagger.png	-1	-1	-1	-1	16	16	0	0	16	16	0		256	256
+registry/lod/moon_gem	gfx\ui\modern\goods\moon_gem.png	-1	-1	-1	-1	16	16	0	0	16	16	0		256	256
+registry/lod/moon_mirror	gfx\ui\modern\goods\moon_mirror.png	-1	-1	-1	-1	16	16	0	0	16	16	0		256	256
+registry/lod/pass_for_valley	gfx\ui\modern\goods\pass_for_valley.png	-1	-1	-1	-1	16	16	0	0	16	16	0		256	256
+registry/lod/prison_key	gfx\ui\modern\goods\prison_key.png	-1	-1	-1	-1	16	16	0	0	16	16	0		256	256
+registry/lod/red_stone	gfx\ui\modern\goods\stone-spiral-master.png	-1	-1	-1	-1	16	16	0	0	16	16	0	1,1027,1061,2087,2089,3147,3148,4174,4208,5234,5236,6294,6295,7321,7355,32767	256	256
+registry/lod/vanishing_stone	gfx\ui\modern\goods\vanishing_stone.png	-1	-1	-1	-1	16	16	0	0	16	16	0		256	256
+registry/lod/war_bulletin	gfx\ui\modern\goods\war_bulletin.png	-1	-1	-1	-1	16	16	0	0	16	16	0		256	256
+registry/lod/yellow_stone	gfx\ui\modern\goods\stone-spiral-master.png	-1	-1	-1	-1	16	16	0	0	16	16	0	34,100,134,1224,1258,1324,2382,2448,2482,3572,3606,3672,4730,4796,4830,32767	256	256
+alert	gfx\ui\modern\alert.png	-1	-1	-1	-1	24	24	0	0	24	24	0		192	192
+battle/prompt/33	gfx/ui/modern/battle/cross-button-poses.png	0	0	723	724	24	24	0	0	24	24	0		192	192
+battle/prompt/34	gfx/ui/modern/battle/cross-button-poses.png	723	0	724	724	24	24	0	0	24	24	0		192	192
+battle/prompt/35	gfx/ui/modern/battle/cross-button-poses.png	1447	0	725	724	24	24	0	0	24	24	0		192	192
+battle/prompt/38	gfx/ui/modern/battle/eye-button-poses.png	0	0	747	724	24	24	0	4	23	19	0		192	192
+battle/prompt/39	gfx/ui/modern/battle/eye-button-poses.png	747	0	722	724	24	24	0	3	23	19	0		192	192
+world/door/0	gfx/ui/modern/world/queen-fury-door-poses.png	0	0	512	512	24	24	12	1	22	22	0		192	192
+world/door/1	gfx/ui/modern/world/queen-fury-door-poses.png	512	0	512	512	24	24	12	1	22	24	0		192	192
+world/door/2	gfx/ui/modern/world/queen-fury-door-poses.png	1024	0	512	512	24	24	6	1	22	24	0		192	192
+world/door/3	gfx/ui/modern/world/queen-fury-door-poses.png	0	512	512	512	24	24	3	1	22	22	0		192	192
+world/door/4	gfx/ui/modern/world/queen-fury-door-poses.png	512	512	512	512	24	24	1	1	22	22	0		192	192
+battle/prompt/40	gfx/ui/modern/battle/eye-button-poses.png	1469	0	703	724	23	24	0	2	23	19	0		184	192
+battle/command/2/1	gfx/ui/modern/battle/command-spells.png	645	0	483	887	16	24	2	0	14	24	0		128	192
+battle/command/2/2	gfx/ui/modern/battle/command-spells.png	1128	0	646	887	16	24	1	8	16	23	0		128	192
+battle/command/3/1	gfx/ui/modern/battle/command-attack.png	681	0	535	887	16	24	2	4	14	23	0		128	192
+battle/command/3/2	gfx/ui/modern/battle/command-attack.png	1216	0	558	887	16	24	4	2	13	24	0		128	192
+battle/command/4/1	gfx/ui/modern/battle/command-items.png	736	0	716	724	16	24	1	6	16	24	0		128	192
+battle/command/4/2	gfx/ui/modern/battle/command-items.png	1452	0	720	724	16	24	1	6	16	24	0		128	192
+battle/command/5/1	gfx/ui/modern/battle/command-escape.png	692	0	606	887	16	24	3	7	15	24	0		128	192
+battle/command/5/2	gfx/ui/modern/battle/command-escape.png	1298	0	476	887	16	24	3	7	15	24	0		128	192
+battle/command/8/1	gfx/ui/modern/battle/command-dragoon-attack.png	723	0	491	887	16	24	2	4	14	23	0		128	192
+battle/command/8/2	gfx/ui/modern/battle/command-dragoon-attack.png	1214	0	560	887	16	24	4	2	13	24	0		128	192
+battle/target/0	gfx/ui/modern/battle/target-master.png	-1	-1	-1	-1	16	24	0	0	16	23	0	4096,16384,31744,32767	128	192
+battle/target/1	gfx/ui/modern/battle/target-master.png	-1	-1	-1	-1	16	24	0	0	16	23	0	0,1023,924,858,792,726,660,594,528,463,398,366,231,198,165,132	128	192
+battle/target/2	gfx/ui/modern/battle/target-master.png	-1	-1	-1	-1	16	24	0	0	16	23	0	0,7,9,12,1071,1073,1076,2135,2137,2140,3199,9535,14815,21151,26431,32767	128	192
+battle/timing-arrow	gfx/ui/modern/battle/target-master.png	-1	-1	-1	-1	8	24	0	0	7	24	0	132,198,366,594,792,1023,32767	64	192
+battle/prompt/2	gfx/ui/modern/battle/eye-button-poses.png	1469	0	703	724	23	23	0	2	23	19	0		184	184
+world/coolon/0	gfx/ui/modern/world/coolon-flight-poses.png	0	0	543	724	32	16	0	3	32	14	0		256	128
+world/coolon/1	gfx/ui/modern/world/coolon-flight-poses.png	543	0	543	724	32	16	0	3	32	14	0		256	128
+world/coolon/2	gfx/ui/modern/world/coolon-flight-poses.png	1086	0	543	724	32	16	0	4	32	16	0		256	128
+world/coolon/3	gfx/ui/modern/world/coolon-flight-poses.png	1629	0	543	724	32	16	0	3	32	15	0		256	128
+world/zoom/0	gfx/ui/modern/world/zoom-connector.png	0	0	1774	887	32	16	2	0	30	14	0		256	128
+world/zoom/1	gfx/ui/modern/world/zoom-connector.png	0	0	1774	887	32	16	2	0	30	14	0		256	128
+world/zoom/2	gfx/ui/modern/world/zoom-level-diamond-states.png	0	0	724	724	32	16	1	0	31	15	0		256	128
+world/zoom/3	gfx/ui/modern/world/zoom-level-diamond-states.png	724	0	724	724	32	16	1	0	31	15	0		256	128
+world/zoom/4	gfx/ui/modern/world/zoom-level-diamond-states.png	1448	0	724	724	32	16	1	0	31	15	0		256	128
+battle/prompt/0	gfx/ui/modern/battle/eye-button-poses.png	0	0	747	724	24	16	0	4	23	16	0		192	128
+battle/prompt/1	gfx/ui/modern/battle/eye-button-poses.png	747	0	722	724	24	16	0	3	23	16	0		192	128
+menu/138	gfx/ui/modern/menu/button-r1.png	-1	-1	-1	-1	24	16	0	0	24	12	0		192	128
+menu/139	gfx/ui/modern/menu/button-r2.png	-1	-1	-1	-1	24	16	0	0	24	12	0		192	128
+menu/140	gfx/ui/modern/menu/button-l1.png	-1	-1	-1	-1	24	16	0	0	24	12	0		192	128
+menu/141	gfx/ui/modern/menu/button-l2.png	-1	-1	-1	-1	24	16	0	0	24	12	0		192	128
+battle/addition/0	gfx/ui/modern/battle/change-addition-poses.png	0	0	624	887	16	16	0	0	16	16	0		128	128
+battle/addition/1	gfx/ui/modern/battle/change-addition-poses.png	624	0	557	887	16	16	0	0	16	16	0		128	128
+battle/addition/2	gfx/ui/modern/battle/change-addition-poses.png	1181	0	593	887	16	16	0	0	16	16	0		128	128
+battle/command/0/0	gfx/ui/modern/battle/command-guard.png	0	0	639	887	16	16	1	0	15	16	0		128	128
+battle/command/0/1	gfx/ui/modern/battle/command-guard.png	639	0	626	887	16	16	2	1	14	16	0		128	128
+battle/command/0/2	gfx/ui/modern/battle/command-guard.png	1265	0	509	887	16	16	1	0	15	16	0		128	128
+battle/command/2/0	gfx/ui/modern/battle/command-spells.png	0	0	645	887	16	16	0	0	15	15	0		128	128
+battle/command/3/0	gfx/ui/modern/battle/command-attack.png	0	0	681	887	16	16	0	0	15	15	0		128	128
+battle/command/4/0	gfx/ui/modern/battle/command-items.png	0	0	736	724	16	16	1	0	16	16	0		128	128
+battle/command/5/0	gfx/ui/modern/battle/command-escape.png	0	0	692	887	16	16	3	1	16	16	0		128	128
+battle/command/6/0	gfx/ui/modern/battle/command-special.png	0	0	610	887	16	16	1	1	15	15	0		128	128
+battle/command/6/1	gfx/ui/modern/battle/command-special.png	610	0	559	887	16	16	1	1	15	15	0		128	128
+battle/command/6/2	gfx/ui/modern/battle/command-special.png	1169	0	605	887	16	16	1	1	15	15	0		128	128
+battle/command/7/0	gfx/ui/modern/battle/command-unused-slot.png	0	0	604	887	16	16	2	0	15	15	0		128	128
+battle/command/7/1	gfx/ui/modern/battle/command-unused-slot.png	604	0	631	887	16	16	2	1	14	15	0		128	128
+battle/command/7/2	gfx/ui/modern/battle/command-unused-slot.png	1235	0	539	887	16	16	1	0	14	15	0		128	128
+battle/command/8/0	gfx/ui/modern/battle/command-dragoon-attack.png	0	0	723	887	16	16	0	0	16	16	0		128	128
+battle/detransform	gfx/ui/modern/battle/detransform-arrow.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+battle/disabled	gfx/ui/modern/battle/disabled-cross.png	-1	-1	-1	-1	16	16	1	1	15	15	0		128	128
+battle/prompt/18	gfx/ui/modern/battle/eye-button-poses.png	0	0	747	724	16	16	0	4	16	16	0	4096,16384,31744,32767	128	128
+battle/prompt/19	gfx/ui/modern/battle/eye-button-poses.png	0	0	747	724	16	16	0	3	16	16	0	4096,16384,31744,32767	128	128
+battle/star	gfx/ui/modern/battle/timing-star.png	-1	-1	-1	-1	16	16	0	1	15	16	0		128	128
+element/lod/dark	gfx/ui/modern/battle/element-dark.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+element/lod/divine	gfx/ui/modern/battle/element-divine.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+element/lod/earth	gfx/ui/modern/battle/element-earth.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+element/lod/fire	gfx/ui/modern/battle/element-fire.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+element/lod/light	gfx/ui/modern/battle/element-light.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+element/lod/none	gfx/ui/modern/battle/element-none.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+element/lod/physical	gfx/ui/modern/battle/element-physical.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+element/lod/thunder	gfx/ui/modern/battle/element-thunder.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+element/lod/water	gfx/ui/modern/battle/element-water.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+element/lod/wind	gfx/ui/modern/battle/element-wind.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/0	gfx\ui\modern\inventory\00-sword.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/1	gfx\ui\modern\inventory\01-axe.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/10	gfx\ui\modern\inventory\10-armor.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/11	gfx\ui\modern\inventory\11-breastplate.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/12	gfx\ui\modern\inventory\12-red-dress.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/13	gfx\ui\modern\inventory\13-loincloth.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/14	gfx\ui\modern\inventory\14-warrior-dress.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/15	gfx\ui\modern\inventory\15-crown.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/16	gfx\ui\modern\inventory\16-hairband.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/17	gfx\ui\modern\inventory\17-hat.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/18	gfx\ui\modern\inventory\18-helm.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/19	gfx\ui\modern\inventory\19-shoes.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/2	gfx\ui\modern\inventory\02-hammer.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/20	gfx\ui\modern\inventory\20-kneepiece.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/21	gfx\ui\modern\inventory\21-boots.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/22	gfx\ui\modern\inventory\22-bracelet.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/23	gfx\ui\modern\inventory\23-ring.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/24	gfx\ui\modern\inventory\24-amulet.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/25	gfx\ui\modern\inventory\25-stone.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/26	gfx\ui\modern\inventory\26-jewellery.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/27	gfx\ui\modern\inventory\27-pin.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/28	gfx\ui\modern\inventory\28-bell.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/29	gfx\ui\modern\inventory\29-bag.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/3	gfx\ui\modern\inventory\03-spear.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/30	gfx\ui\modern\inventory\30-cape.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/31	gfx\ui\modern\inventory\31-glove.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/32	gfx\ui\modern\inventory\32-horn.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/33	gfx\ui\modern\inventory\33-blue-potion.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/34	gfx\ui\modern\inventory\34-yellow-potion.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/35	gfx\ui\modern\inventory\35-red-potion.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/36	gfx\ui\modern\inventory\36-angels-prayer.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/37	gfx\ui\modern\inventory\37-green-potion.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/38	gfx\ui\modern\inventory\38-magic.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/39	gfx\ui\modern\inventory\39-skull.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/4	gfx\ui\modern\inventory\04-bow.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/40	gfx\ui\modern\inventory\40-up.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/41	gfx\ui\modern\inventory\41-down.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/42	gfx\ui\modern\inventory\42-shield-item.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/43	gfx\ui\modern\inventory\43-smoke-ball.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/44	gfx\ui\modern\inventory\44-sig-stone.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/45	gfx\ui\modern\inventory\45-charm.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/46	gfx\ui\modern\inventory\46-sack.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/5	gfx\ui\modern\inventory\05-mace.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/57	gfx\ui\modern\inventory\57-invalid.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/58	gfx\ui\modern\alert.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/6	gfx\ui\modern\inventory\06-knuckle.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/7	gfx\ui\modern\inventory\07-boxing-glove.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/8	gfx\ui\modern\inventory\08-clothes.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+item/9	gfx\ui\modern\inventory\09-robe.png	-1	-1	-1	-1	16	16	0	0	16	16	0		128	128
+menu/108	gfx/ui/modern/menu/cursor-turn-poses.png	0	0	443	443	16	16	0	1	16	15	0		128	128
+menu/109	gfx/ui/modern/menu/cursor-turn-poses.png	0	0	443	443	16	16	0	1	16	15	0		128	128
+menu/110	gfx/ui/modern/menu/cursor-turn-poses.png	0	0	443	443	16	16	0	1	16	15	0		128	128
+menu/111	gfx/ui/modern/menu/cursor-turn-poses.png	0	0	443	443	16	16	0	1	16	15	0		128	128
+menu/134	gfx/ui/modern/menu/button-circle.png	-1	-1	-1	-1	16	16	0	0	12	12	0		128	128
+menu/135	gfx/ui/modern/menu/button-cross.png	-1	-1	-1	-1	16	16	0	0	12	12	0		128	128
+menu/136	gfx/ui/modern/menu/button-square.png	-1	-1	-1	-1	16	16	0	0	12	12	0		128	128
+menu/137	gfx/ui/modern/menu/button-triangle.png	-1	-1	-1	-1	16	16	0	0	12	12	0		128	128
+menu/162	gfx/ui/modern/menu/cursor-blink-poses.png	0	0	443	443	16	16	0	1	16	15	0		128	128
+menu/163	gfx/ui/modern/menu/cursor-blink-poses.png	443	0	444	443	16	16	0	1	16	15	0		128	128
+menu/164	gfx/ui/modern/menu/cursor-blink-poses.png	887	0	443	443	16	16	0	1	16	15	0		128	128
+menu/165	gfx/ui/modern/menu/cursor-blink-poses.png	1330	0	444	443	16	16	0	1	16	15	0		128	128
+menu/166	gfx/ui/modern/menu/cursor-blink-poses.png	0	443	443	444	16	16	0	1	16	15	0		128	128
+menu/167	gfx/ui/modern/menu/cursor-blink-poses.png	443	443	444	444	16	16	0	1	16	15	0		128	128
+menu/168	gfx/ui/modern/menu/cursor-blink-poses.png	887	443	443	444	16	16	0	1	16	15	0		128	128
+menu/169	gfx/ui/modern/menu/cursor-blink-poses.png	1330	443	444	444	16	16	0	1	16	15	0		128	128
+menu/170	gfx/ui/modern/menu/cursor-blink-poses.png	0	0	443	443	16	16	0	1	16	15	180		128	128
+menu/171	gfx/ui/modern/menu/cursor-blink-poses.png	443	0	444	443	16	16	0	1	16	15	180		128	128
+menu/172	gfx/ui/modern/menu/cursor-blink-poses.png	887	0	443	443	16	16	0	1	16	15	180		128	128
+menu/173	gfx/ui/modern/menu/cursor-blink-poses.png	1330	0	444	443	16	16	0	1	16	15	180		128	128
+menu/174	gfx/ui/modern/menu/cursor-blink-poses.png	0	443	443	444	16	16	0	1	16	15	180		128	128
+menu/175	gfx/ui/modern/menu/cursor-blink-poses.png	443	443	444	444	16	16	0	1	16	15	180		128	128
+menu/176	gfx/ui/modern/menu/cursor-blink-poses.png	887	443	443	444	16	16	0	1	16	15	180		128	128
+menu/177	gfx/ui/modern/menu/cursor-blink-poses.png	1330	443	444	444	16	16	0	1	16	15	180		128	128
+menu/178	gfx/ui/modern/menu/cursor-turn-poses.png	0	0	443	443	16	16	0	1	16	15	90		128	128
+menu/179	gfx/ui/modern/menu/cursor-turn-poses.png	443	0	444	443	16	16	0	1	16	15	90		128	128
+menu/180	gfx/ui/modern/menu/cursor-turn-poses.png	887	0	443	443	16	16	0	1	16	15	90		128	128
+menu/181	gfx/ui/modern/menu/cursor-turn-poses.png	1330	0	444	443	16	16	0	1	16	15	90		128	128
+menu/182	gfx/ui/modern/menu/cursor-turn-poses.png	0	443	443	444	16	16	0	1	16	15	90		128	128
+menu/183	gfx/ui/modern/menu/cursor-turn-poses.png	443	443	444	444	16	16	0	1	16	15	90		128	128
+menu/184	gfx/ui/modern/menu/cursor-turn-poses.png	887	443	443	444	16	16	0	1	16	15	90		128	128
+menu/185	gfx/ui/modern/menu/cursor-turn-poses.png	1330	443	444	444	16	16	0	1	16	15	90		128	128
+menu/186	gfx/ui/modern/menu/cursor-blink-poses.png	0	0	443	443	16	16	0	1	16	15	90		128	128
+menu/187	gfx/ui/modern/menu/cursor-blink-poses.png	443	0	444	443	16	16	0	1	16	15	90		128	128
+menu/188	gfx/ui/modern/menu/cursor-blink-poses.png	887	0	443	443	16	16	0	1	16	15	90		128	128
+menu/189	gfx/ui/modern/menu/cursor-blink-poses.png	1330	0	444	443	16	16	0	1	16	15	90		128	128
+menu/190	gfx/ui/modern/menu/cursor-blink-poses.png	0	443	443	444	16	16	0	1	16	15	90		128	128
+menu/191	gfx/ui/modern/menu/cursor-blink-poses.png	443	443	444	444	16	16	0	1	16	15	90		128	128
+menu/192	gfx/ui/modern/menu/cursor-blink-poses.png	887	443	443	444	16	16	0	1	16	15	90		128	128
+menu/193	gfx/ui/modern/menu/cursor-blink-poses.png	1330	443	444	444	16	16	0	1	16	15	90		128	128
+menu/194	gfx/ui/modern/menu/cursor-turn-poses.png	0	0	443	443	16	16	0	1	16	15	270		128	128
+menu/195	gfx/ui/modern/menu/cursor-turn-poses.png	443	0	444	443	16	16	0	1	16	15	270		128	128
+menu/196	gfx/ui/modern/menu/cursor-turn-poses.png	887	0	443	443	16	16	0	1	16	15	270		128	128
+menu/197	gfx/ui/modern/menu/cursor-turn-poses.png	1330	0	444	443	16	16	0	1	16	15	270		128	128
+menu/198	gfx/ui/modern/menu/cursor-turn-poses.png	0	443	443	444	16	16	0	1	16	15	270		128	128
+menu/199	gfx/ui/modern/menu/cursor-turn-poses.png	443	443	444	444	16	16	0	1	16	15	270		128	128
+menu/200	gfx/ui/modern/menu/cursor-turn-poses.png	887	443	443	444	16	16	0	1	16	15	270		128	128
+menu/201	gfx/ui/modern/menu/cursor-turn-poses.png	1330	443	444	444	16	16	0	1	16	15	270		128	128
+menu/202	gfx/ui/modern/menu/cursor-blink-poses.png	0	0	443	443	16	16	0	1	16	15	270		128	128
+menu/203	gfx/ui/modern/menu/cursor-blink-poses.png	443	0	444	443	16	16	0	1	16	15	270		128	128
+menu/204	gfx/ui/modern/menu/cursor-blink-poses.png	887	0	443	443	16	16	0	1	16	15	270		128	128
+menu/205	gfx/ui/modern/menu/cursor-blink-poses.png	1330	0	444	443	16	16	0	1	16	15	270		128	128
+menu/206	gfx/ui/modern/menu/cursor-blink-poses.png	0	443	443	444	16	16	0	1	16	15	270		128	128
+menu/207	gfx/ui/modern/menu/cursor-blink-poses.png	443	443	444	444	16	16	0	1	16	15	270		128	128
+menu/208	gfx/ui/modern/menu/cursor-blink-poses.png	887	443	443	444	16	16	0	1	16	15	270		128	128
+menu/209	gfx/ui/modern/menu/cursor-blink-poses.png	1330	443	444	444	16	16	0	1	16	15	270		128	128
+menu/23	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	16	16	1	1	12	10	270	132,198,366,594,792,1023,32767	128	128
+menu/23/31787	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	16	16	1	1	12	10	270	4,8,16,31,32767	128	128
+menu/23/31851	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	16	16	1	1	12	10	270	128,512,992,32767	128	128
+menu/36	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	16	16	1	1	12	10	270	132,198,366,594,792,1023,32767	128	128
+menu/36/31787	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	16	16	1	1	12	10	270	4,8,16,31,32767	128	128
+menu/36/31851	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	16	16	1	1	12	10	270	128,512,992,32767	128	128
+menu/37	gfx/ui/modern/menu/cursor-turn-poses.png	0	0	443	443	16	16	0	1	16	15	0		128	128
+menu/38	gfx/ui/modern/menu/cursor-turn-poses.png	443	0	444	443	16	16	0	1	16	15	0		128	128
+menu/39	gfx/ui/modern/menu/cursor-turn-poses.png	887	0	443	443	16	16	0	1	16	15	0		128	128
+menu/40	gfx/ui/modern/menu/cursor-turn-poses.png	1330	0	444	443	16	16	0	1	16	15	0		128	128
+menu/41	gfx/ui/modern/menu/cursor-turn-poses.png	0	443	443	444	16	16	0	1	16	15	0		128	128
+menu/42	gfx/ui/modern/menu/cursor-turn-poses.png	443	443	444	444	16	16	0	1	16	15	0		128	128
+menu/43	gfx/ui/modern/menu/cursor-turn-poses.png	887	443	443	444	16	16	0	1	16	15	0		128	128
+menu/44	gfx/ui/modern/menu/cursor-turn-poses.png	1330	443	444	444	16	16	0	1	16	15	0		128	128
+menu/45	gfx/ui/modern/menu/cursor-turn-poses.png	0	0	443	443	16	16	0	1	16	15	180		128	128
+menu/46	gfx/ui/modern/menu/cursor-turn-poses.png	443	0	444	443	16	16	0	1	16	15	180		128	128
+menu/47	gfx/ui/modern/menu/cursor-turn-poses.png	887	0	443	443	16	16	0	1	16	15	180		128	128
+menu/48	gfx/ui/modern/menu/cursor-turn-poses.png	1330	0	444	443	16	16	0	1	16	15	180		128	128
+menu/49	gfx/ui/modern/menu/cursor-turn-poses.png	0	443	443	444	16	16	0	1	16	15	180		128	128
+menu/50	gfx/ui/modern/menu/cursor-turn-poses.png	443	443	444	444	16	16	0	1	16	15	180		128	128
+menu/51	gfx/ui/modern/menu/cursor-turn-poses.png	887	443	443	444	16	16	0	1	16	15	180		128	128
+menu/52	gfx/ui/modern/menu/cursor-turn-poses.png	1330	443	444	444	16	16	0	1	16	15	180		128	128
+player/0/0	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	0	0	15	16	0	0,32620,30506,29417,28328,27239,26182,24068,22979,21890,20801,19744,9344,7264,5152,4096	128	128
+player/0/1	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	0	0	15	16	0	0,1023,924,858,792,726,660,594,528,463,398,366,231,198,165,132	128	128
+player/0/2	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	0	0	15	16	0	0,7,9,12,1071,1073,1076,2135,2137,2140,3199,9535,14815,21151,26431,32767	128	128
+player/1/0	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	1	0	14	16	0	0,32620,30506,29417,28328,27239,26182,24068,22979,21890,20801,19744,9344,7264,5152,4096	128	128
+player/1/1	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	1	0	14	16	0	0,1023,924,858,792,726,660,594,528,463,398,366,231,198,165,132	128	128
+player/1/2	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	1	0	14	16	0	0,7,9,12,1071,1073,1076,2135,2137,2140,3199,9535,14815,21151,26431,32767	128	128
+player/10/0	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	2	0	13	16	0	0,32620,30506,29417,28328,27239,26182,24068,22979,21890,20801,19744,9344,7264,5152,4096	128	128
+player/10/1	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	2	0	13	16	0	0,1023,924,858,792,726,660,594,528,463,398,366,231,198,165,132	128	128
+player/10/2	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	2	0	13	16	0	0,7,9,12,1071,1073,1076,2135,2137,2140,3199,9535,14815,21151,26431,32767	128	128
+player/11/0	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	1	0	14	16	0	0,32620,30506,29417,28328,27239,26182,24068,22979,21890,20801,19744,9344,7264,5152,4096	128	128
+player/11/1	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	1	0	14	16	0	0,1023,924,858,792,726,660,594,528,463,398,366,231,198,165,132	128	128
+player/11/2	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	1	0	14	16	0	0,7,9,12,1071,1073,1076,2135,2137,2140,3199,9535,14815,21151,26431,32767	128	128
+player/2/0	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	2	0	13	16	0	0,32620,30506,29417,28328,27239,26182,24068,22979,21890,20801,19744,9344,7264,5152,4096	128	128
+player/2/1	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	2	0	13	16	0	0,1023,924,858,792,726,660,594,528,463,398,366,231,198,165,132	128	128
+player/2/2	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	2	0	13	16	0	0,7,9,12,1071,1073,1076,2135,2137,2140,3199,9535,14815,21151,26431,32767	128	128
+player/3/0	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	3	0	12	16	0	0,32620,30506,29417,28328,27239,26182,24068,22979,21890,20801,19744,9344,7264,5152,4096	128	128
+player/3/1	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	3	0	12	16	0	0,1023,924,858,792,726,660,594,528,463,398,366,231,198,165,132	128	128
+player/3/2	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	3	0	12	16	0	0,7,9,12,1071,1073,1076,2135,2137,2140,3199,9535,14815,21151,26431,32767	128	128
+player/4/0	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	4	0	11	16	0	0,32620,30506,29417,28328,27239,26182,24068,22979,21890,20801,19744,9344,7264,5152,4096	128	128
+player/4/1	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	4	0	11	16	0	0,1023,924,858,792,726,660,594,528,463,398,366,231,198,165,132	128	128
+player/4/2	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	4	0	11	16	0	0,7,9,12,1071,1073,1076,2135,2137,2140,3199,9535,14815,21151,26431,32767	128	128
+player/5/0	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	5	0	10	16	0	0,32620,30506,29417,28328,27239,26182,24068,22979,21890,20801,19744,9344,7264,5152,4096	128	128
+player/5/1	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	5	0	10	16	0	0,1023,924,858,792,726,660,594,528,463,398,366,231,198,165,132	128	128
+player/5/2	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	5	0	10	16	0	0,7,9,12,1071,1073,1076,2135,2137,2140,3199,9535,14815,21151,26431,32767	128	128
+player/6/0	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	6	0	9	16	0	0,32620,30506,29417,28328,27239,26182,24068,22979,21890,20801,19744,9344,7264,5152,4096	128	128
+player/6/1	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	6	0	9	16	0	0,1023,924,858,792,726,660,594,528,463,398,366,231,198,165,132	128	128
+player/6/2	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	6	0	9	16	0	0,7,9,12,1071,1073,1076,2135,2137,2140,3199,9535,14815,21151,26431,32767	128	128
+player/7/0	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	5	0	10	16	0	0,32620,30506,29417,28328,27239,26182,24068,22979,21890,20801,19744,9344,7264,5152,4096	128	128
+player/7/1	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	5	0	10	16	0	0,1023,924,858,792,726,660,594,528,463,398,366,231,198,165,132	128	128
+player/7/2	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	5	0	10	16	0	0,7,9,12,1071,1073,1076,2135,2137,2140,3199,9535,14815,21151,26431,32767	128	128
+player/8/0	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	4	0	11	16	0	0,32620,30506,29417,28328,27239,26182,24068,22979,21890,20801,19744,9344,7264,5152,4096	128	128
+player/8/1	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	4	0	11	16	0	0,1023,924,858,792,726,660,594,528,463,398,366,231,198,165,132	128	128
+player/8/2	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	4	0	11	16	0	0,7,9,12,1071,1073,1076,2135,2137,2140,3199,9535,14815,21151,26431,32767	128	128
+player/9/0	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	3	0	12	16	0	0,32620,30506,29417,28328,27239,26182,24068,22979,21890,20801,19744,9344,7264,5152,4096	128	128
+player/9/1	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	3	0	12	16	0	0,1023,924,858,792,726,660,594,528,463,398,366,231,198,165,132	128	128
+player/9/2	gfx\ui\modern\player-master.png	-1	-1	-1	-1	16	16	3	0	12	16	0	0,7,9,12,1071,1073,1076,2135,2137,2140,3199,9535,14815,21151,26431,32767	128	128
+registry/lod/dark_0	gfx\ui\modern\spirits\spirit-orb-poses.png	0	0	724	724	16	16	0	0	16	16	0	31710,31579,31510,30420,30288,28173,25002,24012,19785,15623,12486,11429,7267,4161,2080,0	128	128
+registry/lod/dark_1	gfx\ui\modern\spirits\spirit-orb-poses.png	724	0	724	724	16	16	0	0	16	16	0	31710,31579,31510,30420,30288,28173,25002,24012,19785,15623,12486,11429,7267,4161,2080,0	128	128
+registry/lod/dark_2	gfx\ui\modern\spirits\spirit-orb-poses.png	1448	0	724	724	16	16	0	0	16	16	0	31710,31579,31510,30420,30288,28173,25002,24012,19785,15623,12486,11429,7267,4161,2080,0	128	128
+registry/lod/divine_0	gfx\ui\modern\spirits\spirit-orb-poses.png	0	0	724	724	16	16	0	0	16	16	0	32767,29659,26552,24471,22388,19281,16110,18128,14956,11754,10664,9607,6405,3234,1121,0	128	128
+registry/lod/divine_1	gfx\ui\modern\spirits\spirit-orb-poses.png	724	0	724	724	16	16	0	0	16	16	0	32767,29659,26552,24471,22388,19281,16110,18128,14956,11754,10664,9607,6405,3234,1121,0	128	128
+registry/lod/divine_2	gfx\ui\modern\spirits\spirit-orb-poses.png	1448	0	724	724	16	16	0	0	16	16	0	32767,29659,26552,24471,22388,19281,16110,18128,14956,11754,10664,9607,6405,3234,1121,0	128	128
+registry/lod/earth_0	gfx\ui\modern\spirits\spirit-orb-poses.png	0	0	724	724	16	16	0	0	16	16	0	32767,27615,23423,21311,17183,13023,6783,8863,5722,4565,3506,2449,1324,135,69,0	128	128
+registry/lod/earth_1	gfx\ui\modern\spirits\spirit-orb-poses.png	724	0	724	724	16	16	0	0	16	16	0	32767,27615,23423,21311,17183,13023,6783,8863,5722,4565,3506,2449,1324,135,69,0	128	128
+registry/lod/earth_2	gfx\ui\modern\spirits\spirit-orb-poses.png	1448	0	724	724	16	16	0	0	16	16	0	32767,27615,23423,21311,17183,13023,6783,8863,5722,4565,3506,2449,1324,135,69,0	128	128
+registry/lod/fire_0	gfx\ui\modern\spirits\spirit-orb-poses.png	0	0	724	724	16	16	0	0	16	16	0	32767,27519,23263,21151,16959,12735,6399,8542,5370,4309,4273,3216,1132,7,5,0	128	128
+registry/lod/fire_1	gfx\ui\modern\spirits\spirit-orb-poses.png	724	0	724	724	16	16	0	0	16	16	0	32767,27519,23263,21151,16959,12735,6399,8542,5370,4309,4273,3216,1132,7,5,0	128	128
+registry/lod/fire_2	gfx\ui\modern\spirits\spirit-orb-poses.png	1448	0	724	724	16	16	0	0	16	16	0	32767,27519,23263,21151,16959,12735,6399,8542,5370,4309,4273,3216,1132,7,5,0	128	128
+registry/lod/light_0	gfx\ui\modern\spirits\spirit-orb-poses.png	0	0	724	724	16	16	0	0	16	16	0	32767,28638,25469,23389,20284,17147,13976,16055,12851,9680,8589,7532,5384,2181,1091,0	128	128
+registry/lod/light_1	gfx\ui\modern\spirits\spirit-orb-poses.png	724	0	724	724	16	16	0	0	16	16	0	32767,28638,25469,23389,20284,17147,13976,16055,12851,9680,8589,7532,5384,2181,1091,0	128	128
+registry/lod/light_2	gfx\ui\modern\spirits\spirit-orb-poses.png	1448	0	724	724	16	16	0	0	16	16	0	32767,28638,25469,23389,20284,17147,13976,16055,12851,9680,8589,7532,5384,2181,1091,0	128	128
+registry/lod/thunder_0	gfx\ui\modern\spirits\spirit-orb-poses.png	0	0	724	724	16	16	0	0	16	16	0	32767,32606,32475,32410,32281,32151,29972,29013,24818,19662,16557,15500,11337,6180,4098,0	128	128
+registry/lod/thunder_1	gfx\ui\modern\spirits\spirit-orb-poses.png	724	0	724	724	16	16	0	0	16	16	0	32767,32606,32475,32410,32281,32151,29972,29013,24818,19662,16557,15500,11337,6180,4098,0	128	128
+registry/lod/thunder_2	gfx\ui\modern\spirits\spirit-orb-poses.png	1448	0	724	724	16	16	0	0	16	16	0	32767,32606,32475,32410,32281,32151,29972,29013,24818,19662,16557,15500,11337,6180,4098,0	128	128
+registry/lod/water_0	gfx\ui\modern\spirits\spirit-orb-poses.png	0	0	724	724	16	16	0	0	16	16	0	32767,32634,32630,32596,32496,32460,31335,30314,25031,20869,16677,15620,11394,6273,4160,0	128	128
+registry/lod/water_1	gfx\ui\modern\spirits\spirit-orb-poses.png	724	0	724	724	16	16	0	0	16	16	0	32767,32634,32630,32596,32496,32460,31335,30314,25031,20869,16677,15620,11394,6273,4160,0	128	128
+registry/lod/water_2	gfx\ui\modern\spirits\spirit-orb-poses.png	1448	0	724	724	16	16	0	0	16	16	0	32767,32634,32630,32596,32496,32460,31335,30314,25031,20869,16677,15620,11394,6273,4160,0	128	128
+registry/lod/wind_0	gfx\ui\modern\spirits\spirit-orb-poses.png	0	0	724	724	16	16	0	0	16	16	0	32767,28667,24569,22520,18420,15314,12143,14160,10956,8778,7656,6599,4420,2243,1154,0	128	128
+registry/lod/wind_1	gfx\ui\modern\spirits\spirit-orb-poses.png	724	0	724	724	16	16	0	0	16	16	0	32767,28667,24569,22520,18420,15314,12143,14160,10956,8778,7656,6599,4420,2243,1154,0	128	128
+registry/lod/wind_2	gfx\ui\modern\spirits\spirit-orb-poses.png	1448	0	724	724	16	16	0	0	16	16	0	32767,28667,24569,22520,18420,15314,12143,14160,10956,8778,7656,6599,4420,2243,1154,0	128	128
+world/arrow/0	gfx/ui/modern/world/arrow-turn-poses.png	0	0	443	443	16	16	0	4	15	16	0		128	128
+world/arrow/1	gfx/ui/modern/world/arrow-turn-poses.png	443	0	444	443	16	16	1	2	14	16	0		128	128
+world/arrow/2	gfx/ui/modern/world/arrow-turn-poses.png	887	0	443	443	16	16	2	1	13	16	0		128	128
+world/arrow/3	gfx/ui/modern/world/arrow-turn-poses.png	1330	0	444	443	16	16	4	1	11	16	0		128	128
+world/arrow/4	gfx/ui/modern/world/arrow-turn-poses.png	0	443	443	444	16	16	7	0	8	16	0		128	128
+world/arrow/5	gfx/ui/modern/world/arrow-turn-poses.png	443	443	444	444	16	16	4	1	11	16	0		128	128
+world/arrow/6	gfx/ui/modern/world/arrow-turn-poses.png	887	443	443	444	16	16	2	1	13	16	0		128	128
+world/arrow/7	gfx/ui/modern/world/arrow-turn-poses.png	1330	443	444	444	16	16	1	2	14	16	0		128	128
+world/destination/0	gfx/ui/modern/world/destination-diamond-poses.png	0	0	591	887	16	16	0	0	16	16	0		128	128
+world/destination/1	gfx/ui/modern/world/destination-diamond-poses.png	591	0	591	887	16	16	0	0	16	16	0		128	128
+world/destination/2	gfx/ui/modern/world/destination-diamond-poses.png	1182	0	592	887	16	16	0	0	16	16	0		128	128
+door/0/0	gfx\ui\modern\player-master.png	-1	-1	-1	-1	8	16	0	2	7	12	0	0,32620,30506,29417,28328,27239,26182,24068,22979,21890,20801,19744,9344,7264,5152,4096	64	128
+door/0/1	gfx\ui\modern\player-master.png	-1	-1	-1	-1	8	16	0	2	7	12	0	0,1023,924,858,792,726,660,594,528,463,398,366,231,198,165,132	64	128
+door/0/2	gfx\ui\modern\player-master.png	-1	-1	-1	-1	8	16	0	2	7	12	0	0,11072,11008,10976,10944,10912,11904,11840,11808,11776,11744,12736,6368,4288,2208,128	64	128
+door/16/0	gfx\ui\modern\player-master.png	-1	-1	-1	-1	8	16	2	2	5	12	0	0,32620,30506,29417,28328,27239,26182,24068,22979,21890,20801,19744,9344,7264,5152,4096	64	128
+door/16/1	gfx\ui\modern\player-master.png	-1	-1	-1	-1	8	16	2	2	5	12	0	0,1023,924,858,792,726,660,594,528,463,398,366,231,198,165,132	64	128
+door/16/2	gfx\ui\modern\player-master.png	-1	-1	-1	-1	8	16	2	2	5	12	0	0,11072,11008,10976,10944,10912,11904,11840,11808,11776,11744,12736,6368,4288,2208,128	64	128
+door/24/0	gfx\ui\modern\player-master.png	-1	-1	-1	-1	8	16	2	2	5	12	0	0,32620,30506,29417,28328,27239,26182,24068,22979,21890,20801,19744,9344,7264,5152,4096	64	128
+door/24/1	gfx\ui\modern\player-master.png	-1	-1	-1	-1	8	16	2	2	5	12	0	0,1023,924,858,792,726,660,594,528,463,398,366,231,198,165,132	64	128
+door/24/2	gfx\ui\modern\player-master.png	-1	-1	-1	-1	8	16	2	2	5	12	0	0,11072,11008,10976,10944,10912,11904,11840,11808,11776,11744,12736,6368,4288,2208,128	64	128
+door/32/0	gfx\ui\modern\player-master.png	-1	-1	-1	-1	8	16	2	2	5	12	0	0,32620,30506,29417,28328,27239,26182,24068,22979,21890,20801,19744,9344,7264,5152,4096	64	128
+door/32/1	gfx\ui\modern\player-master.png	-1	-1	-1	-1	8	16	2	2	5	12	0	0,1023,924,858,792,726,660,594,528,463,398,366,231,198,165,132	64	128
+door/32/2	gfx\ui\modern\player-master.png	-1	-1	-1	-1	8	16	2	2	5	12	0	0,11072,11008,10976,10944,10912,11904,11840,11808,11776,11744,12736,6368,4288,2208,128	64	128
+door/40/0	gfx\ui\modern\player-master.png	-1	-1	-1	-1	8	16	1	2	6	12	0	0,32620,30506,29417,28328,27239,26182,24068,22979,21890,20801,19744,9344,7264,5152,4096	64	128
+door/40/1	gfx\ui\modern\player-master.png	-1	-1	-1	-1	8	16	1	2	6	12	0	0,1023,924,858,792,726,660,594,528,463,398,366,231,198,165,132	64	128
+door/40/2	gfx\ui\modern\player-master.png	-1	-1	-1	-1	8	16	1	2	6	12	0	0,11072,11008,10976,10944,10912,11904,11840,11808,11776,11744,12736,6368,4288,2208,128	64	128
+door/48/0	gfx\ui\modern\player-master.png	-1	-1	-1	-1	8	16	1	2	8	12	0	0,32620,30506,29417,28328,27239,26182,24068,22979,21890,20801,19744,9344,7264,5152,4096	64	128
+door/48/1	gfx\ui\modern\player-master.png	-1	-1	-1	-1	8	16	1	2	8	12	0	0,1023,924,858,792,726,660,594,528,463,398,366,231,198,165,132	64	128
+door/48/2	gfx\ui\modern\player-master.png	-1	-1	-1	-1	8	16	1	2	8	12	0	0,11072,11008,10976,10944,10912,11904,11840,11808,11776,11744,12736,6368,4288,2208,128	64	128
+door/8/0	gfx\ui\modern\player-master.png	-1	-1	-1	-1	8	16	1	2	6	12	0	0,32620,30506,29417,28328,27239,26182,24068,22979,21890,20801,19744,9344,7264,5152,4096	64	128
+door/8/1	gfx\ui\modern\player-master.png	-1	-1	-1	-1	8	16	1	2	6	12	0	0,1023,924,858,792,726,660,594,528,463,398,366,231,198,165,132	64	128
+door/8/2	gfx\ui\modern\player-master.png	-1	-1	-1	-1	8	16	1	2	6	12	0	0,11072,11008,10976,10944,10912,11904,11840,11808,11776,11744,12736,6368,4288,2208,128	64	128
+menu/53	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	2	4	6	14	0	132,198,366,594,792,1023,32767	64	128
+menu/53/31787	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	2	4	6	14	0	4,8,16,31,32767	64	128
+menu/53/31851	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	2	4	6	14	0	128,512,992,32767	64	128
+menu/54	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	3	4	5	14	0	132,198,366,594,792,1023,32767	64	128
+menu/54/31787	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	3	4	5	14	0	4,8,16,31,32767	64	128
+menu/54/31851	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	3	4	5	14	0	128,512,992,32767	64	128
+menu/55	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	3	4	5	14	0	132,198,366,594,792,1023,32767	64	128
+menu/55/31787	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	3	4	5	14	0	4,8,16,31,32767	64	128
+menu/55/31851	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	3	4	5	14	0	128,512,992,32767	64	128
+menu/56	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	2	4	6	14	0	132,198,366,594,792,1023,32767	64	128
+menu/56/31787	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	2	4	6	14	0	4,8,16,31,32767	64	128
+menu/56/31851	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	2	4	6	14	0	128,512,992,32767	64	128
+menu/57	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	1	4	6	14	0	132,198,366,594,792,1023,32767	64	128
+menu/57/31787	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	1	4	6	14	0	4,8,16,31,32767	64	128
+menu/57/31851	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	1	4	6	14	0	128,512,992,32767	64	128
+menu/58	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	1	4	7	14	0	132,198,366,594,792,1023,32767	64	128
+menu/58/31787	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	1	4	7	14	0	4,8,16,31,32767	64	128
+menu/58/31851	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	1	4	7	14	0	128,512,992,32767	64	128
+menu/59	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	1	4	7	14	0	132,198,366,594,792,1023,32767	64	128
+menu/59/31787	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	1	4	7	14	0	4,8,16,31,32767	64	128
+menu/59/31851	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	1	4	7	14	0	128,512,992,32767	64	128
+menu/61	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	2	2	6	12	180	132,198,366,594,792,1023,32767	64	128
+menu/61/31787	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	2	2	6	12	180	4,8,16,31,32767	64	128
+menu/61/31851	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	2	2	6	12	180	128,512,992,32767	64	128
+menu/62	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	3	2	5	12	180	132,198,366,594,792,1023,32767	64	128
+menu/62/31787	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	3	2	5	12	180	4,8,16,31,32767	64	128
+menu/62/31851	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	3	2	5	12	180	128,512,992,32767	64	128
+menu/63	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	3	2	5	12	180	132,198,366,594,792,1023,32767	64	128
+menu/63/31787	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	3	2	5	12	180	4,8,16,31,32767	64	128
+menu/63/31851	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	3	2	5	12	180	128,512,992,32767	64	128
+menu/64	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	2	2	6	12	180	132,198,366,594,792,1023,32767	64	128
+menu/64/31787	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	2	2	6	12	180	4,8,16,31,32767	64	128
+menu/64/31851	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	2	2	6	12	180	128,512,992,32767	64	128
+menu/65	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	1	2	6	12	180	132,198,366,594,792,1023,32767	64	128
+menu/65/31787	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	1	2	6	12	180	4,8,16,31,32767	64	128
+menu/65/31851	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	1	2	6	12	180	128,512,992,32767	64	128
+menu/66	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	1	2	7	12	180	132,198,366,594,792,1023,32767	64	128
+menu/66/31787	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	1	2	7	12	180	4,8,16,31,32767	64	128
+menu/66/31851	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	1	2	7	12	180	128,512,992,32767	64	128
+menu/67	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	1	2	7	12	180	132,198,366,594,792,1023,32767	64	128
+menu/67/31787	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	1	2	7	12	180	4,8,16,31,32767	64	128
+menu/67/31851	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	16	1	2	7	12	180	128,512,992,32767	64	128
+registry/lod/divine_overlay_0	gfx\ui\modern\spirits\divine-overlay-poses.png	0	0	887	887	8	16	3	5	5	12	0		64	128
+registry/lod/divine_overlay_1	gfx\ui\modern\spirits\divine-overlay-poses.png	887	0	887	887	8	16	2	3	6	13	0		64	128
+menu/60	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	7	16	1	4	6	14	0	132,198,366,594,792,1023,32767	56	128
+menu/60/31787	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	7	16	1	4	6	14	0	4,8,16,31,32767	56	128
+menu/60/31851	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	7	16	1	4	6	14	0	128,512,992,32767	56	128
+menu/68	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	7	16	1	2	6	12	180	132,198,366,594,792,1023,32767	56	128
+menu/68/31787	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	7	16	1	2	6	12	180	4,8,16,31,32767	56	128
+menu/68/31851	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	7	16	1	2	6	12	180	128,512,992,32767	56	128
+dialogue/0	gfx\ui\modern\dialogue-triangle.png	0	0	474	415	16	14	0	0	16	14	0		128	112
+dialogue/1	gfx\ui\modern\dialogue-triangle.png	474	0	474	415	16	14	0	1	16	14	0		128	112
+dialogue/2	gfx\ui\modern\dialogue-triangle.png	948	0	474	415	16	14	0	2	16	14	0		128	112
+dialogue/3	gfx\ui\modern\dialogue-triangle.png	1422	0	474	415	16	14	0	3	16	14	0		128	112
+dialogue/4	gfx\ui\modern\dialogue-triangle.png	0	415	474	415	16	14	0	2	16	14	0		128	112
+dialogue/5	gfx\ui\modern\dialogue-triangle.png	474	415	474	415	16	14	0	1	16	14	0		128	112
+dialogue/6	gfx\ui\modern\dialogue-triangle.png	948	415	474	415	16	14	0	0	16	14	0		128	112
+checkbox/checked	gfx/ui/modern/menu/checkbox-checked.png	-1	-1	-1	-1	14	14	0	0	14	14	0		112	112
+checkbox/unchecked	gfx/ui/modern/menu/checkbox-unchecked.png	-1	-1	-1	-1	14	14	0	0	14	14	0		112	112
+battle/list-cursor/0	gfx\ui\modern\dialogue-triangle.png	0	0	474	415	15	8	4	2	14	7	270	32759,32751,32743,32608,32480,29312,26144,22976,19808,16640,13472,10304,4096,7168	120	64
+battle/list-cursor/1	gfx\ui\modern\dialogue-triangle.png	0	0	474	415	15	8	4	1	14	7	270	32759,32751,32743,32608,32480,29312,26144,22976,19808,16640,13472,10304,4096,7168	120	64
+battle/list-cursor/2	gfx\ui\modern\dialogue-triangle.png	0	0	474	415	15	8	4	1	14	7	270	32759,32751,32743,32608,32480,29312,26144,22976,19808,16640,13472,10304,4096,7168	120	64
+battle/list-cursor/3	gfx\ui\modern\dialogue-triangle.png	0	0	474	415	15	8	4	2	14	7	270	32759,32751,32743,32608,32480,29312,26144,22976,19808,16640,13472,10304,4096,7168	120	64
+battle/list-cursor/4	gfx\ui\modern\dialogue-triangle.png	0	0	474	415	15	8	4	2	14	6	270	32759,32751,32743,32608,32480,29312,26144,22976,19808,16640,13472,10304,4096,7168	120	64
+battle/list-cursor/5	gfx\ui\modern\dialogue-triangle.png	0	0	474	415	15	8	4	3	14	5	270	32759,32751,32743,32608,32480,29312,26144,22976,19808,16640,13472,10304,4096,7168	120	64
+battle/list-cursor/6	gfx\ui\modern\dialogue-triangle.png	0	0	474	415	15	8	4	3	14	5	270	32759,32751,32743,32608,32480,29312,26144,22976,19808,16640,13472,10304,4096,7168	120	64
+battle/list-cursor/7	gfx\ui\modern\dialogue-triangle.png	0	0	474	415	15	8	4	2	14	6	270	32759,32751,32743,32608,32480,29312,26144,22976,19808,16640,13472,10304,4096,7168	120	64
+menu/107	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	8	0	0	8	7	270	132,198,366,594,792,1023,32767	64	64
+menu/107/31787	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	8	0	0	8	7	270	4,8,16,31,32767	64	64
+menu/107/31851	gfx/ui/modern/dialogue-triangle.png	0	0	474	415	8	8	0	0	8	7	270	128,512,992,32767	64	64
+menu/21	gfx/ui/modern/player-master.png	-1	-1	-1	-1	8	8	1	0	6	8	0	132,198,366,594,792,1023,32767	64	64
+menu/21/31787	gfx/ui/modern/player-master.png	-1	-1	-1	-1	8	8	1	0	6	8	0	4,8,16,31,32767	64	64
+menu/21/31851	gfx/ui/modern/player-master.png	-1	-1	-1	-1	8	8	1	0	6	8	0	128,512,992,32767	64	64
+menu/22	gfx/ui/modern/player-master.png	-1	-1	-1	-1	8	8	1	0	6	8	180	132,198,366,594,792,1023,32767	64	64
+menu/22/31787	gfx/ui/modern/player-master.png	-1	-1	-1	-1	8	8	1	0	6	8	180	4,8,16,31,32767	64	64
+menu/22/31851	gfx/ui/modern/player-master.png	-1	-1	-1	-1	8	8	1	0	6	8	180	128,512,992,32767	64	64
+battle/prompt/36	gfx/ui/modern/battle/prompt-arrow.png	-1	-1	-1	-1	15	7	1	0	12	7	0	132,198,366,594,792,1023,32767	120	56

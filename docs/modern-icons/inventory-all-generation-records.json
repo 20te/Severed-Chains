@@ -1,0 +1,295 @@
+{
+  "tool": "built-in image_gen",
+  "basePrompt": "Use case: stylized-concept. Asset: ONE standalone transparent game inventory icon, production artwork master for a modern fantasy Legend of Dragoon interface. Approved reference image is STYLE ONLY: crisp silhouette, subtle depth, controlled upper-left highlights, restrained warm metal accents and strong clean outlines. Draw ONLY the following subject: SUBJECT. Single centred subject filling about80% of a square canvas with clear transparent margin. It must read at16x16 logical pixels: large simple forms, very little ornament, no microengraving, no filigree. Sharp smooth antialiased edges. Polished fantasy raster illustration matching the reference sword/potion materials. No ground shadow or bloom outside silhouette. True transparent alpha outside the subject, no backdrop, no checkerboard pixels. No text, letters, labels, numbers, watermark, border card, character, scenery or additional unrelated objects. Do NOT recreate the six-icon reference sheet; output ONLY this single requested inventory icon. Requested canvas1024x1024.",
+  "reference": "docs/modern-icons/art-direction/reference-sheet-v1.png",
+  "records": [
+    {
+      "id": 0,
+      "name": "sword",
+      "subject": "one steel longsword pointing diagonally upper-right, simple bronze crossguard and dark leather grip",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-593cbe98-1d1f-40ed-a63d-0de5fdf382ca.png"
+    },
+    {
+      "id": 1,
+      "name": "axe",
+      "subject": "one broad single-headed steel battle axe, dark wood haft, bronze ferrule",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-7217fb96-020b-4cd8-b7d1-fe7f37efc2ea.png"
+    },
+    {
+      "id": 2,
+      "name": "hammer",
+      "subject": "one square-headed steel war hammer with short wooden handle",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-d5cdf095-4303-41f1-8a31-60879a3130e3.png"
+    },
+    {
+      "id": 3,
+      "name": "spear",
+      "subject": "one long slender spear with steel leaf-shaped tip and dark wooden shaft",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-ba9ad61f-5388-49eb-94ce-9d4d2ca0212b.png"
+    },
+    {
+      "id": 4,
+      "name": "bow",
+      "subject": "one curved wooden longbow with a clearly visible taut string",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-f706031b-b97f-4f68-8bf6-781c6696dc3a.png"
+    },
+    {
+      "id": 5,
+      "name": "mace",
+      "subject": "one short steel flanged mace, bronze pommel and dark handle",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-2ba725c3-f3a1-49ee-bc36-0bfc77139842.png"
+    },
+    {
+      "id": 6,
+      "name": "knuckle",
+      "subject": "one steel knuckle weapon with four round finger openings and restrained bronze details",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-4a4fbe41-bf83-4751-9745-7a9571816026.png"
+    },
+    {
+      "id": 7,
+      "name": "boxing-glove",
+      "subject": "one red padded boxing glove with simple leather cuff",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-8d4bd643-6d4a-45de-9e5b-7ed519ff8819.png"
+    },
+    {
+      "id": 8,
+      "name": "clothes",
+      "subject": "one plain tan leather adventurer vest, sleeveless clothing rather than metal armour",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-43e57bc8-c886-4a19-8576-468f41ffa084.png"
+    },
+    {
+      "id": 9,
+      "name": "robe",
+      "subject": "one deep blue full-length wizard robe, simple folded silhouette",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-ace5543b-bf40-49f0-b72a-33ac57892601.png"
+    },
+    {
+      "id": 10,
+      "name": "armor",
+      "subject": "one steel cuirass with shoulder plates, clear heavy armour silhouette",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-77a766dc-8e44-4ee6-a69e-ec998696f7f7.png"
+    },
+    {
+      "id": 11,
+      "name": "breastplate",
+      "subject": "one polished bronze breastplate with broad rounded torso plate, visibly distinct from steel armour",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-efbd4e19-99b4-42b4-9fab-6ebcc9f64341.png"
+    },
+    {
+      "id": 12,
+      "name": "red-dress",
+      "subject": "one flowing crimson red dress with narrow waist and simple hem",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-90354f9b-161d-4fca-93e5-9c9326fc97bc.png"
+    },
+    {
+      "id": 13,
+      "name": "loincloth",
+      "subject": "one tan cloth loincloth with a dark belt, simple hanging front panel",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-8ad402a2-dd69-4b9e-a5a9-323d21b15cc1.png"
+    },
+    {
+      "id": 14,
+      "name": "warrior-dress",
+      "subject": "one blue and steel warrior tunic with a short armoured skirt",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-587bdc7a-2bb3-4fa2-bf30-87d75ff89a1c.png"
+    },
+    {
+      "id": 15,
+      "name": "crown",
+      "subject": "one small gold crown with three clear peaks",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-b0ab54b9-bc3e-46ef-8afa-70759e58bfbf.png"
+    },
+    {
+      "id": 16,
+      "name": "hairband",
+      "subject": "one emerald green cloth headband, a tied fabric band without any face or head",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-080fa9f7-9982-4c73-b679-06c7153f6a3a.png"
+    },
+    {
+      "id": 17,
+      "name": "hat",
+      "subject": "one brown broad-brim adventurer hat, no face or head",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-9c6f179a-deb2-44cd-9847-9d5fb6298202.png"
+    },
+    {
+      "id": 18,
+      "name": "helm",
+      "subject": "one silver medieval helmet with a dark visor slit, no head",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-97aa91c7-75a8-4be2-8899-323ac3957099.png"
+    },
+    {
+      "id": 19,
+      "name": "shoes",
+      "subject": "one pair of low brown leather shoes, clearly short ankle height",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-508af384-8828-4dc4-986e-1427801a2926.png"
+    },
+    {
+      "id": 20,
+      "name": "kneepiece",
+      "subject": "one small shield-shaped steel knee guard with a simple ridge, reads both as protective knee plate and small shield",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-f33fe1a0-8f72-479a-a74e-57b890599393.png"
+    },
+    {
+      "id": 21,
+      "name": "boots",
+      "subject": "one pair of tall dark leather boots, clearly taller than shoes",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-ea394987-1317-4eab-84dc-adbea432af0a.png"
+    },
+    {
+      "id": 22,
+      "name": "bracelet",
+      "subject": "one gold wrist bracelet with a simple clasp",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-33876402-a755-446a-8e95-8966385a3856.png"
+    },
+    {
+      "id": 23,
+      "name": "ring",
+      "subject": "one silver finger ring with a small ruby stone",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-115ee433-3c76-47ae-b5a2-ac650e9547cc.png"
+    },
+    {
+      "id": 24,
+      "name": "amulet",
+      "subject": "one sapphire pendant on a short gold chain",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-277166b9-42a6-4f9d-b17a-9f4fe294baee.png"
+    },
+    {
+      "id": 25,
+      "name": "stone",
+      "subject": "one smooth polished blue-grey stone, simple oval mineral",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-5dcdb352-2866-4831-9ef4-347dc7c5e57e.png"
+    },
+    {
+      "id": 26,
+      "name": "jewellery",
+      "subject": "one emerald and gold jewellery brooch, compact jewel cluster",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-431841cd-cda0-4cea-b461-d1310e25abee.png"
+    },
+    {
+      "id": 27,
+      "name": "pin",
+      "subject": "one slim gold ornamental pin with a small round head",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-0137ffc8-5efd-4f57-b88b-16724b3d09ae.png"
+    },
+    {
+      "id": 28,
+      "name": "bell",
+      "subject": "one small gold handbell with dark open mouth and short handle",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-f04b64ec-29cd-40ec-a664-6789144d47fc.png"
+    },
+    {
+      "id": 29,
+      "name": "bag",
+      "subject": "one sturdy brown leather satchel with large flap and buckle",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-389526bd-84cb-4feb-8abb-97c0b2f490d3.png"
+    },
+    {
+      "id": 30,
+      "name": "cape",
+      "subject": "one folded crimson cape with a simple silver clasp",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-94a3afd1-c141-4bc2-9d9b-4a6abd77355f.png"
+    },
+    {
+      "id": 31,
+      "name": "glove",
+      "subject": "one brown leather full-finger glove, no hand or body",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-ccae3020-eb51-44e0-b407-8d78d711049f.png"
+    },
+    {
+      "id": 32,
+      "name": "horn",
+      "subject": "one curved ivory animal horn with a narrow bronze collar",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-2f91fd90-bf8d-4806-a9f5-1d9a49228dfb.png"
+    },
+    {
+      "id": 33,
+      "name": "blue-potion",
+      "subject": "one round blue healing potion bottle with cork stopper and simple silver collar",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-4a462b08-24f4-4528-9331-41030f07ff87.png"
+    },
+    {
+      "id": 34,
+      "name": "yellow-potion",
+      "subject": "one round golden-yellow potion bottle with cork stopper and simple silver collar",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-4072e572-7049-45e0-bbb7-fbfbe32dea02.png"
+    },
+    {
+      "id": 35,
+      "name": "red-potion",
+      "subject": "one round red potion bottle with cork stopper and simple silver collar",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-36109f81-0397-437f-a5b7-7aae3d78cdf6.png"
+    },
+    {
+      "id": 36,
+      "name": "angels-prayer",
+      "subject": "one white angel feather with a small pair of golden wing shapes, prayer and revival charm, no figure or writing",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-59b98321-35ef-417a-b659-bbbdabaf6add.png"
+    },
+    {
+      "id": 37,
+      "name": "green-potion",
+      "subject": "one round emerald-green potion bottle with cork stopper and simple silver collar",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-e2b2141f-e2bc-4a9d-b9b1-299a6b28b828.png"
+    },
+    {
+      "id": 38,
+      "name": "magic",
+      "subject": "one purple arcane scroll with a simple luminous star emblem, no writing or letters",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-5b5f81fa-242b-4130-8d26-bc0ffcc2dee7.png"
+    },
+    {
+      "id": 39,
+      "name": "skull",
+      "subject": "one small ivory human skull with clearly dark eye sockets, stylized game item",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-17d31fb3-68f0-40b8-a9b3-dc5f0f3193a4.png"
+    },
+    {
+      "id": 40,
+      "name": "up",
+      "subject": "one simple broad emerald green upward arrow with a restrained metal bevel",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-959d6d47-edb0-488e-a520-e261bb2e0843.png"
+    },
+    {
+      "id": 41,
+      "name": "down",
+      "subject": "one simple broad red downward arrow with a restrained metal bevel",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-f6aca391-3fe8-4595-90cb-9a61f57b68ec.png"
+    },
+    {
+      "id": 42,
+      "name": "shield-item",
+      "subject": "one compact red and silver shield symbol, consumable protective item",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-7fb257a5-8b3a-4083-83da-01b25bcc514b.png"
+    },
+    {
+      "id": 43,
+      "name": "smoke-ball",
+      "subject": "one compact dark grey smoke bomb sphere with a short unlit fuse",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-8b203902-2545-4bb9-a420-64b4e85034e7.png"
+    },
+    {
+      "id": 44,
+      "name": "sig-stone",
+      "subject": "one grey-blue sigil stone with a single simple geometric rune, no alphabetic text",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-358e4f2d-be81-458c-8d33-0c297faa601c.png"
+    },
+    {
+      "id": 45,
+      "name": "charm",
+      "subject": "one small gold protective talisman with a jade centre and short red cord",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-92abb821-4cec-4284-a8d1-5ce37797475b.png"
+    },
+    {
+      "id": 46,
+      "name": "sack",
+      "subject": "one simple tan cloth drawstring sack, clear gathered fabric opening, distinct from leather satchel",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-292916a6-7fd5-46eb-b622-436522c6199c.png"
+    },
+    {
+      "id": 57,
+      "name": "invalid",
+      "subject": "one red prohibition cross inside a dark silver ring, clear invalid-item symbol",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-c8ed6348-d24a-4c76-97b7-0f7da9512179.png"
+    }
+  ]
+}

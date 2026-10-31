@@ -6,6 +6,7 @@ import it.unimi.dsi.fastutil.ints.Int2IntMap;
 import it.unimi.dsi.fastutil.ints.Int2IntOpenHashMap;
 import it.unimi.dsi.fastutil.ints.IntArrayList;
 import it.unimi.dsi.fastutil.ints.IntList;
+import legend.game.unpacker.SharedGameData;
 import org.apache.commons.io.FileUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -158,6 +159,14 @@ public class ScriptPatcher {
     LOGGER.info("Applying script patches");
 
     final ScriptPatchList cacheList = this.loadPatchList(this.filesDir, this.cacheDir.resolve("scripts.csv"));
+    SharedGameData.requirePrivate(this.filesDir, this.cacheDir, false);
+    SharedGameData.requirePrivate(this.filesDir, this.backupsDir, false);
+    for(final ScriptPatch patch : this.patches) {
+      SharedGameData.requirePrivate(this.filesDir, this.filesDir.resolve(patch.sourceFile), true);
+    }
+    for(final ScriptPatch patch : cacheList) {
+      SharedGameData.requirePrivate(this.filesDir, this.filesDir.resolve(patch.sourceFile), true);
+    }
 
     // Apply new or changed patches
     boolean changed = false;
@@ -195,6 +204,7 @@ public class ScriptPatcher {
   }
 
   public void patchFile(final ScriptPatch patch) throws IOException, PatchFailedException {
+    SharedGameData.requirePrivate(this.filesDir, this.filesDir.resolve(patch.sourceFile), true);
     // Back up the original file (if we're doing a replacement and the original doesn't exist, that's fine)
     if(!Files.exists(this.backupsDir.resolve(patch.sourceFile)) && (patch.type != PatchType.REPLACEMENT || Files.exists(this.filesDir.resolve(patch.sourceFile)))) {
       this.backupFile(patch.sourceFile);
@@ -214,6 +224,7 @@ public class ScriptPatcher {
   }
 
   public void patchFile(final Path sourceFile, final Path backupFile, final Path patchFile) throws IOException, PatchFailedException {
+    SharedGameData.requirePrivate(this.filesDir, sourceFile, true);
     final List<String> patchLines = Files.readAllLines(patchFile);
 
     final Path configPath = this.resolvePatchConfigPath(patchFile);
@@ -238,6 +249,7 @@ public class ScriptPatcher {
   }
 
   public void replaceFile(final Path sourceFile, final Path patchFile) throws IOException {
+    SharedGameData.requirePrivate(this.filesDir, sourceFile, true);
     final String patchContents = Files.readString(patchFile);
     final byte[] recompiledSource = this.recompile(sourceFile.toString(), patchContents);
     Files.write(sourceFile, recompiledSource, StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING);

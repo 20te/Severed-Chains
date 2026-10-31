@@ -44,6 +44,7 @@ public abstract class SeveredBattleAction extends BattleAction {
     menu.transforms.scaling(16.0f, 16.0f, 1.0f);
     menu.transforms.transfer.set(menuElementBaseX, menuElementBaseY, 123.8f);
 
+    final int renderFrame = this.frameIndex;
     final float iconU = this.frameIndex * ICON_SIZE / (float)battle.hud.battleIconsTexture.width;
     final float iconV = this.iconIndex * ICON_SIZE / (float)battle.hud.battleIconsTexture.height;
 
@@ -52,10 +53,10 @@ public abstract class SeveredBattleAction extends BattleAction {
       this.frameIndex %= this.frameCount;
     }
 
-    RENDERER.queueOrthoModel(battle.hud.battleIconQuad, menu.transforms, QueuedModelStandard.class)
-      .uvOffset(iconU, iconV)
-      .texture(battle.hud.battleIconsTexture)
-      .useTextureAlpha();
+    if(this.iconIndex != 0 || legend.game.textures.ModernIcons.render("battle/addition/" + renderFrame, menu.transforms, 1, 1) == null) {
+      RENDERER.queueOrthoModel(battle.hud.battleIconQuad, menu.transforms, QueuedModelStandard.class)
+        .uvOffset(iconU, iconV).texture(battle.hud.battleIconsTexture).useTextureAlpha();
+    }
 
     if(selected && menu.renderSelectedIconText_40) {
       final int oldZ = textZ_800bdf00;

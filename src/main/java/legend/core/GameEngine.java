@@ -383,6 +383,8 @@ public final class GameEngine {
     TEXTURE_ATLAS = packer.pack(512, 512);
     TEXTURE_ATLAS.setPersistent(true);
 
+    legend.game.textures.ModernIcons.load();
+
     LOGGER.info("Texture atlas created in %.02fs", (System.nanoTime() - t) / 1_000_000_000.0f);
   }
 

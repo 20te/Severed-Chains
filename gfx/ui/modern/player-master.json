@@ -1,0 +1,175 @@
+{
+  "image": "player-master.png",
+  "sourceSize": [
+    1278,
+    1230
+  ],
+  "logicalFrameSize": [
+    16,
+    16
+  ],
+  "status": "master artwork checkpoint; not integrated",
+  "frames": [
+    {
+      "index": 0,
+      "originalVisibleLeft": 0,
+      "originalVisibleWidth": 15
+    },
+    {
+      "index": 1,
+      "originalVisibleLeft": 1,
+      "originalVisibleWidth": 13
+    },
+    {
+      "index": 2,
+      "originalVisibleLeft": 2,
+      "originalVisibleWidth": 11
+    },
+    {
+      "index": 3,
+      "originalVisibleLeft": 3,
+      "originalVisibleWidth": 9
+    },
+    {
+      "index": 4,
+      "originalVisibleLeft": 4,
+      "originalVisibleWidth": 7
+    },
+    {
+      "index": 5,
+      "originalVisibleLeft": 5,
+      "originalVisibleWidth": 5
+    },
+    {
+      "index": 6,
+      "originalVisibleLeft": 6,
+      "originalVisibleWidth": 3
+    },
+    {
+      "index": 7,
+      "originalVisibleLeft": 5,
+      "originalVisibleWidth": 5
+    },
+    {
+      "index": 8,
+      "originalVisibleLeft": 4,
+      "originalVisibleWidth": 7
+    },
+    {
+      "index": 9,
+      "originalVisibleLeft": 3,
+      "originalVisibleWidth": 9
+    },
+    {
+      "index": 10,
+      "originalVisibleLeft": 2,
+      "originalVisibleWidth": 11
+    },
+    {
+      "index": 11,
+      "originalVisibleLeft": 1,
+      "originalVisibleWidth": 13
+    }
+  ],
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    0
+  ],
+  "sequenceTimes": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "encounterStates": [
+    {
+      "index": 0,
+      "name": "cyan",
+      "maximumAccumulatorInclusive": 2560,
+      "originalPalettePSX15": [
+        0,
+        32620,
+        30506,
+        29417,
+        28328,
+        27239,
+        26182,
+        24068,
+        22979,
+        21890,
+        20801,
+        19744,
+        9344,
+        7264,
+        5152,
+        4096
+      ]
+    },
+    {
+      "index": 1,
+      "name": "yellow",
+      "maximumAccumulatorInclusive": 4096,
+      "originalPalettePSX15": [
+        0,
+        1023,
+        924,
+        858,
+        792,
+        726,
+        660,
+        594,
+        528,
+        463,
+        398,
+        366,
+        231,
+        198,
+        165,
+        132
+      ]
+    },
+    {
+      "index": 2,
+      "name": "red",
+      "originalPalettePSX15": [
+        0,
+        32775,
+        32777,
+        32780,
+        33839,
+        33841,
+        33844,
+        34903,
+        34905,
+        34908,
+        35967,
+        42303,
+        47583,
+        53919,
+        59199,
+        65535
+      ]
+    }
+  ],
+  "variantStrategy": "One neutral alpha silhouette; derive all poses by horizontal transform and all encounter states by tint. Keep original positioning and clock. No independent generated colour sheets."
+}

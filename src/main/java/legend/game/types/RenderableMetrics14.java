@@ -1,6 +1,7 @@
 package legend.game.types;
 
 import legend.core.renderer.QueuedModelStandard;
+import legend.core.renderer.Obj;
 import legend.game.unpacker.FileData;
 
 public class RenderableMetrics14 {
@@ -64,5 +65,9 @@ public class RenderableMetrics14 {
 
   public void useTexture(final QueuedModelStandard model) {
 
+  }
+
+  public Obj getObj(final Obj original) {
+    return original;
   }
 }

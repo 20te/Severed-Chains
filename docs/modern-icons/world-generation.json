@@ -1,0 +1,96 @@
+{
+  "generator": "image_gen (built-in)",
+  "assets": [
+    {
+      "name": "arrow-turn-poses",
+      "kind": "arrow",
+      "columns": 4,
+      "rows": 2,
+      "frameCount": 8,
+      "source": "world-arrows-original",
+      "prompt": "Use case: stylized-concept. High-resolution polished fantasy game UI sprite artwork matching Input1 STYLE reference: bold readable silhouette, crisp dark edge, subtle faceted highlights, smooth antialiasing, restrained detail suitable for16px gameplay. Input2 is original pixel source identity and pose reference. TRUE TRANSPARENT background everywhere outside objects; no backdrop, checkerboard, scenery, labels, text, watermark, glows or external shadows. Fully isolated inside cells with generous clear transparent gutters. Redesign Input2 as exactly EIGHT poses of the SAME simple solid downward triangular pointer on a regular4-column by2-row sprite sheet, row-major order. Neutral SILVER-WHITE facets with dark charcoal contours; NO gold, colour or badge, because runtime tints red/blue/bright. Pose0 broad front-facing downward triangle with flat horizontal upper edge, pose1 slightly turned right, pose2 narrower right-turned, pose3 nearly edge-on right, pose4 a thin vertical edge, pose5 nearly edge-on left, pose6 wider left-turned, pose7 almost front-facing tilted left. Keep bottom tip and visual center aligned across all8 cells; only apparent width/highlight changes. No stem, no inner hole, no symbols. Simple three-sided shape. Aim2048x1024, equal512px square cells, art inside middle70percent of each cell.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/world-arrows-original.png"
+      ],
+      "file": "gfx/ui/modern/world/arrow-turn-poses.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-10541d81-f650-45a1-8114-297558be936a.png"
+    },
+    {
+      "name": "destination-diamond-poses",
+      "kind": "destination",
+      "columns": 3,
+      "rows": 1,
+      "frameCount": 3,
+      "source": "world-markers-original",
+      "prompt": "Use case: stylized-concept. High-resolution polished fantasy game UI sprite artwork matching Input1 STYLE reference: bold readable silhouette, crisp dark edge, subtle faceted highlights, smooth antialiasing, restrained detail suitable for16px gameplay. Input2 is original pixel source identity and pose reference. TRUE TRANSPARENT background everywhere outside objects; no backdrop, checkerboard, scenery, labels, text, watermark, glows or external shadows. Fully isolated inside cells with generous clear transparent gutters. Redesign Input2 as exactly THREE equally sized poses of ONE tiny neutral silver-grey diamond-shaped gemstone / rhombus marker. ONE horizontal row3equal cells. Same centered diamond silhouette and size; frame0 strong upper-left highlight, frame1 strong upper-right highlight, frame2 softer top-centre highlight. Solid gemstone with a simple central dark diamond facet, modest bevel, no gold, coloured gems or outer badge. Used at10px and additively blended: broad facets matter more than ornament. Transparent margin at least20percent per cell. Aim1536x768.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/world-markers-original.png"
+      ],
+      "file": "gfx/ui/modern/world/destination-diamond-poses.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-eabd8521-21ba-4a13-862a-b5c269fa81a2.png"
+    },
+    {
+      "name": "coolon-flight-poses",
+      "kind": "transport",
+      "columns": 4,
+      "rows": 1,
+      "frameCount": 4,
+      "source": "world-coolon-original",
+      "prompt": "Use case: stylized-concept. High-resolution polished fantasy game UI sprite artwork matching Input1 STYLE reference: bold readable silhouette, crisp dark edge, subtle faceted highlights, smooth antialiasing, restrained detail suitable for16px gameplay. Input2 is original pixel source identity and pose reference. TRUE TRANSPARENT background everywhere outside objects; no backdrop, checkerboard, scenery, labels, text, watermark, glows or external shadows. Fully isolated inside cells with generous clear transparent gutters. Redesign Input2's FOUR tiny flying-creature prompt poses as a4-column by1-row sprite sheet. Preserve orange/gold and cyan-blue colours with ivory highlights. Silhouette: pointed head on RIGHT, slender trailing tail extending LEFT, compact orange and pale-blue body, broad swept wings at middle. Exactly FOUR coherent wing-flap phases, same creature facing right, same body/head position and visual scale, tail remains in every frame. Retain elongated32x16 source proportions. Do not turn it into a ship, fish, bird logo, medallion or full character portrait. No text. Aim2048x1024 with equal512x1024 cells, creature occupies central80percent width and30percent height; strong clear gutters.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/world-coolon-original.png"
+      ],
+      "file": "gfx/ui/modern/world/coolon-flight-poses.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-8cbfd5ca-a36f-4c25-8417-8415a13ac3b9.png"
+    },
+    {
+      "name": "queen-fury-door-poses",
+      "kind": "transport",
+      "columns": 3,
+      "rows": 2,
+      "frameCount": 5,
+      "source": "world-queen-fury-original",
+      "prompt": "Use case: background-extraction. Edit target: five golden wooden opening-door sprites in a3-column2-row sheet. REMOVE ALL brown hazy backdrop outside each door silhouette, including every gutter, every outer margin and entire empty bottom-right sixth cell. Output TRUE TRANSPARENT ALPHA. Keep the five doors exactly unchanged: same shapes, pixels, colours, facets, hinges, positions, arrangement and canvas size. Dark interiors WITHIN the arched doorway are part of icon and remain opaque; all space OUTSIDE door/frame silhouettes must be completely transparent. No background, no glow or external shadows, no new objects. Preserve all five full silhouettes without cropping.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/world-queen-fury-original.png"
+      ],
+      "file": "gfx/ui/modern/world/queen-fury-door-poses.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-ec8449e8-c2ce-490c-b458-b048fb43fcce.png",
+      "firstDraft": {
+        "prompt": "Use case: stylized-concept. High-resolution polished fantasy game UI sprite artwork matching Input1 STYLE reference: bold readable silhouette, crisp dark edge, subtle faceted highlights, smooth antialiasing, restrained detail suitable for16px gameplay. Input2 is original pixel source identity and pose reference. TRUE TRANSPARENT background everywhere outside objects; no backdrop, checkerboard, scenery, labels, text, watermark, glows or external shadows. Fully isolated inside cells with generous clear transparent gutters. Redesign Input2's FIVE wooden door prompt poses, not a ship illustration. Exactly FIVE sprites in a regular3-column by2-row sheet, sixth cell bottom-right FULLY EMPTY transparent. Row-major progression0closed wooden arched cabin door in restrained bronze/golden frame,1slight beginning of opening,2half-open,3mostly open,4fully open. Same tall arched door shape and hinge side as source, brown warm wooden planks, simple warm brass rim, dark doorway inside. Keep frame/base anchored identically, show only door icon with no wall/scenery/ground. Source artwork later mirrors at draw time, do NOT premirror. Door must stay fully in its cell when opening. Aim1536x1024, equal512px square cells with at least15percent clear margin.",
+        "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-93d71b35-26a4-4371-bc0e-3edcb4a427a6.png"
+      }
+    },
+    {
+      "name": "zoom-level-diamond-states",
+      "kind": "zoom",
+      "columns": 3,
+      "rows": 1,
+      "frameCount": 3,
+      "source": "world-zoom-original",
+      "prompt": "Use case: stylized-concept. High-resolution polished fantasy game UI sprite artwork matching Input1 STYLE reference: bold readable silhouette, crisp dark edge, subtle faceted highlights, smooth antialiasing, restrained detail suitable for16px gameplay. Input2 is original pixel source identity and pose reference. TRUE TRANSPARENT background everywhere outside objects; no backdrop, checkerboard, scenery, labels, text, watermark, glows or external shadows. Fully isolated inside cells with generous clear transparent gutters. Redesign ONLY Input2's three WIDE flat grey DIAMOND level-indicator pieces (plain grey at top rowthird cell, grey with red small mark top rowfourth, grey with green small mark second rowfirst). Make exactly THREE cells in one horizontal row. Each is the SAME flat silver-grey horizontal isometric rhombus of width twice its height, extremely shallow bevel; first plain, second has a small RED miniature stepped diamond mark at lower centre, third identical mark GREEN. Keep background rhombus identical and anchor/size stable. Neutralgrey dominant, no enclosing ring, no letters or bars, no texture noise. Transparent around each diamond. Aim1536x768.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/world-zoom-original.png"
+      ],
+      "file": "gfx/ui/modern/world/zoom-level-diamond-states.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-8f202b2d-2cfa-47d3-b361-9f3cbb72a538.png"
+    },
+    {
+      "name": "zoom-connector",
+      "kind": "zoom",
+      "source": "world-zoom-original",
+      "prompt": "Use case: stylized-concept. High-resolution polished fantasy game UI sprite artwork matching Input1 STYLE reference: bold readable silhouette, crisp dark edge, subtle faceted highlights, smooth antialiasing, restrained detail suitable for16px gameplay. Input2 is original pixel source identity and pose reference. TRUE TRANSPARENT background everywhere outside objects; no backdrop, checkerboard, scenery, labels, text, watermark, glows or external shadows. Fully isolated inside cells with generous clear transparent gutters. Redesign ONLY the blue downward V-shaped CHEVRON connector at Input2's first cell. ONE isolated wide shallow blue chevron: two faceted silver-blue tapered bands meet at a low centre point, open transparent space ABOVE the V, pointed outer upper ends. Wide32x16 proportions, no inner icon, no text, no solid diamond/backing, no glow. Modest clean thickness, blue/silver gradient, transparent canvas generous margin. Do NOT include grey diamonds or L2/R2 labels.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/world-zoom-original.png"
+      ],
+      "file": "gfx/ui/modern/world/zoom-connector.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-dc735b71-78fd-4c0b-9675-4e82ecffaea1.png"
+    }
+  ]
+}

@@ -26,6 +26,10 @@ public class TextureAtlas {
     return this.icons.get(id);
   }
 
+  public Obj getObj() {
+    return this.obj;
+  }
+
   protected QueuedModelStandard render(final MV transforms, final int vertex) {
     return RENDERER.queueOrthoModel(this.obj, transforms, QueuedModelStandard.class)
       .vertices(vertex, 4)

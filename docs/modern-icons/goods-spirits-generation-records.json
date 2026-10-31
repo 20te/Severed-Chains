@@ -1,0 +1,262 @@
+{
+  "tool": "built-in image_gen",
+  "records": [
+    {
+      "name": "boat_license",
+      "category": "goods",
+      "subject": "one small diamond-shaped parchment boat licence, pale cream paper with a bold emerald-green boat-like geometric emblem and restrained gold edge, no readable writing",
+      "prompt": "Use case: stylized-concept. Asset: ONE isolated transparent key-goods inventory icon master for the modern fantasy Legend of Dragoon interface. Input 1 is the original item reference: preserve its identity, silhouette and primary colour cues. Input 2 is STYLE ONLY: match polished fantasy materials, crisp clear outlines, subtle depth, upper-left highlights and restrained metallic accents. Draw ONLY: one small diamond-shaped parchment boat licence, pale cream paper with a bold emerald-green boat-like geometric emblem and restrained gold edge, no readable writing. Single centred subject fully inside square canvas, generous empty margin, about80% canvas coverage. Original source is32x32 and the game draws it at16x16 logical pixels, so use broad readable forms and very little ornament; avoid microdetail. True transparent alpha outside subject; smooth sharp antialiased edges; no backdrop, ground shadow, checkerboard pixels, loose glow, card border, unrelated objects, labels or watermark. No readable writing unless explicitly required by the subject. Requested canvas1024x1024. Output only ONE item, not a sheet of reference icons.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/goods/boat_license.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/goods/boat_license.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-429ed37e-04c4-4019-a157-33ad59ed8b6e.png"
+    },
+    {
+      "name": "dragon_block_staff",
+      "category": "goods",
+      "subject": "one slender gold Dragon Block staff, angular gold shaft and pronged gold head holding a small luminous green orb, faithful to the original staff silhouette",
+      "prompt": "Use case: stylized-concept. Asset: ONE isolated transparent key-goods inventory icon master for the modern fantasy Legend of Dragoon interface. Input 1 is the original item reference: preserve its identity, silhouette and primary colour cues. Input 2 is STYLE ONLY: match polished fantasy materials, crisp clear outlines, subtle depth, upper-left highlights and restrained metallic accents. Draw ONLY: one slender gold Dragon Block staff, angular gold shaft and pronged gold head holding a small luminous green orb, faithful to the original staff silhouette. Single centred subject fully inside square canvas, generous empty margin, about80% canvas coverage. Original source is32x32 and the game draws it at16x16 logical pixels, so use broad readable forms and very little ornament; avoid microdetail. True transparent alpha outside subject; smooth sharp antialiased edges; no backdrop, ground shadow, checkerboard pixels, loose glow, card border, unrelated objects, labels or watermark. No readable writing unless explicitly required by the subject. Requested canvas1024x1024. Output only ONE item, not a sheet of reference icons.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/goods/dragon_block_staff.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/goods/dragon_block_staff.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-3197db3c-0bb7-4694-8d6a-afbe77be7f9c.png"
+    },
+    {
+      "name": "fathers_stone",
+      "category": "goods",
+      "subject": "one round weathered bronze keepsake medallion with a dark red central engraved circular seal, small red hanging cord, no writing or letters",
+      "prompt": "Use case: stylized-concept. Asset: ONE isolated transparent key-goods inventory icon master for the modern fantasy Legend of Dragoon interface. Input 1 is the original item reference: preserve its identity, silhouette and primary colour cues. Input 2 is STYLE ONLY: match polished fantasy materials, crisp clear outlines, subtle depth, upper-left highlights and restrained metallic accents. Draw ONLY: one round weathered bronze keepsake medallion with a dark red central engraved circular seal, small red hanging cord, no writing or letters. Single centred subject fully inside square canvas, generous empty margin, about80% canvas coverage. Original source is32x32 and the game draws it at16x16 logical pixels, so use broad readable forms and very little ornament; avoid microdetail. True transparent alpha outside subject; smooth sharp antialiased edges; no backdrop, ground shadow, checkerboard pixels, loose glow, card border, unrelated objects, labels or watermark. No readable writing unless explicitly required by the subject. Requested canvas1024x1024. Output only ONE item, not a sheet of reference icons.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/goods/fathers_stone.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/goods/fathers_stone.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-eb775963-7263-437c-86a1-d68de68df7a8.png"
+    },
+    {
+      "name": "good_spirits",
+      "category": "goods",
+      "subject": "one small amber-brown ceramic spirits jug with rounded body, short neck, small handle and cork, warm honey highlights, no label",
+      "prompt": "Use case: stylized-concept. Asset: ONE isolated transparent key-goods inventory icon master for the modern fantasy Legend of Dragoon interface. Input 1 is the original item reference: preserve its identity, silhouette and primary colour cues. Input 2 is STYLE ONLY: match polished fantasy materials, crisp clear outlines, subtle depth, upper-left highlights and restrained metallic accents. Draw ONLY: one small amber-brown ceramic spirits jug with rounded body, short neck, small handle and cork, warm honey highlights, no label. Single centred subject fully inside square canvas, generous empty margin, about80% canvas coverage. Original source is32x32 and the game draws it at16x16 logical pixels, so use broad readable forms and very little ornament; avoid microdetail. True transparent alpha outside subject; smooth sharp antialiased edges; no backdrop, ground shadow, checkerboard pixels, loose glow, card border, unrelated objects, labels or watermark. No readable writing unless explicitly required by the subject. Requested canvas1024x1024. Output only ONE item, not a sheet of reference icons.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/goods/good_spirits.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/goods/good_spirits.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-eceef353-b51f-442c-a5ca-9ada02909411.png"
+    },
+    {
+      "name": "kates_bouquet",
+      "category": "goods",
+      "subject": "one compact bouquet of small white flowers with yellow centres and green stems, tied with a narrow cream ribbon",
+      "prompt": "Use case: stylized-concept. Asset: ONE isolated transparent key-goods inventory icon master for the modern fantasy Legend of Dragoon interface. Input 1 is the original item reference: preserve its identity, silhouette and primary colour cues. Input 2 is STYLE ONLY: match polished fantasy materials, crisp clear outlines, subtle depth, upper-left highlights and restrained metallic accents. Draw ONLY: one compact bouquet of small white flowers with yellow centres and green stems, tied with a narrow cream ribbon. Single centred subject fully inside square canvas, generous empty margin, about80% canvas coverage. Original source is32x32 and the game draws it at16x16 logical pixels, so use broad readable forms and very little ornament; avoid microdetail. True transparent alpha outside subject; smooth sharp antialiased edges; no backdrop, ground shadow, checkerboard pixels, loose glow, card border, unrelated objects, labels or watermark. No readable writing unless explicitly required by the subject. Requested canvas1024x1024. Output only ONE item, not a sheet of reference icons.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/goods/kates_bouquet.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/goods/kates_bouquet.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-bd6c6039-2810-49d2-9391-8e705c0f69e8.png"
+    },
+    {
+      "name": "key_to_ship",
+      "category": "goods",
+      "subject": "one dark blue-steel ship key, a large angular open bow, short shaft with two teeth and a small chain loop, match original blue key rather than a gold key",
+      "prompt": "Use case: stylized-concept. Asset: ONE isolated transparent key-goods inventory icon master for the modern fantasy Legend of Dragoon interface. Input 1 is the original item reference: preserve its identity, silhouette and primary colour cues. Input 2 is STYLE ONLY: match polished fantasy materials, crisp clear outlines, subtle depth, upper-left highlights and restrained metallic accents. Draw ONLY: one dark blue-steel ship key, a large angular open bow, short shaft with two teeth and a small chain loop, match original blue key rather than a gold key. Single centred subject fully inside square canvas, generous empty margin, about80% canvas coverage. Original source is32x32 and the game draws it at16x16 logical pixels, so use broad readable forms and very little ornament; avoid microdetail. True transparent alpha outside subject; smooth sharp antialiased edges; no backdrop, ground shadow, checkerboard pixels, loose glow, card border, unrelated objects, labels or watermark. No readable writing unless explicitly required by the subject. Requested canvas1024x1024. Output only ONE item, not a sheet of reference icons.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/goods/key_to_ship.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/goods/key_to_ship.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-d2630743-9d98-4a2a-8381-5efec186e39a.png"
+    },
+    {
+      "name": "lavitzs_picture",
+      "category": "goods",
+      "subject": "one small rectangular gold-framed miniature keepsake portrait of the fictional blond knight in the original reference: fair face, short blond hair, green clothing and serious gentle expression; preserve the original face identity as far as a tiny inventory icon allows; no words",
+      "prompt": "Use case: stylized-concept. Asset: ONE isolated transparent key-goods inventory icon master for the modern fantasy Legend of Dragoon interface. Input 1 is the original item reference: preserve its identity, silhouette and primary colour cues. Input 2 is STYLE ONLY: match polished fantasy materials, crisp clear outlines, subtle depth, upper-left highlights and restrained metallic accents. Draw ONLY: one small rectangular gold-framed miniature keepsake portrait of the fictional blond knight in the original reference: fair face, short blond hair, green clothing and serious gentle expression; preserve the original face identity as far as a tiny inventory icon allows; no words. Single centred subject fully inside square canvas, generous empty margin, about80% canvas coverage. Original source is32x32 and the game draws it at16x16 logical pixels, so use broad readable forms and very little ornament; avoid microdetail. True transparent alpha outside subject; smooth sharp antialiased edges; no backdrop, ground shadow, checkerboard pixels, loose glow, card border, unrelated objects, labels or watermark. No readable writing unless explicitly required by the subject. Requested canvas1024x1024. Output only ONE item, not a sheet of reference icons.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/goods/lavitzs_picture.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/goods/lavitzs_picture.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-4e154671-a2a6-448b-8a14-b556d69ec3f9.png",
+      "refinement": {
+        "prompt": "Use case: precise-object-edit. Edit target is input1, the newly drawn Lavitz keepsake picture. Identity reference is input2, the game's original Lavitz face portrait. Change ONLY the person inside the gold picture frame to match Lavitz from input2. Preserve the existing frame, transparent exterior, overall composition, green clothing and polished fantasy painting style. Lavitz is a mature adult knight: broad angular jaw, defined cheekbones, narrower stern eyes, straight strong nose, short sandy-blond hair swept BACK from the forehead with a tidy flat/brushed-back top and short sides, a small gathered-back section. Match the original three-quarter head angle looking slightly left. Eye colour subdued grey-green/brown, no bright blue anime eyes. Remove tall spiky hair and dangling long bangs. Do not make him a teenage pretty-boy or a different character. Keep his face recognisable from the actual original portrait, translating its low-resolution features into clean painted detail without inventing ornaments. No text or new objects. Keep true transparent alpha outside the existing gold frame.",
+        "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-df25f583-05f6-418d-9e26-6b40afd6a5c2.png"
+      }
+    },
+    {
+      "name": "law_maker",
+      "category": "goods",
+      "subject": "one small elongated black-and-silver magical mechanical instrument with a bright green energy spine, angular silver forked tip and segmented dark handle, preserving the original diagonal silhouette",
+      "prompt": "Use case: stylized-concept. Asset: ONE isolated transparent key-goods inventory icon master for the modern fantasy Legend of Dragoon interface. Input 1 is the original item reference: preserve its identity, silhouette and primary colour cues. Input 2 is STYLE ONLY: match polished fantasy materials, crisp clear outlines, subtle depth, upper-left highlights and restrained metallic accents. Draw ONLY: one small elongated black-and-silver magical mechanical instrument with a bright green energy spine, angular silver forked tip and segmented dark handle, preserving the original diagonal silhouette. Single centred subject fully inside square canvas, generous empty margin, about80% canvas coverage. Original source is32x32 and the game draws it at16x16 logical pixels, so use broad readable forms and very little ornament; avoid microdetail. True transparent alpha outside subject; smooth sharp antialiased edges; no backdrop, ground shadow, checkerboard pixels, loose glow, card border, unrelated objects, labels or watermark. No readable writing unless explicitly required by the subject. Requested canvas1024x1024. Output only ONE item, not a sheet of reference icons.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/goods/law_maker.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/goods/law_maker.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-6932be5c-3ff8-4b32-8852-bf49be0f079d.png"
+    },
+    {
+      "name": "law_output",
+      "category": "goods",
+      "subject": "one small elongated silver-and-black magical mechanical instrument with a vivid lime-green angular segmented shaft, white angular tip and a dark tapered handle, preserve this reference's own shape instead of copying another item",
+      "prompt": "Use case: stylized-concept. Asset: ONE isolated transparent key-goods inventory icon master for the modern fantasy Legend of Dragoon interface. Input 1 is the original item reference: preserve its identity, silhouette and primary colour cues. Input 2 is STYLE ONLY: match polished fantasy materials, crisp clear outlines, subtle depth, upper-left highlights and restrained metallic accents. Draw ONLY: one small elongated silver-and-black magical mechanical instrument with a vivid lime-green angular segmented shaft, white angular tip and a dark tapered handle, preserve this reference's own shape instead of copying another item. Single centred subject fully inside square canvas, generous empty margin, about80% canvas coverage. Original source is32x32 and the game draws it at16x16 logical pixels, so use broad readable forms and very little ornament; avoid microdetail. True transparent alpha outside subject; smooth sharp antialiased edges; no backdrop, ground shadow, checkerboard pixels, loose glow, card border, unrelated objects, labels or watermark. No readable writing unless explicitly required by the subject. Requested canvas1024x1024. Output only ONE item, not a sheet of reference icons.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/goods/law_output.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/goods/law_output.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-fdfd4194-b885-4b9d-ae3b-b6e58a9af957.png"
+    },
+    {
+      "name": "letter_from_lynn",
+      "category": "goods",
+      "subject": "one short rolled parchment letter with a round golden wax seal and a narrow gold ribbon, cream paper and simple folded ends, no letters or words",
+      "prompt": "Use case: stylized-concept. Asset: ONE isolated transparent key-goods inventory icon master for the modern fantasy Legend of Dragoon interface. Input 1 is the original item reference: preserve its identity, silhouette and primary colour cues. Input 2 is STYLE ONLY: match polished fantasy materials, crisp clear outlines, subtle depth, upper-left highlights and restrained metallic accents. Draw ONLY: one short rolled parchment letter with a round golden wax seal and a narrow gold ribbon, cream paper and simple folded ends, no letters or words. Single centred subject fully inside square canvas, generous empty margin, about80% canvas coverage. Original source is32x32 and the game draws it at16x16 logical pixels, so use broad readable forms and very little ornament; avoid microdetail. True transparent alpha outside subject; smooth sharp antialiased edges; no backdrop, ground shadow, checkerboard pixels, loose glow, card border, unrelated objects, labels or watermark. No readable writing unless explicitly required by the subject. Requested canvas1024x1024. Output only ONE item, not a sheet of reference icons.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/goods/letter_from_lynn.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/goods/letter_from_lynn.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-f4bc26e0-42b7-4467-9fd2-e59592d1e30d.png"
+    },
+    {
+      "name": "magic_oil",
+      "category": "goods",
+      "subject": "one squat violet glass oil flask with a small neck and pale stopper, bright purple liquid and a restrained pale reflection, no label",
+      "prompt": "Use case: stylized-concept. Asset: ONE isolated transparent key-goods inventory icon master for the modern fantasy Legend of Dragoon interface. Input 1 is the original item reference: preserve its identity, silhouette and primary colour cues. Input 2 is STYLE ONLY: match polished fantasy materials, crisp clear outlines, subtle depth, upper-left highlights and restrained metallic accents. Draw ONLY: one squat violet glass oil flask with a small neck and pale stopper, bright purple liquid and a restrained pale reflection, no label. Single centred subject fully inside square canvas, generous empty margin, about80% canvas coverage. Original source is32x32 and the game draws it at16x16 logical pixels, so use broad readable forms and very little ornament; avoid microdetail. True transparent alpha outside subject; smooth sharp antialiased edges; no backdrop, ground shadow, checkerboard pixels, loose glow, card border, unrelated objects, labels or watermark. No readable writing unless explicitly required by the subject. Requested canvas1024x1024. Output only ONE item, not a sheet of reference icons.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/goods/magic_oil.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/goods/magic_oil.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-d1aead4d-d616-438b-b500-a198b96d138f.png"
+    },
+    {
+      "name": "moon_dagger",
+      "category": "goods",
+      "subject": "one compact dark violet ceremonial dagger with angular branching crossguard, a narrow pointed blade, purple crystal-like edge and a tiny pale glint; match the original pointed star-like knife silhouette",
+      "prompt": "Use case: stylized-concept. Asset: ONE isolated transparent key-goods inventory icon master for the modern fantasy Legend of Dragoon interface. Input 1 is the original item reference: preserve its identity, silhouette and primary colour cues. Input 2 is STYLE ONLY: match polished fantasy materials, crisp clear outlines, subtle depth, upper-left highlights and restrained metallic accents. Draw ONLY: one compact dark violet ceremonial dagger with angular branching crossguard, a narrow pointed blade, purple crystal-like edge and a tiny pale glint; match the original pointed star-like knife silhouette. Single centred subject fully inside square canvas, generous empty margin, about80% canvas coverage. Original source is32x32 and the game draws it at16x16 logical pixels, so use broad readable forms and very little ornament; avoid microdetail. True transparent alpha outside subject; smooth sharp antialiased edges; no backdrop, ground shadow, checkerboard pixels, loose glow, card border, unrelated objects, labels or watermark. No readable writing unless explicitly required by the subject. Requested canvas1024x1024. Output only ONE item, not a sheet of reference icons.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/goods/moon_dagger.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/goods/moon_dagger.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-d4fff341-43c0-4785-8110-fa73c310cbad.png"
+    },
+    {
+      "name": "moon_gem",
+      "category": "goods",
+      "subject": "one dark violet diamond-shaped moon gem with four strong pointed facets, a bright pale-gold centre and a thin violet glow contained inside its silhouette",
+      "prompt": "Use case: stylized-concept. Asset: ONE isolated transparent key-goods inventory icon master for the modern fantasy Legend of Dragoon interface. Input 1 is the original item reference: preserve its identity, silhouette and primary colour cues. Input 2 is STYLE ONLY: match polished fantasy materials, crisp clear outlines, subtle depth, upper-left highlights and restrained metallic accents. Draw ONLY: one dark violet diamond-shaped moon gem with four strong pointed facets, a bright pale-gold centre and a thin violet glow contained inside its silhouette. Single centred subject fully inside square canvas, generous empty margin, about80% canvas coverage. Original source is32x32 and the game draws it at16x16 logical pixels, so use broad readable forms and very little ornament; avoid microdetail. True transparent alpha outside subject; smooth sharp antialiased edges; no backdrop, ground shadow, checkerboard pixels, loose glow, card border, unrelated objects, labels or watermark. No readable writing unless explicitly required by the subject. Requested canvas1024x1024. Output only ONE item, not a sheet of reference icons.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/goods/moon_gem.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/goods/moon_gem.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-918dbc15-4b98-40e2-80d2-4b6b82830918.png"
+    },
+    {
+      "name": "moon_mirror",
+      "category": "goods",
+      "subject": "one compact silver-and-dark-blue starburst moon mirror, narrow symmetrical pointed rays around a small red centre, keep the clear pointed star silhouette",
+      "prompt": "Use case: stylized-concept. Asset: ONE isolated transparent key-goods inventory icon master for the modern fantasy Legend of Dragoon interface. Input 1 is the original item reference: preserve its identity, silhouette and primary colour cues. Input 2 is STYLE ONLY: match polished fantasy materials, crisp clear outlines, subtle depth, upper-left highlights and restrained metallic accents. Draw ONLY: one compact silver-and-dark-blue starburst moon mirror, narrow symmetrical pointed rays around a small red centre, keep the clear pointed star silhouette. Single centred subject fully inside square canvas, generous empty margin, about80% canvas coverage. Original source is32x32 and the game draws it at16x16 logical pixels, so use broad readable forms and very little ornament; avoid microdetail. True transparent alpha outside subject; smooth sharp antialiased edges; no backdrop, ground shadow, checkerboard pixels, loose glow, card border, unrelated objects, labels or watermark. No readable writing unless explicitly required by the subject. Requested canvas1024x1024. Output only ONE item, not a sheet of reference icons.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/goods/moon_mirror.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/goods/moon_mirror.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-ed1e2ebf-15e1-4094-ac1f-c3451d4f35a6.png"
+    },
+    {
+      "name": "pass_for_valley",
+      "category": "goods",
+      "subject": "one small diamond-shaped jade-green travel pass with cream parchment edges, simple central pale geometric crest and gold corner tabs; no writing",
+      "prompt": "Use case: stylized-concept. Asset: ONE isolated transparent key-goods inventory icon master for the modern fantasy Legend of Dragoon interface. Input 1 is the original item reference: preserve its identity, silhouette and primary colour cues. Input 2 is STYLE ONLY: match polished fantasy materials, crisp clear outlines, subtle depth, upper-left highlights and restrained metallic accents. Draw ONLY: one small diamond-shaped jade-green travel pass with cream parchment edges, simple central pale geometric crest and gold corner tabs; no writing. Single centred subject fully inside square canvas, generous empty margin, about80% canvas coverage. Original source is32x32 and the game draws it at16x16 logical pixels, so use broad readable forms and very little ornament; avoid microdetail. True transparent alpha outside subject; smooth sharp antialiased edges; no backdrop, ground shadow, checkerboard pixels, loose glow, card border, unrelated objects, labels or watermark. No readable writing unless explicitly required by the subject. Requested canvas1024x1024. Output only ONE item, not a sheet of reference icons.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/goods/pass_for_valley.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/goods/pass_for_valley.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-4bd9936e-f19d-42ab-9e8a-4a719eb02538.png"
+    },
+    {
+      "name": "prison_key",
+      "category": "goods",
+      "subject": "one old silver prison key with a large angular hollow bow, thick short shaft and square teeth, a simple clear diagonal key silhouette",
+      "prompt": "Use case: stylized-concept. Asset: ONE isolated transparent key-goods inventory icon master for the modern fantasy Legend of Dragoon interface. Input 1 is the original item reference: preserve its identity, silhouette and primary colour cues. Input 2 is STYLE ONLY: match polished fantasy materials, crisp clear outlines, subtle depth, upper-left highlights and restrained metallic accents. Draw ONLY: one old silver prison key with a large angular hollow bow, thick short shaft and square teeth, a simple clear diagonal key silhouette. Single centred subject fully inside square canvas, generous empty margin, about80% canvas coverage. Original source is32x32 and the game draws it at16x16 logical pixels, so use broad readable forms and very little ornament; avoid microdetail. True transparent alpha outside subject; smooth sharp antialiased edges; no backdrop, ground shadow, checkerboard pixels, loose glow, card border, unrelated objects, labels or watermark. No readable writing unless explicitly required by the subject. Requested canvas1024x1024. Output only ONE item, not a sheet of reference icons.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/goods/prison_key.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/goods/prison_key.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-67886454-5585-4dd9-a3b0-56f83059988c.png"
+    },
+    {
+      "name": "vanishing_stone",
+      "category": "goods",
+      "subject": "one small round iridescent stone, a deep blue centre surrounded by a single red-orange-and-pale spiral ring, preserve the original multicolour vortex motif, no loose glow beyond its rim",
+      "prompt": "Use case: stylized-concept. Asset: ONE isolated transparent key-goods inventory icon master for the modern fantasy Legend of Dragoon interface. Input 1 is the original item reference: preserve its identity, silhouette and primary colour cues. Input 2 is STYLE ONLY: match polished fantasy materials, crisp clear outlines, subtle depth, upper-left highlights and restrained metallic accents. Draw ONLY: one small round iridescent stone, a deep blue centre surrounded by a single red-orange-and-pale spiral ring, preserve the original multicolour vortex motif, no loose glow beyond its rim. Single centred subject fully inside square canvas, generous empty margin, about80% canvas coverage. Original source is32x32 and the game draws it at16x16 logical pixels, so use broad readable forms and very little ornament; avoid microdetail. True transparent alpha outside subject; smooth sharp antialiased edges; no backdrop, ground shadow, checkerboard pixels, loose glow, card border, unrelated objects, labels or watermark. No readable writing unless explicitly required by the subject. Requested canvas1024x1024. Output only ONE item, not a sheet of reference icons.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/goods/vanishing_stone.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/goods/vanishing_stone.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-a844b805-4bea-40ec-ad6a-a06e80513370.png"
+    },
+    {
+      "name": "war_bulletin",
+      "category": "goods",
+      "subject": "one small yellowed parchment war bulletin sheet with a folded corner, a dark-red header band and a few dark short horizontal ink strokes, no readable letters, words or numbers",
+      "prompt": "Use case: stylized-concept. Asset: ONE isolated transparent key-goods inventory icon master for the modern fantasy Legend of Dragoon interface. Input 1 is the original item reference: preserve its identity, silhouette and primary colour cues. Input 2 is STYLE ONLY: match polished fantasy materials, crisp clear outlines, subtle depth, upper-left highlights and restrained metallic accents. Draw ONLY: one small yellowed parchment war bulletin sheet with a folded corner, a dark-red header band and a few dark short horizontal ink strokes, no readable letters, words or numbers. Single centred subject fully inside square canvas, generous empty margin, about80% canvas coverage. Original source is32x32 and the game draws it at16x16 logical pixels, so use broad readable forms and very little ornament; avoid microdetail. True transparent alpha outside subject; smooth sharp antialiased edges; no backdrop, ground shadow, checkerboard pixels, loose glow, card border, unrelated objects, labels or watermark. No readable writing unless explicitly required by the subject. Requested canvas1024x1024. Output only ONE item, not a sheet of reference icons.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/goods/war_bulletin.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/goods/war_bulletin.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-59b313b4-cf28-43ad-af1b-4974d54d8edb.png"
+    },
+    {
+      "name": "stone-spiral-master",
+      "category": "goods",
+      "subject": "neutral shared spiral stone",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/goods/blue_stone.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/goods/red_stone.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/goods/yellow_stone.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "prompt": "Use case: stylized-concept. ONE neutral white/silver spiral-stone master, for making the blue/red/yellow key-stone variants of the three original references. Preserve their circular vortex silhouette: deep centre, broad curled spiral blades, a clear round outer rim. Monochrome white, grey and charcoal ONLY, no blue/red/yellow hue, no gold. Polished fantasy material and strong simple shape, readable at16x16 logical pixels. Single centred round vortex object, entirely inside square canvas with generous transparent margin. Smooth sharp edges and restrained upper-left highlights. True transparent alpha outside the circular form and between spiral tips where appropriate, no outside haze, no glow beyond silhouette, no text or labels, no backdrop or checkerboard, no additional objects. Requested1024x1024. This is one neutral master to be palette-baked consistently later, NOT three coloured copies.",
+      "file": "gfx/ui/modern/goods/stone-spiral-master.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-61014e1c-3071-4f21-b63c-0a35f45316ab.png"
+    },
+    {
+      "name": "spirit-orb-poses",
+      "category": "spirits",
+      "subject": "three neutral orb animation poses",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/spirits-original-evidence.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "prompt": "Use case: stylized-concept. Asset ONE sprite sheet with exactly THREE neutral Dragoon spirit orb poses, arranged one row of THREE equal SQUARE cells, requested1536x512. Input1 is native original evidence, eight palette rows and three pose columns; preserve the original three-column pose distinction but make all three new orbs MONOCHROME WHITE/SILVER/GREY, ready for palette baking into eight spirit colours. Input2 is visual style only. Every cell has the SAME circular outer silhouette, same size, same centre and same height, about75% of its cell width. A simple polished spherical crystal orb, no metal frame or jewellery, no runes or symbols. Pose0: rounded orb with broad upper-left white highlight. Pose1: the same orb with a thin bright vertical glint near its left-centre. Pose2: the same orb with the thin vertical glint near its right-centre. All neutral shading, no gold or coloured lighting. Bright highlights and charcoal bottom edge for contrast, subtle depth. True transparent alpha everywhere outside all three circles, no background or checkerboard, no outside glow, no labels, text, grid lines or decorations. Functional three-frame sprite sheet, identical outer shape across poses, not three different objects.",
+      "file": "gfx/ui/modern/spirits/spirit-orb-poses.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-9417dde7-bed8-48e2-8490-6a6af938a92a.png"
+    },
+    {
+      "name": "divine-overlay-poses",
+      "category": "spirits",
+      "subject": "two narrow Divine flash overlays",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/divine-overlays-original-evidence.png"
+      ],
+      "prompt": "Use case: stylized-concept. Asset ONE sprite sheet of exactly TWO isolated narrow golden-white vertical flash streaks for a fantasy game Divine transformation icon. Original reference shows two8x16 overlay pieces side by side; keep that simple narrow luminous streak meaning. Requested canvas512x512: exactly TWO equal cells256wide512high. Each cell has one thin vertical tapered amber-gold streak with a bright white core, occupying about15% of cell width and70% of cell height. Same centred position in both cells; first flash modest, second slightly brighter, no lateral movement. Only the narrow streak is visible; true transparent alpha in all space around it. No orb, diamond, badge, symbols, grid, labels, text, background, painted checkerboard, decorative stars or wide glow. Smooth clean tapered silhouette; the luminous effect stays inside the streak's narrow outline. These are two8x16 logical animation overlays, not standalone emblems.",
+      "file": "gfx/ui/modern/spirits/divine-overlay-poses.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-46592273-e8dd-4f8f-ac1b-9c230087c068.png"
+    }
+  ]
+}

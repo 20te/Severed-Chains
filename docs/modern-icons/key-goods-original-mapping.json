@@ -1,0 +1,418 @@
+{
+  "registeredGoods": [
+    {
+      "id": "lod:red_dragoon_spirit",
+      "sortingIndex": 10,
+      "explicitItemIcon": "RED_DRAGOON_SPIRIT"
+    },
+    {
+      "id": "lod:blue_dragoon_spirit",
+      "sortingIndex": 20,
+      "explicitItemIcon": "BLUE_DRAGOON_SPIRIT"
+    },
+    {
+      "id": "lod:jade_dragoon_spirit",
+      "sortingIndex": 30,
+      "explicitItemIcon": "JADE_DRAGOON_SPIRIT"
+    },
+    {
+      "id": "lod:gold_dragoon_spirit",
+      "sortingIndex": 40,
+      "explicitItemIcon": "GOLD_DRAGOON_SPIRIT"
+    },
+    {
+      "id": "lod:violet_dragoon_spirit",
+      "sortingIndex": 50,
+      "explicitItemIcon": "VIOLET_DRAGOON_SPIRIT"
+    },
+    {
+      "id": "lod:silver_dragoon_spirit",
+      "sortingIndex": 60,
+      "explicitItemIcon": "SILVER_DRAGOON_SPIRIT"
+    },
+    {
+      "id": "lod:dark_dragoon_spirit",
+      "sortingIndex": 70,
+      "explicitItemIcon": "DARK_DRAGOON_SPIRIT"
+    },
+    {
+      "id": "lod:divine_dragoon_spirit",
+      "sortingIndex": 80,
+      "explicitItemIcon": "DIVINE_DRAGOON_SPIRIT"
+    },
+    {
+      "id": "lod:war_bulletin",
+      "sortingIndex": 90,
+      "explicitItemIcon": null
+    },
+    {
+      "id": "lod:fathers_stone",
+      "sortingIndex": 100,
+      "explicitItemIcon": null
+    },
+    {
+      "id": "lod:prison_key",
+      "sortingIndex": 110,
+      "explicitItemIcon": null
+    },
+    {
+      "id": "lod:axe_from_shack",
+      "sortingIndex": 120,
+      "explicitItemIcon": "AXE"
+    },
+    {
+      "id": "lod:good_spirits",
+      "sortingIndex": 130,
+      "explicitItemIcon": "BLUE_POTION"
+    },
+    {
+      "id": "lod:shiny_bag",
+      "sortingIndex": 140,
+      "explicitItemIcon": "BAG"
+    },
+    {
+      "id": "lod:water_bottle",
+      "sortingIndex": 150,
+      "explicitItemIcon": "BLUE_POTION"
+    },
+    {
+      "id": "lod:life_water",
+      "sortingIndex": 160,
+      "explicitItemIcon": "BLUE_POTION"
+    },
+    {
+      "id": "lod:magic_oil",
+      "sortingIndex": 170,
+      "explicitItemIcon": null
+    },
+    {
+      "id": "lod:yellow_stone",
+      "sortingIndex": 180,
+      "explicitItemIcon": null
+    },
+    {
+      "id": "lod:blue_stone",
+      "sortingIndex": 190,
+      "explicitItemIcon": null
+    },
+    {
+      "id": "lod:red_stone",
+      "sortingIndex": 200,
+      "explicitItemIcon": null
+    },
+    {
+      "id": "lod:letter_from_lynn",
+      "sortingIndex": 210,
+      "explicitItemIcon": null
+    },
+    {
+      "id": "lod:pass_for_valley",
+      "sortingIndex": 220,
+      "explicitItemIcon": null
+    },
+    {
+      "id": "lod:kates_bouquet",
+      "sortingIndex": 230,
+      "explicitItemIcon": null
+    },
+    {
+      "id": "lod:key_to_ship",
+      "sortingIndex": 240,
+      "explicitItemIcon": null
+    },
+    {
+      "id": "lod:boat_license",
+      "sortingIndex": 250,
+      "explicitItemIcon": null
+    },
+    {
+      "id": "lod:dragon_blocker",
+      "sortingIndex": 260,
+      "explicitItemIcon": null
+    },
+    {
+      "id": "lod:moon_gem",
+      "sortingIndex": 270,
+      "explicitItemIcon": null
+    },
+    {
+      "id": "lod:moon_dagger",
+      "sortingIndex": 280,
+      "explicitItemIcon": null
+    },
+    {
+      "id": "lod:moon_mirror",
+      "sortingIndex": 290,
+      "explicitItemIcon": null
+    },
+    {
+      "id": "lod:omega_bomb",
+      "sortingIndex": 300,
+      "explicitItemIcon": "MAGIC"
+    },
+    {
+      "id": "lod:omega_master",
+      "sortingIndex": 310,
+      "explicitItemIcon": "MAGIC"
+    },
+    {
+      "id": "lod:law_maker",
+      "sortingIndex": 320,
+      "explicitItemIcon": null
+    },
+    {
+      "id": "lod:law_output",
+      "sortingIndex": 330,
+      "explicitItemIcon": null
+    },
+    {
+      "id": "lod:gold_dragoon_spirit_2",
+      "sortingIndex": 340,
+      "explicitItemIcon": null
+    },
+    {
+      "id": "lod:magic_shiny_bag",
+      "sortingIndex": 350,
+      "explicitItemIcon": "BAG"
+    },
+    {
+      "id": "lod:vanishing_stone",
+      "sortingIndex": 360,
+      "explicitItemIcon": null
+    },
+    {
+      "id": "lod:lavitzs_picture",
+      "sortingIndex": 370,
+      "explicitItemIcon": null
+    }
+  ],
+  "sourcePngs": [
+    {
+      "atlasId": "lod:blue_stone",
+      "file": "gfx/goods/blue_stone.png",
+      "sourceSize": [
+        32,
+        32
+      ],
+      "sha256": "633eb277fa6a25dabdaac9737d2cdf409a01143dfd641e01b54e166aaae6dbcd"
+    },
+    {
+      "atlasId": "lod:boat_license",
+      "file": "gfx/goods/boat_license.png",
+      "sourceSize": [
+        32,
+        32
+      ],
+      "sha256": "0573a9e25a370500caf2af13146713108a12e657bd0dd1a213d393dab47f1886"
+    },
+    {
+      "atlasId": "lod:dragon_block_staff",
+      "file": "gfx/goods/dragon_block_staff.png",
+      "sourceSize": [
+        32,
+        32
+      ],
+      "sha256": "adc49bf0a3cf2853f83c81b092183b5813fd23794b57f7e44b6581db312fc6e5"
+    },
+    {
+      "atlasId": "lod:fathers_stone",
+      "file": "gfx/goods/fathers_stone.png",
+      "sourceSize": [
+        32,
+        32
+      ],
+      "sha256": "de0223d328c4e4173cf994e95e58606a69379239b0892127e68f4e1c0dc52e6b"
+    },
+    {
+      "atlasId": "lod:good_spirits",
+      "file": "gfx/goods/good_spirits.png",
+      "sourceSize": [
+        32,
+        32
+      ],
+      "sha256": "88113acee8e812ba62fdb5fbe952e1b85c17711adf0582ef9e525db2cf715745"
+    },
+    {
+      "atlasId": "lod:kates_bouquet",
+      "file": "gfx/goods/kates_bouquet.png",
+      "sourceSize": [
+        32,
+        32
+      ],
+      "sha256": "740d9f0c28b2b8f5996ca9dcce54a3b0ed4fdff62d09e911ac8288ee7c4c790f"
+    },
+    {
+      "atlasId": "lod:key_to_ship",
+      "file": "gfx/goods/key_to_ship.png",
+      "sourceSize": [
+        32,
+        32
+      ],
+      "sha256": "19a4f28bb446de34827000aca7b7c2242833a0493c26166c9791fff4d5a0c5d4"
+    },
+    {
+      "atlasId": "lod:lavitzs_picture",
+      "file": "gfx/goods/lavitzs_picture.png",
+      "sourceSize": [
+        32,
+        32
+      ],
+      "sha256": "05640416cd3f766e8ed682c7950d5886f13ce83dfc1c9ea09da5b09684d5a843"
+    },
+    {
+      "atlasId": "lod:law_maker",
+      "file": "gfx/goods/law_maker.png",
+      "sourceSize": [
+        32,
+        32
+      ],
+      "sha256": "0253b745b3c1a066079cecbc30d38848c722aaf7bc58b2363cc141553e5370db"
+    },
+    {
+      "atlasId": "lod:law_output",
+      "file": "gfx/goods/law_output.png",
+      "sourceSize": [
+        32,
+        32
+      ],
+      "sha256": "ba05849ac1d42d07d4add9c3e7d276127ff55ba5f73733e1b0ba58128bf3ae92"
+    },
+    {
+      "atlasId": "lod:letter_from_lynn",
+      "file": "gfx/goods/letter_from_lynn.png",
+      "sourceSize": [
+        32,
+        32
+      ],
+      "sha256": "9256c10f08dba9593a8368bf3e9317e90d4edbec69d2834d8ae34a96b49c4ff5"
+    },
+    {
+      "atlasId": "lod:magic_oil",
+      "file": "gfx/goods/magic_oil.png",
+      "sourceSize": [
+        32,
+        32
+      ],
+      "sha256": "24f2ae469dcc3f5f4e338c55623106e0684dadff0879bf2b0c02ce2915857980"
+    },
+    {
+      "atlasId": "lod:moon_dagger",
+      "file": "gfx/goods/moon_dagger.png",
+      "sourceSize": [
+        32,
+        32
+      ],
+      "sha256": "cb0cc25ba0179379a30f446cddb3b6ff34327ddebd516194cc05cf4989c900cf"
+    },
+    {
+      "atlasId": "lod:moon_gem",
+      "file": "gfx/goods/moon_gem.png",
+      "sourceSize": [
+        32,
+        32
+      ],
+      "sha256": "269731983bcc5ddaee7ddbc1103330be11b09db445255e46389d086cfde2a923"
+    },
+    {
+      "atlasId": "lod:moon_mirror",
+      "file": "gfx/goods/moon_mirror.png",
+      "sourceSize": [
+        32,
+        32
+      ],
+      "sha256": "ea03ab4e8eb20b6e8eadf9d9bc4bb344156515340bea99576c682fe900a7f6d6"
+    },
+    {
+      "atlasId": "lod:pass_for_valley",
+      "file": "gfx/goods/pass_for_valley.png",
+      "sourceSize": [
+        32,
+        32
+      ],
+      "sha256": "28a575c3b31ff4080e6749a438874b46f2b868fc7a586181ccd4fb37c9540a5e"
+    },
+    {
+      "atlasId": "lod:prison_key",
+      "file": "gfx/goods/prison_key.png",
+      "sourceSize": [
+        32,
+        32
+      ],
+      "sha256": "f94561ee2bed91a8539937e8b5990dd9b15d90283f90334bec97e0c1ec41663a"
+    },
+    {
+      "atlasId": "lod:red_stone",
+      "file": "gfx/goods/red_stone.png",
+      "sourceSize": [
+        32,
+        32
+      ],
+      "sha256": "903b098621e3a238d3a26c9d22637b8978d0c27c5f216c54948e3c8ae2a4bd41"
+    },
+    {
+      "atlasId": "lod:vanishing_stone",
+      "file": "gfx/goods/vanishing_stone.png",
+      "sourceSize": [
+        32,
+        32
+      ],
+      "sha256": "6cf5fd1c87bb0435d0ef5b2662580aa4557bc850a136271dda63bfc4820cb0ae"
+    },
+    {
+      "atlasId": "lod:war_bulletin",
+      "file": "gfx/goods/war_bulletin.png",
+      "sourceSize": [
+        32,
+        32
+      ],
+      "sha256": "1dd40146e0c13f8a29d3e3d277caa78dd8dac591fc58fdfeed0413d69367ab65"
+    },
+    {
+      "atlasId": "lod:yellow_stone",
+      "file": "gfx/goods/yellow_stone.png",
+      "sourceSize": [
+        32,
+        32
+      ],
+      "sha256": "75f3bf74301f183f5bdfffc2b89ccfc0fd2b9c48c2beb88c303e4b2d8658d7ab"
+    }
+  ],
+  "standardItemOverrides": {
+    "lod:axe_from_shack": {
+      "name": "AXE",
+      "id": 1
+    },
+    "lod:good_spirits": {
+      "name": "BLUE_POTION",
+      "id": 33
+    },
+    "lod:shiny_bag": {
+      "name": "BAG",
+      "id": 29
+    },
+    "lod:water_bottle": {
+      "name": "BLUE_POTION",
+      "id": 33
+    },
+    "lod:life_water": {
+      "name": "BLUE_POTION",
+      "id": 33
+    },
+    "lod:omega_bomb": {
+      "name": "MAGIC",
+      "id": 38
+    },
+    "lod:omega_master": {
+      "name": "MAGIC",
+      "id": 38
+    },
+    "lod:magic_shiny_bag": {
+      "name": "BAG",
+      "id": 29
+    }
+  },
+  "modernAliases": {
+    "lod:dragon_blocker": "lod:dragon_block_staff",
+    "lod:gold_dragoon_spirit_2": "lod:gold_dragoon_spirit"
+  }
+}

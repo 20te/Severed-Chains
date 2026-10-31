@@ -1,0 +1,563 @@
+﻿[
+    {
+        "file":  "change-addition-poses.png",
+        "index":  0,
+        "sourceRect":  [
+                           0,
+                           0,
+                           624,
+                           887
+                       ],
+        "visibleBounds":  [
+                              72,
+                              154,
+                              579,
+                              703
+                          ],
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "change-addition-poses.png",
+        "index":  1,
+        "sourceRect":  [
+                           624,
+                           0,
+                           557,
+                           887
+                       ],
+        "visibleBounds":  [
+                              48,
+                              169,
+                              493,
+                              698
+                          ],
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "change-addition-poses.png",
+        "index":  2,
+        "sourceRect":  [
+                           1181,
+                           0,
+                           593,
+                           887
+                       ],
+        "visibleBounds":  [
+                              64,
+                              186,
+                              521,
+                              686
+                          ],
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "command-attack.png",
+        "index":  0,
+        "sourceRect":  [
+                           0,
+                           0,
+                           681,
+                           887
+                       ],
+        "visibleBounds":  [
+                              54,
+                              121,
+                              593,
+                              779
+                          ],
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "command-attack.png",
+        "index":  1,
+        "sourceRect":  [
+                           681,
+                           0,
+                           535,
+                           887
+                       ],
+        "visibleBounds":  [
+                              90,
+                              49,
+                              408,
+                              836
+                          ],
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "command-attack.png",
+        "index":  2,
+        "sourceRect":  [
+                           1216,
+                           0,
+                           558,
+                           887
+                       ],
+        "visibleBounds":  [
+                              130,
+                              24,
+                              440,
+                              843
+                          ],
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "command-dragoon-attack.png",
+        "index":  0,
+        "sourceRect":  [
+                           0,
+                           0,
+                           723,
+                           887
+                       ],
+        "visibleBounds":  [
+                              64,
+                              143,
+                              650,
+                              748
+                          ],
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "command-dragoon-attack.png",
+        "index":  1,
+        "sourceRect":  [
+                           723,
+                           0,
+                           491,
+                           887
+                       ],
+        "visibleBounds":  [
+                              77,
+                              80,
+                              374,
+                              823
+                          ],
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "command-dragoon-attack.png",
+        "index":  2,
+        "sourceRect":  [
+                           1214,
+                           0,
+                           560,
+                           887
+                       ],
+        "visibleBounds":  [
+                              118,
+                              61,
+                              427,
+                              826
+                          ],
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "command-escape.png",
+        "index":  0,
+        "sourceRect":  [
+                           0,
+                           0,
+                           692,
+                           887
+                       ],
+        "visibleBounds":  [
+                              63,
+                              198,
+                              618,
+                              725
+                          ],
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "command-escape.png",
+        "index":  1,
+        "sourceRect":  [
+                           692,
+                           0,
+                           606,
+                           887
+                       ],
+        "visibleBounds":  [
+                              77,
+                              170,
+                              525,
+                              757
+                          ],
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "command-escape.png",
+        "index":  2,
+        "sourceRect":  [
+                           1298,
+                           0,
+                           476,
+                           887
+                       ],
+        "visibleBounds":  [
+                              81,
+                              154,
+                              423,
+                              775
+                          ],
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "command-guard.png",
+        "index":  0,
+        "sourceRect":  [
+                           0,
+                           0,
+                           639,
+                           887
+                       ],
+        "visibleBounds":  [
+                              103,
+                              99,
+                              545,
+                              723
+                          ],
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "command-guard.png",
+        "index":  1,
+        "sourceRect":  [
+                           639,
+                           0,
+                           626,
+                           887
+                       ],
+        "visibleBounds":  [
+                              97,
+                              111,
+                              502,
+                              730
+                          ],
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "command-guard.png",
+        "index":  2,
+        "sourceRect":  [
+                           1265,
+                           0,
+                           509,
+                           887
+                       ],
+        "visibleBounds":  [
+                              126,
+                              115,
+                              427,
+                              724
+                          ],
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "command-items.png",
+        "index":  0,
+        "sourceRect":  [
+                           0,
+                           0,
+                           736,
+                           724
+                       ],
+        "visibleBounds":  [
+                              125,
+                              171,
+                              632,
+                              651
+                          ],
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "command-items.png",
+        "index":  1,
+        "sourceRect":  [
+                           736,
+                           0,
+                           716,
+                           724
+                       ],
+        "visibleBounds":  [
+                              104,
+                              145,
+                              619,
+                              664
+                          ],
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "command-items.png",
+        "index":  2,
+        "sourceRect":  [
+                           1452,
+                           0,
+                           720,
+                           724
+                       ],
+        "visibleBounds":  [
+                              98,
+                              50,
+                              657,
+                              672
+                          ],
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "command-special.png",
+        "index":  0,
+        "sourceRect":  [
+                           0,
+                           0,
+                           610,
+                           887
+                       ],
+        "visibleBounds":  [
+                              112,
+                              245,
+                              547,
+                              670
+                          ],
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "command-special.png",
+        "index":  1,
+        "sourceRect":  [
+                           610,
+                           0,
+                           559,
+                           887
+                       ],
+        "visibleBounds":  [
+                              66,
+                              245,
+                              497,
+                              670
+                          ],
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "command-special.png",
+        "index":  2,
+        "sourceRect":  [
+                           1169,
+                           0,
+                           605,
+                           887
+                       ],
+        "visibleBounds":  [
+                              63,
+                              245,
+                              495,
+                              670
+                          ],
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "command-spells.png",
+        "index":  0,
+        "sourceRect":  [
+                           0,
+                           0,
+                           645,
+                           887
+                       ],
+        "visibleBounds":  [
+                              66,
+                              100,
+                              547,
+                              710
+                          ],
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "command-spells.png",
+        "index":  1,
+        "sourceRect":  [
+                           645,
+                           0,
+                           483,
+                           887
+                       ],
+        "visibleBounds":  [
+                              99,
+                              80,
+                              384,
+                              786
+                          ],
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "command-spells.png",
+        "index":  2,
+        "sourceRect":  [
+                           1128,
+                           0,
+                           646,
+                           887
+                       ],
+        "visibleBounds":  [
+                              100,
+                              101,
+                              581,
+                              711
+                          ],
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "command-unused-slot.png",
+        "index":  0,
+        "sourceRect":  [
+                           0,
+                           0,
+                           604,
+                           887
+                       ],
+        "visibleBounds":  [
+                              122,
+                              150,
+                              495,
+                              706
+                          ],
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "command-unused-slot.png",
+        "index":  1,
+        "sourceRect":  [
+                           604,
+                           0,
+                           631,
+                           887
+                       ],
+        "visibleBounds":  [
+                              111,
+                              149,
+                              479,
+                              707
+                          ],
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "command-unused-slot.png",
+        "index":  2,
+        "sourceRect":  [
+                           1235,
+                           0,
+                           539,
+                           887
+                       ],
+        "visibleBounds":  [
+                              151,
+                              149,
+                              394,
+                              707
+                          ],
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "cross-button-poses.png",
+        "index":  0,
+        "sourceRect":  [
+                           0,
+                           0,
+                           723,
+                           724
+                       ],
+        "visibleBounds":  [
+                              17,
+                              139,
+                              697,
+                              559
+                          ],
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "cross-button-poses.png",
+        "index":  1,
+        "sourceRect":  [
+                           723,
+                           0,
+                           724,
+                           724
+                       ],
+        "visibleBounds":  [
+                              27,
+                              177,
+                              699,
+                              541
+                          ],
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "cross-button-poses.png",
+        "index":  2,
+        "sourceRect":  [
+                           1447,
+                           0,
+                           725,
+                           724
+                       ],
+        "visibleBounds":  [
+                              25,
+                              225,
+                              714,
+                              520
+                          ],
+        "edgeAlphaMax":  2
+    },
+    {
+        "file":  "eye-button-poses.png",
+        "index":  0,
+        "sourceRect":  [
+                           0,
+                           0,
+                           747,
+                           724
+                       ],
+        "visibleBounds":  [
+                              44,
+                              158,
+                              712,
+                              539
+                          ],
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "eye-button-poses.png",
+        "index":  1,
+        "sourceRect":  [
+                           747,
+                           0,
+                           722,
+                           724
+                       ],
+        "visibleBounds":  [
+                              39,
+                              196,
+                              656,
+                              517
+                          ],
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "eye-button-poses.png",
+        "index":  2,
+        "sourceRect":  [
+                           1469,
+                           0,
+                           703,
+                           724
+                       ],
+        "visibleBounds":  [
+                              67,
+                              193,
+                              606,
+                              527
+                          ],
+        "edgeAlphaMax":  0
+    }
+]

@@ -1,0 +1,161 @@
+{
+  "generator": "image_gen",
+  "assets": [
+    {
+      "name": "button-circle",
+      "kind": "button",
+      "glyph": 134,
+      "label": "circle",
+      "prompt": "Use case: stylized-concept. ONE standalone fantasy game controller-button icon. Original reference is the old button strip; approved sheet is STYLE ONLY. A round bronze button token, restrained bevelled metallic outer rim and dark warm-brown face. On its face put ONLY one hollow circular O-shaped outline in bright ivory, perfectly centred and very readable at16x16 logical pixels. Keep the symbol broad and simple, not engraved fine lines. Front-facing disc, no perspective tilt, no filigree, no stars, no extra decorations. Square canvas1024x1024 requested, single disc about80% canvas width, fully visible with generous transparent margin. Smooth crisp anti-aliased outline. True transparent alpha outside disc, no backdrop, checkerboard pixels, loose glow, ground shadow, card, letters, text labels or watermark. Exactly one button, no other icons.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/menu-buttons-original.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/menu/button-circle.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-f2c5d32c-88c4-4eba-a5db-49eb5b7f64fd.png"
+    },
+    {
+      "name": "button-cross",
+      "kind": "button",
+      "glyph": 135,
+      "label": "cross",
+      "prompt": "Use case: stylized-concept. ONE standalone fantasy game controller-button icon. Original reference is the old button strip; approved sheet is STYLE ONLY. A round bronze button token, restrained bevelled metallic outer rim and dark warm-brown face. On its face put ONLY one clear diagonal X-shaped cross in bright ivory, perfectly centred and very readable at16x16 logical pixels. Keep the symbol broad and simple, not engraved fine lines. Front-facing disc, no perspective tilt, no filigree, no stars, no extra decorations. Square canvas1024x1024 requested, single disc about80% canvas width, fully visible with generous transparent margin. Smooth crisp anti-aliased outline. True transparent alpha outside disc, no backdrop, checkerboard pixels, loose glow, ground shadow, card, letters, text labels or watermark. Exactly one button, no other icons.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/menu-buttons-original.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/menu/button-cross.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-50490f31-3904-47c1-b771-b7c7f79c5568.png"
+    },
+    {
+      "name": "button-square",
+      "kind": "button",
+      "glyph": 136,
+      "label": "square",
+      "prompt": "Use case: stylized-concept. ONE standalone fantasy game controller-button icon. Original reference is the old button strip; approved sheet is STYLE ONLY. A round bronze button token, restrained bevelled metallic outer rim and dark warm-brown face. On its face put ONLY one hollow square outline in bright ivory, perfectly centred and very readable at16x16 logical pixels. Keep the symbol broad and simple, not engraved fine lines. Front-facing disc, no perspective tilt, no filigree, no stars, no extra decorations. Square canvas1024x1024 requested, single disc about80% canvas width, fully visible with generous transparent margin. Smooth crisp anti-aliased outline. True transparent alpha outside disc, no backdrop, checkerboard pixels, loose glow, ground shadow, card, letters, text labels or watermark. Exactly one button, no other icons.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/menu-buttons-original.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/menu/button-square.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-7954a5ac-8cb6-4144-ad62-9343b4518e33.png"
+    },
+    {
+      "name": "button-triangle",
+      "kind": "button",
+      "glyph": 137,
+      "label": "triangle",
+      "prompt": "Use case: stylized-concept. ONE standalone fantasy game controller-button icon. Original reference is the old button strip; approved sheet is STYLE ONLY. A round bronze button token, restrained bevelled metallic outer rim and dark warm-brown face. On its face put ONLY one hollow upward-pointing triangle outline in bright ivory, perfectly centred and very readable at16x16 logical pixels. Keep the symbol broad and simple, not engraved fine lines. Front-facing disc, no perspective tilt, no filigree, no stars, no extra decorations. Square canvas1024x1024 requested, single disc about80% canvas width, fully visible with generous transparent margin. Smooth crisp anti-aliased outline. True transparent alpha outside disc, no backdrop, checkerboard pixels, loose glow, ground shadow, card, letters, text labels or watermark. Exactly one button, no other icons.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/menu-buttons-original.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/menu/button-triangle.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-ca35c302-b3ab-413a-9ab7-2851d6ff9b35.png"
+    },
+    {
+      "name": "button-r1",
+      "kind": "button",
+      "glyph": 138,
+      "label": "R1",
+      "prompt": "Use case: stylized-concept. ONE fantasy game shoulder-button prompt. Draw one compact horizontal rounded-rectangle bronze button with dark warm-brown face and a thin restrained bevelled metal rim. Text on face, exactly and ONLY: \"R1\". Two characters, uppercase letter and numeral, bold simple ivory lettering, clearly legible at24x16 logical pixels, perfectly centred. Original input reference is the legacy button strip; second reference is approved fantasy style only. Front-facing 3:2 button shape, no perspective tilt, no ornament or microengraving. Single isolated button fully inside square1024x1024 canvas, ample true transparent margin. Smooth clean edges, no outer glow, no shadow beyond silhouette, no background, checkerboard, label card, extra letters, logos or other objects. Do not draw multiple buttons.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/menu-buttons-original.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/menu/button-r1.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-6c87e1a9-9b4f-42de-ae3f-3795cd1112d6.png"
+    },
+    {
+      "name": "button-r2",
+      "kind": "button",
+      "glyph": 139,
+      "label": "R2",
+      "prompt": "Use case: stylized-concept. ONE fantasy game shoulder-button prompt. Draw one compact horizontal rounded-rectangle bronze button with dark warm-brown face and a thin restrained bevelled metal rim. Text on face, exactly and ONLY: \"R2\". Two characters, uppercase letter and numeral, bold simple ivory lettering, clearly legible at24x16 logical pixels, perfectly centred. Original input reference is the legacy button strip; second reference is approved fantasy style only. Front-facing 3:2 button shape, no perspective tilt, no ornament or microengraving. Single isolated button fully inside square1024x1024 canvas, ample true transparent margin. Smooth clean edges, no outer glow, no shadow beyond silhouette, no background, checkerboard, label card, extra letters, logos or other objects. Do not draw multiple buttons.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/menu-buttons-original.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/menu/button-r2.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-4bdfcd7c-b658-429d-ac39-04590e39e3e3.png"
+    },
+    {
+      "name": "button-l1",
+      "kind": "button",
+      "glyph": 140,
+      "label": "L1",
+      "prompt": "Use case: stylized-concept. ONE fantasy game shoulder-button prompt. Draw one compact horizontal rounded-rectangle bronze button with dark warm-brown face and a thin restrained bevelled metal rim. Text on face, exactly and ONLY: \"L1\". Two characters, uppercase letter and numeral, bold simple ivory lettering, clearly legible at24x16 logical pixels, perfectly centred. Original input reference is the legacy button strip; second reference is approved fantasy style only. Front-facing 3:2 button shape, no perspective tilt, no ornament or microengraving. Single isolated button fully inside square1024x1024 canvas, ample true transparent margin. Smooth clean edges, no outer glow, no shadow beyond silhouette, no background, checkerboard, label card, extra letters, logos or other objects. Do not draw multiple buttons.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/menu-buttons-original.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/menu/button-l1.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-57160813-811b-4678-83e3-43692fafa663.png"
+    },
+    {
+      "name": "button-l2",
+      "kind": "button",
+      "glyph": 141,
+      "label": "L2",
+      "prompt": "Use case: stylized-concept. ONE fantasy game shoulder-button prompt. Draw one compact horizontal rounded-rectangle bronze button with dark warm-brown face and a thin restrained bevelled metal rim. Text on face, exactly and ONLY: \"L2\". Two characters, uppercase letter and numeral, bold simple ivory lettering, clearly legible at24x16 logical pixels, perfectly centred. Original input reference is the legacy button strip; second reference is approved fantasy style only. Front-facing 3:2 button shape, no perspective tilt, no ornament or microengraving. Single isolated button fully inside square1024x1024 canvas, ample true transparent margin. Smooth clean edges, no outer glow, no shadow beyond silhouette, no background, checkerboard, label card, extra letters, logos or other objects. Do not draw multiple buttons.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/menu-buttons-original.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/menu/button-l2.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-23b0dcfd-0ba0-4ff3-aa95-ebcefe82edef.png"
+    },
+    {
+      "name": "checkbox-unchecked",
+      "kind": "checkbox",
+      "checked": false,
+      "prompt": "Use case: stylized-concept. ONE settings-checkbox state icon for a fantasy RPG. Original first input is the existing checkbox sheet; second input is approved style only. A round bronze outer ring with restrained polished bevel and a dark warm-brown empty centre. Front-facing, circular silhouette, exactly the same simple outline used for fantasy button tokens. UNCHECKED state: completely empty dark centre; NO X, NO check, NO inner glyph or extra circle. Readable at14x14 logical pixels, broad clear shapes, no filigree. One centred icon on square1024x1024 canvas, disc occupies80% of width with generous clear margin. True transparent alpha outside circle, smooth anti-aliased edges, no backdrop, no checkerboard, no outside glow or shadow, no text, no label card or other objects.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/ui/ui.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/menu/checkbox-unchecked.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-2060993d-ccd3-4b21-a28f-854bdedd7393.png"
+    },
+    {
+      "name": "checkbox-checked",
+      "kind": "checkbox",
+      "checked": true,
+      "prompt": "Use case: stylized-concept. ONE settings-checkbox state icon for a fantasy RPG. Original first input is the existing checkbox sheet; second input is approved style only. A round bronze outer ring with restrained polished bevel and a dark warm-brown empty centre. Front-facing, circular silhouette, exactly the same simple outline used for fantasy button tokens. CHECKED state: place one bold ivory diagonal X clearly in the centre; this X is the only interior mark. Readable at14x14 logical pixels, broad clear shapes, no filigree. One centred icon on square1024x1024 canvas, disc occupies80% of width with generous clear margin. True transparent alpha outside circle, smooth anti-aliased edges, no backdrop, no checkerboard, no outside glow or shadow, no text, no label card or other objects.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/ui/ui.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/menu/checkbox-checked.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-28c6a26d-2860-41cc-9714-14a9c984ede9.png"
+    },
+    {
+      "name": "cursor-turn-poses",
+      "kind": "cursor",
+      "columns": 4,
+      "rows": 2,
+      "frameCount": 8,
+      "prompt": "Use case: stylized-concept. ONE functional fantasy game cursor sprite sheet: exactly EIGHT poses in a precise FOUR-column TWO-row grid of equal SQUARE cells, requested1536x768. First input is legacy cursor evidence, second input is approved style only. Every cell contains the SAME polished sapphire-blue circular lens/disc with a thin dark-blue/silver rim and a simple gold RIGHT-pointing triangular arrow at its centre. Consistent body size, centre, height, lighting and camera in every cell; about70% cell width. Front-facing fantasy interface icon, broad simple forms, readable at16x16 logical pixels; no filigree, text or extra ornaments. TURN/SHIMMER variant, row-major pose order0..7: keep the sapphire disc fully open in all poses. The gold triangular arrow narrows horizontally to suggest a vertical-axis turn: full width, three-quarter width, half width, narrow edge, half width, three-quarter width, full width, full width. The arrow always points RIGHT, no direction reversal. A subtle blue glint moves across the disc; outer circular silhouette must stay identical. True transparent alpha outside each cursor, generous empty gaps, all eight cells occupied. No backdrop or painted checkerboard, no grid lines, no labels or numbers, no external glow or shadows. Do not draw different designs, extra objects or poses. This is one eight-frame sprite sheet.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/menu-cursor-states-original.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/menu/cursor-turn-poses.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-5d06f65a-719b-49c2-b906-7a4552090e5a.png"
+    },
+    {
+      "name": "cursor-blink-poses",
+      "kind": "cursor",
+      "columns": 4,
+      "rows": 2,
+      "frameCount": 8,
+      "prompt": "Use case: stylized-concept. ONE functional fantasy game cursor sprite sheet: exactly EIGHT poses in a precise FOUR-column TWO-row grid of equal SQUARE cells, requested1536x768. First input is legacy cursor evidence, second input is approved style only. Every cell contains the SAME polished sapphire-blue circular lens/disc with a thin dark-blue/silver rim and a simple gold RIGHT-pointing triangular arrow at its centre. Consistent body size, centre, height, lighting and camera in every cell; about70% cell width. Front-facing fantasy interface icon, broad simple forms, readable at16x16 logical pixels; no filigree, text or extra ornaments. BLINK variant, row-major pose order0..7: the blue lens aperture and gold arrow are fully visible, three-quarter open, half open, almost closed (a narrow horizontal blue slit with a hint of gold), half open, three-quarter open, fully open, fully open. Keep the outer circular rim in the SAME place and same size through every pose; eyelid-like closing/opening affects only the centre. True transparent alpha outside each cursor, generous empty gaps, all eight cells occupied. No backdrop or painted checkerboard, no grid lines, no labels or numbers, no external glow or shadows. Do not draw different designs, extra objects or poses. This is one eight-frame sprite sheet.",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/menu-cursor-states-original.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png"
+      ],
+      "file": "gfx/ui/modern/menu/cursor-blink-poses.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-7439982b-4dff-4f4e-b845-efb71eb01f36.png"
+    }
+  ]
+}

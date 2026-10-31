@@ -1,0 +1,38 @@
+{
+  "image": "alert.png",
+  "logicalFrameSize": [
+    24,
+    24
+  ],
+  "originalUv": [
+    24,
+    64
+  ],
+  "originalClut": [
+    976,
+    464
+  ],
+  "originalPalettePSX15": [
+    0,
+    767,
+    568,
+    467,
+    1057,
+    40101,
+    1057,
+    202,
+    402,
+    767,
+    992,
+    992,
+    992,
+    992,
+    992,
+    33760
+  ],
+  "status": "artwork candidate; runtime rendering pending",
+  "sourceSize": [
+    1254,
+    1254
+  ]
+}

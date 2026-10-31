@@ -1,0 +1,274 @@
+﻿[
+    {
+        "file":  "cursor-turn-poses",
+        "index":  0,
+        "sourceRect":  [
+                           0,
+                           0,
+                           443,
+                           443
+                       ],
+        "visibleBounds":  [
+                              54,
+                              65,
+                              390,
+                              391
+                          ],
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "cursor-turn-poses",
+        "index":  1,
+        "sourceRect":  [
+                           443,
+                           0,
+                           444,
+                           443
+                       ],
+        "visibleBounds":  [
+                              55,
+                              65,
+                              390,
+                              391
+                          ],
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "cursor-turn-poses",
+        "index":  2,
+        "sourceRect":  [
+                           887,
+                           0,
+                           443,
+                           443
+                       ],
+        "visibleBounds":  [
+                              54,
+                              66,
+                              390,
+                              391
+                          ],
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "cursor-turn-poses",
+        "index":  3,
+        "sourceRect":  [
+                           1330,
+                           0,
+                           444,
+                           443
+                       ],
+        "visibleBounds":  [
+                              55,
+                              66,
+                              390,
+                              391
+                          ],
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "cursor-turn-poses",
+        "index":  4,
+        "sourceRect":  [
+                           0,
+                           443,
+                           443,
+                           444
+                       ],
+        "visibleBounds":  [
+                              54,
+                              67,
+                              390,
+                              391
+                          ],
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "cursor-turn-poses",
+        "index":  5,
+        "sourceRect":  [
+                           443,
+                           443,
+                           444,
+                           444
+                       ],
+        "visibleBounds":  [
+                              55,
+                              66,
+                              390,
+                              391
+                          ],
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "cursor-turn-poses",
+        "index":  6,
+        "sourceRect":  [
+                           887,
+                           443,
+                           443,
+                           444
+                       ],
+        "visibleBounds":  [
+                              54,
+                              67,
+                              390,
+                              391
+                          ],
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "cursor-turn-poses",
+        "index":  7,
+        "sourceRect":  [
+                           1330,
+                           443,
+                           444,
+                           444
+                       ],
+        "visibleBounds":  [
+                              55,
+                              67,
+                              390,
+                              391
+                          ],
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "cursor-blink-poses",
+        "index":  0,
+        "sourceRect":  [
+                           0,
+                           0,
+                           443,
+                           443
+                       ],
+        "visibleBounds":  [
+                              51,
+                              51,
+                              393,
+                              389
+                          ],
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "cursor-blink-poses",
+        "index":  1,
+        "sourceRect":  [
+                           443,
+                           0,
+                           444,
+                           443
+                       ],
+        "visibleBounds":  [
+                              51,
+                              51,
+                              394,
+                              389
+                          ],
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "cursor-blink-poses",
+        "index":  2,
+        "sourceRect":  [
+                           887,
+                           0,
+                           443,
+                           443
+                       ],
+        "visibleBounds":  [
+                              50,
+                              51,
+                              393,
+                              389
+                          ],
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "cursor-blink-poses",
+        "index":  3,
+        "sourceRect":  [
+                           1330,
+                           0,
+                           444,
+                           443
+                       ],
+        "visibleBounds":  [
+                              51,
+                              51,
+                              394,
+                              389
+                          ],
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "cursor-blink-poses",
+        "index":  4,
+        "sourceRect":  [
+                           0,
+                           443,
+                           443,
+                           444
+                       ],
+        "visibleBounds":  [
+                              50,
+                              51,
+                              393,
+                              389
+                          ],
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "cursor-blink-poses",
+        "index":  5,
+        "sourceRect":  [
+                           443,
+                           443,
+                           444,
+                           444
+                       ],
+        "visibleBounds":  [
+                              51,
+                              51,
+                              394,
+                              389
+                          ],
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "cursor-blink-poses",
+        "index":  6,
+        "sourceRect":  [
+                           887,
+                           443,
+                           443,
+                           444
+                       ],
+        "visibleBounds":  [
+                              50,
+                              51,
+                              393,
+                              389
+                          ],
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "cursor-blink-poses",
+        "index":  7,
+        "sourceRect":  [
+                           1330,
+                           443,
+                           444,
+                           444
+                       ],
+        "visibleBounds":  [
+                              51,
+                              51,
+                              394,
+                              389
+                          ],
+        "edgeAlphaMax":  1
+    }
+]

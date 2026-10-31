@@ -1,0 +1,1832 @@
+{
+  "sources": [
+    {
+      "file": "DRGN0.BIN/4113/0",
+      "sha256": "f2c1e95184598a2db058a078affd4f9e3c9cbea749f90843e1d665b682ca52e4"
+    },
+    {
+      "file": "DRGN0.BIN/4113/1",
+      "sha256": "d3aeb37db7ae1c3951933ee1dd89c1537c0f6bab6b29a926e25a14bc2c41100d"
+    },
+    {
+      "file": "DRGN0.BIN/4113/2",
+      "sha256": "b2a7ea197b475dde056a444bc217f3ea102cf2c3243ed9da7b3cc112d3eeffef"
+    },
+    {
+      "file": "DRGN0.BIN/4113/3",
+      "sha256": "e9cf1cea7ae493b7c6575150c0a7743319e210f1057e5bfec9245da9dbaf5fea"
+    },
+    {
+      "file": "DRGN0.BIN/4113/4",
+      "sha256": "578f8eecd5377a6be20091248500f4a2908d316ceb166b460dd14e598654c162"
+    },
+    {
+      "file": "DRGN0.BIN/4113/5",
+      "sha256": "2cca72ddc1e65d9f26e4a4adabc84fb51081515249ec093505783fd4f98b5990"
+    }
+  ],
+  "commands": [
+    {
+      "slot": 0,
+      "name": "guard",
+      "pose": 0,
+      "uv": [
+        112,
+        64,
+        16,
+        16,
+        28
+      ],
+      "blend": 0,
+      "visibleBounds": [
+        1,
+        0,
+        15,
+        16
+      ]
+    },
+    {
+      "slot": 0,
+      "name": "guard",
+      "pose": 1,
+      "uv": [
+        112,
+        80,
+        16,
+        16,
+        28
+      ],
+      "blend": 0,
+      "visibleBounds": [
+        2,
+        1,
+        14,
+        16
+      ]
+    },
+    {
+      "slot": 0,
+      "name": "guard",
+      "pose": 2,
+      "uv": [
+        112,
+        96,
+        16,
+        16,
+        28
+      ],
+      "blend": 0,
+      "visibleBounds": [
+        1,
+        0,
+        15,
+        16
+      ]
+    },
+    {
+      "slot": 1,
+      "name": "transform-legacy",
+      "pose": 0,
+      "uv": [
+        80,
+        64,
+        16,
+        16,
+        25
+      ],
+      "blend": -1,
+      "visibleBounds": [
+        0,
+        0,
+        16,
+        16
+      ]
+    },
+    {
+      "slot": 1,
+      "name": "transform-legacy",
+      "pose": 1,
+      "uv": [
+        80,
+        80,
+        16,
+        16,
+        25
+      ],
+      "blend": -1,
+      "visibleBounds": [
+        0,
+        0,
+        16,
+        16
+      ]
+    },
+    {
+      "slot": 1,
+      "name": "transform-legacy",
+      "pose": 2,
+      "uv": [
+        80,
+        96,
+        16,
+        16,
+        25
+      ],
+      "blend": -1,
+      "visibleBounds": [
+        0,
+        0,
+        15,
+        16
+      ]
+    },
+    {
+      "slot": 2,
+      "name": "spells",
+      "pose": 0,
+      "uv": [
+        64,
+        64,
+        16,
+        16,
+        24
+      ],
+      "blend": 1,
+      "visibleBounds": [
+        0,
+        0,
+        15,
+        15
+      ]
+    },
+    {
+      "slot": 2,
+      "name": "spells",
+      "pose": 1,
+      "uv": [
+        64,
+        80,
+        16,
+        24,
+        24
+      ],
+      "blend": 1,
+      "visibleBounds": [
+        2,
+        0,
+        14,
+        24
+      ]
+    },
+    {
+      "slot": 2,
+      "name": "spells",
+      "pose": 2,
+      "uv": [
+        64,
+        104,
+        16,
+        24,
+        24
+      ],
+      "blend": 1,
+      "visibleBounds": [
+        1,
+        8,
+        16,
+        23
+      ]
+    },
+    {
+      "slot": 3,
+      "name": "attack",
+      "pose": 0,
+      "uv": [
+        16,
+        64,
+        16,
+        16,
+        21
+      ],
+      "blend": -1,
+      "visibleBounds": [
+        0,
+        0,
+        15,
+        15
+      ]
+    },
+    {
+      "slot": 3,
+      "name": "attack",
+      "pose": 1,
+      "uv": [
+        16,
+        80,
+        16,
+        24,
+        21
+      ],
+      "blend": -1,
+      "visibleBounds": [
+        2,
+        4,
+        14,
+        23
+      ]
+    },
+    {
+      "slot": 3,
+      "name": "attack",
+      "pose": 2,
+      "uv": [
+        16,
+        104,
+        16,
+        24,
+        21
+      ],
+      "blend": -1,
+      "visibleBounds": [
+        4,
+        2,
+        13,
+        24
+      ]
+    },
+    {
+      "slot": 4,
+      "name": "items",
+      "pose": 0,
+      "uv": [
+        32,
+        64,
+        16,
+        16,
+        22
+      ],
+      "blend": -1,
+      "visibleBounds": [
+        1,
+        0,
+        16,
+        16
+      ]
+    },
+    {
+      "slot": 4,
+      "name": "items",
+      "pose": 1,
+      "uv": [
+        32,
+        80,
+        16,
+        24,
+        22
+      ],
+      "blend": -1,
+      "visibleBounds": [
+        1,
+        6,
+        16,
+        24
+      ]
+    },
+    {
+      "slot": 4,
+      "name": "items",
+      "pose": 2,
+      "uv": [
+        32,
+        104,
+        16,
+        24,
+        22
+      ],
+      "blend": -1,
+      "visibleBounds": [
+        1,
+        6,
+        16,
+        24
+      ]
+    },
+    {
+      "slot": 5,
+      "name": "escape",
+      "pose": 0,
+      "uv": [
+        48,
+        64,
+        16,
+        16,
+        23
+      ],
+      "blend": -1,
+      "visibleBounds": [
+        3,
+        1,
+        16,
+        16
+      ]
+    },
+    {
+      "slot": 5,
+      "name": "escape",
+      "pose": 1,
+      "uv": [
+        48,
+        80,
+        16,
+        24,
+        23
+      ],
+      "blend": -1,
+      "visibleBounds": [
+        3,
+        7,
+        15,
+        24
+      ]
+    },
+    {
+      "slot": 5,
+      "name": "escape",
+      "pose": 2,
+      "uv": [
+        48,
+        104,
+        16,
+        24,
+        23
+      ],
+      "blend": -1,
+      "visibleBounds": [
+        3,
+        7,
+        15,
+        24
+      ]
+    },
+    {
+      "slot": 6,
+      "name": "special",
+      "pose": 0,
+      "uv": [
+        96,
+        64,
+        16,
+        16,
+        26
+      ],
+      "blend": 0,
+      "visibleBounds": [
+        1,
+        1,
+        15,
+        15
+      ]
+    },
+    {
+      "slot": 6,
+      "name": "special",
+      "pose": 1,
+      "uv": [
+        96,
+        80,
+        16,
+        16,
+        26
+      ],
+      "blend": 0,
+      "visibleBounds": [
+        1,
+        1,
+        15,
+        15
+      ]
+    },
+    {
+      "slot": 6,
+      "name": "special",
+      "pose": 2,
+      "uv": [
+        96,
+        96,
+        16,
+        16,
+        26
+      ],
+      "blend": 0,
+      "visibleBounds": [
+        1,
+        1,
+        15,
+        15
+      ]
+    },
+    {
+      "slot": 7,
+      "name": "unused-slot",
+      "pose": 0,
+      "uv": [
+        112,
+        64,
+        16,
+        16,
+        13
+      ],
+      "blend": 0,
+      "visibleBounds": [
+        2,
+        0,
+        15,
+        15
+      ]
+    },
+    {
+      "slot": 7,
+      "name": "unused-slot",
+      "pose": 1,
+      "uv": [
+        112,
+        80,
+        16,
+        16,
+        13
+      ],
+      "blend": 0,
+      "visibleBounds": [
+        2,
+        1,
+        14,
+        15
+      ]
+    },
+    {
+      "slot": 7,
+      "name": "unused-slot",
+      "pose": 2,
+      "uv": [
+        112,
+        96,
+        16,
+        16,
+        13
+      ],
+      "blend": 0,
+      "visibleBounds": [
+        1,
+        0,
+        14,
+        15
+      ]
+    },
+    {
+      "slot": 8,
+      "name": "dragoon-attack",
+      "pose": 0,
+      "uv": [
+        0,
+        64,
+        16,
+        16,
+        20
+      ],
+      "blend": -1,
+      "visibleBounds": [
+        0,
+        0,
+        16,
+        16
+      ]
+    },
+    {
+      "slot": 8,
+      "name": "dragoon-attack",
+      "pose": 1,
+      "uv": [
+        0,
+        80,
+        16,
+        24,
+        20
+      ],
+      "blend": -1,
+      "visibleBounds": [
+        2,
+        4,
+        14,
+        23
+      ]
+    },
+    {
+      "slot": 8,
+      "name": "dragoon-attack",
+      "pose": 2,
+      "uv": [
+        0,
+        104,
+        16,
+        24,
+        20
+      ],
+      "blend": -1,
+      "visibleBounds": [
+        4,
+        2,
+        13,
+        24
+      ]
+    }
+  ],
+  "prompts": [
+    {
+      "index": 0,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        184,
+        96,
+        24,
+        16,
+        42
+      ],
+      "signedSize": [
+        24,
+        16
+      ],
+      "uv": [
+        184,
+        96,
+        24,
+        16,
+        42
+      ],
+      "visibleBounds": [
+        0,
+        4,
+        23,
+        16
+      ]
+    },
+    {
+      "index": 1,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        208,
+        96,
+        24,
+        16,
+        42
+      ],
+      "signedSize": [
+        24,
+        16
+      ],
+      "uv": [
+        208,
+        96,
+        24,
+        16,
+        42
+      ],
+      "visibleBounds": [
+        0,
+        3,
+        23,
+        16
+      ]
+    },
+    {
+      "index": 2,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        232,
+        96,
+        23,
+        23,
+        42
+      ],
+      "signedSize": [
+        23,
+        23
+      ],
+      "uv": [
+        232,
+        96,
+        23,
+        23,
+        42
+      ],
+      "visibleBounds": [
+        0,
+        2,
+        23,
+        19
+      ]
+    },
+    {
+      "index": 3,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        16,
+        40,
+        8,
+        16,
+        33
+      ],
+      "signedSize": [
+        8,
+        16
+      ],
+      "uv": [
+        16,
+        40,
+        8,
+        16,
+        33
+      ],
+      "visibleBounds": [
+        0,
+        3,
+        8,
+        15
+      ]
+    },
+    {
+      "index": 4,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        24,
+        40,
+        8,
+        16,
+        33
+      ],
+      "signedSize": [
+        8,
+        16
+      ],
+      "uv": [
+        24,
+        40,
+        8,
+        16,
+        33
+      ],
+      "visibleBounds": [
+        1,
+        3,
+        7,
+        15
+      ]
+    },
+    {
+      "index": 5,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        32,
+        40,
+        8,
+        16,
+        33
+      ],
+      "signedSize": [
+        8,
+        16
+      ],
+      "uv": [
+        32,
+        40,
+        8,
+        16,
+        33
+      ],
+      "visibleBounds": [
+        0,
+        3,
+        8,
+        15
+      ]
+    },
+    {
+      "index": 6,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        40,
+        40,
+        8,
+        16,
+        33
+      ],
+      "signedSize": [
+        8,
+        16
+      ],
+      "uv": [
+        40,
+        40,
+        8,
+        16,
+        33
+      ],
+      "visibleBounds": [
+        0,
+        3,
+        8,
+        15
+      ]
+    },
+    {
+      "index": 7,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        48,
+        40,
+        8,
+        16,
+        33
+      ],
+      "signedSize": [
+        8,
+        16
+      ],
+      "uv": [
+        48,
+        40,
+        8,
+        16,
+        33
+      ],
+      "visibleBounds": [
+        0,
+        3,
+        8,
+        15
+      ]
+    },
+    {
+      "index": 8,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        56,
+        40,
+        8,
+        16,
+        33
+      ],
+      "signedSize": [
+        8,
+        16
+      ],
+      "uv": [
+        56,
+        40,
+        8,
+        16,
+        33
+      ],
+      "visibleBounds": [
+        0,
+        3,
+        8,
+        15
+      ]
+    },
+    {
+      "index": 9,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        64,
+        40,
+        8,
+        16,
+        33
+      ],
+      "signedSize": [
+        8,
+        16
+      ],
+      "uv": [
+        64,
+        40,
+        8,
+        16,
+        33
+      ],
+      "visibleBounds": [
+        0,
+        3,
+        8,
+        15
+      ]
+    },
+    {
+      "index": 10,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        72,
+        40,
+        8,
+        16,
+        33
+      ],
+      "signedSize": [
+        8,
+        16
+      ],
+      "uv": [
+        72,
+        40,
+        8,
+        16,
+        33
+      ],
+      "visibleBounds": [
+        0,
+        3,
+        8,
+        15
+      ]
+    },
+    {
+      "index": 11,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        80,
+        40,
+        8,
+        16,
+        33
+      ],
+      "signedSize": [
+        8,
+        16
+      ],
+      "uv": [
+        80,
+        40,
+        8,
+        16,
+        33
+      ],
+      "visibleBounds": [
+        0,
+        3,
+        8,
+        15
+      ]
+    },
+    {
+      "index": 12,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        88,
+        40,
+        8,
+        16,
+        33
+      ],
+      "signedSize": [
+        8,
+        16
+      ],
+      "uv": [
+        88,
+        40,
+        8,
+        16,
+        33
+      ],
+      "visibleBounds": [
+        0,
+        3,
+        8,
+        15
+      ]
+    },
+    {
+      "index": 13,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        176,
+        32,
+        16,
+        16,
+        42
+      ],
+      "signedSize": [
+        16,
+        16
+      ],
+      "uv": [
+        176,
+        32,
+        16,
+        16,
+        42
+      ],
+      "visibleBounds": [
+        0,
+        2,
+        12,
+        14
+      ]
+    },
+    {
+      "index": 14,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        192,
+        128,
+        40,
+        16,
+        59
+      ],
+      "signedSize": [
+        40,
+        16
+      ],
+      "uv": [
+        192,
+        128,
+        40,
+        16,
+        59
+      ],
+      "visibleBounds": [
+        0,
+        0,
+        39,
+        11
+      ]
+    },
+    {
+      "index": 15,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        152,
+        112,
+        40,
+        16,
+        60
+      ],
+      "signedSize": [
+        40,
+        16
+      ],
+      "uv": [
+        152,
+        112,
+        40,
+        16,
+        60
+      ],
+      "visibleBounds": [
+        9,
+        0,
+        40,
+        16
+      ]
+    },
+    {
+      "index": 16,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        192,
+        112,
+        40,
+        16,
+        62
+      ],
+      "signedSize": [
+        40,
+        16
+      ],
+      "uv": [
+        192,
+        112,
+        40,
+        16,
+        62
+      ],
+      "visibleBounds": [
+        0,
+        0,
+        39,
+        16
+      ]
+    },
+    {
+      "index": 17,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        72,
+        128,
+        40,
+        16,
+        59
+      ],
+      "signedSize": [
+        40,
+        16
+      ],
+      "uv": [
+        72,
+        128,
+        40,
+        16,
+        59
+      ],
+      "visibleBounds": [
+        0,
+        2,
+        36,
+        15
+      ]
+    },
+    {
+      "index": 18,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        184,
+        96,
+        16,
+        16,
+        27
+      ],
+      "signedSize": [
+        16,
+        16
+      ],
+      "uv": [
+        184,
+        96,
+        16,
+        16,
+        27
+      ],
+      "visibleBounds": [
+        0,
+        4,
+        16,
+        16
+      ]
+    },
+    {
+      "index": 19,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        200,
+        96,
+        16,
+        16,
+        19
+      ],
+      "signedSize": [
+        16,
+        16
+      ],
+      "uv": [
+        200,
+        96,
+        16,
+        16,
+        19
+      ],
+      "visibleBounds": [
+        0,
+        3,
+        16,
+        16
+      ]
+    },
+    {
+      "index": 20,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        232,
+        120,
+        23,
+        24,
+        12
+      ],
+      "signedSize": [
+        23,
+        24
+      ],
+      "uv": [
+        232,
+        120,
+        23,
+        24,
+        12
+      ],
+      "visibleBounds": [
+        1,
+        2,
+        23,
+        24
+      ]
+    },
+    {
+      "index": 21,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        0,
+        208,
+        32,
+        32,
+        58
+      ],
+      "signedSize": [
+        32,
+        32
+      ],
+      "uv": [
+        0,
+        208,
+        32,
+        32,
+        58
+      ],
+      "visibleBounds": [
+        0,
+        0,
+        32,
+        32
+      ]
+    },
+    {
+      "index": 22,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        32,
+        208,
+        32,
+        32,
+        58
+      ],
+      "signedSize": [
+        32,
+        32
+      ],
+      "uv": [
+        32,
+        208,
+        32,
+        32,
+        58
+      ],
+      "visibleBounds": [
+        0,
+        0,
+        32,
+        32
+      ]
+    },
+    {
+      "index": 23,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        40,
+        128,
+        32,
+        16,
+        61
+      ],
+      "signedSize": [
+        32,
+        16
+      ],
+      "uv": [
+        40,
+        128,
+        32,
+        16,
+        61
+      ],
+      "visibleBounds": [
+        0,
+        0,
+        32,
+        16
+      ]
+    },
+    {
+      "index": 24,
+      "type": 1,
+      "rawMetrics": [
+        1,
+        176,
+        64,
+        180,
+        68,
+        43
+      ],
+      "signedSize": [
+        4,
+        4
+      ],
+      "uv": [
+        176,
+        64,
+        4,
+        4,
+        43
+      ],
+      "visibleBounds": [
+        0,
+        0,
+        4,
+        4
+      ]
+    },
+    {
+      "index": 25,
+      "type": 1,
+      "rawMetrics": [
+        1,
+        180,
+        64,
+        176,
+        68,
+        43
+      ],
+      "signedSize": [
+        -4,
+        4
+      ],
+      "uv": [
+        180,
+        64,
+        4,
+        4,
+        43
+      ],
+      "visibleBounds": [
+        0,
+        0,
+        4,
+        4
+      ]
+    },
+    {
+      "index": 26,
+      "type": 1,
+      "rawMetrics": [
+        1,
+        176,
+        68,
+        180,
+        64,
+        43
+      ],
+      "signedSize": [
+        4,
+        -4
+      ],
+      "uv": [
+        176,
+        68,
+        4,
+        4,
+        43
+      ],
+      "visibleBounds": [
+        0,
+        0,
+        4,
+        4
+      ]
+    },
+    {
+      "index": 27,
+      "type": 1,
+      "rawMetrics": [
+        1,
+        180,
+        68,
+        176,
+        64,
+        43
+      ],
+      "signedSize": [
+        -4,
+        -4
+      ],
+      "uv": [
+        180,
+        68,
+        4,
+        4,
+        43
+      ],
+      "visibleBounds": [
+        0,
+        0,
+        4,
+        4
+      ]
+    },
+    {
+      "index": 28,
+      "type": 1,
+      "rawMetrics": [
+        1,
+        183,
+        64,
+        191,
+        68,
+        43
+      ],
+      "signedSize": [
+        8,
+        4
+      ],
+      "uv": [
+        183,
+        64,
+        8,
+        4,
+        43
+      ],
+      "visibleBounds": [
+        0,
+        0,
+        8,
+        4
+      ]
+    },
+    {
+      "index": 29,
+      "type": 1,
+      "rawMetrics": [
+        1,
+        191,
+        68,
+        183,
+        64,
+        43
+      ],
+      "signedSize": [
+        -8,
+        -4
+      ],
+      "uv": [
+        191,
+        68,
+        8,
+        4,
+        43
+      ],
+      "visibleBounds": [
+        0,
+        0,
+        8,
+        4
+      ]
+    },
+    {
+      "index": 30,
+      "type": 1,
+      "rawMetrics": [
+        1,
+        176,
+        71,
+        180,
+        79,
+        43
+      ],
+      "signedSize": [
+        4,
+        8
+      ],
+      "uv": [
+        176,
+        71,
+        4,
+        8,
+        43
+      ],
+      "visibleBounds": [
+        0,
+        0,
+        4,
+        8
+      ]
+    },
+    {
+      "index": 31,
+      "type": 1,
+      "rawMetrics": [
+        1,
+        180,
+        79,
+        176,
+        71,
+        43
+      ],
+      "signedSize": [
+        -4,
+        -8
+      ],
+      "uv": [
+        180,
+        79,
+        4,
+        8,
+        43
+      ],
+      "visibleBounds": [
+        0,
+        0,
+        4,
+        8
+      ]
+    },
+    {
+      "index": 32,
+      "type": 1,
+      "rawMetrics": [
+        1,
+        183,
+        71,
+        191,
+        79,
+        43
+      ],
+      "signedSize": [
+        8,
+        8
+      ],
+      "uv": [
+        183,
+        71,
+        8,
+        8,
+        43
+      ],
+      "visibleBounds": [
+        0,
+        0,
+        8,
+        8
+      ]
+    },
+    {
+      "index": 33,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        0,
+        208,
+        24,
+        24,
+        29
+      ],
+      "signedSize": [
+        24,
+        24
+      ],
+      "uv": [
+        0,
+        208,
+        24,
+        24,
+        29
+      ],
+      "visibleBounds": [
+        0,
+        0,
+        24,
+        24
+      ]
+    },
+    {
+      "index": 34,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        24,
+        208,
+        24,
+        24,
+        29
+      ],
+      "signedSize": [
+        24,
+        24
+      ],
+      "uv": [
+        24,
+        208,
+        24,
+        24,
+        29
+      ],
+      "visibleBounds": [
+        0,
+        0,
+        24,
+        24
+      ]
+    },
+    {
+      "index": 35,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        48,
+        208,
+        24,
+        24,
+        29
+      ],
+      "signedSize": [
+        24,
+        24
+      ],
+      "uv": [
+        48,
+        208,
+        24,
+        24,
+        29
+      ],
+      "visibleBounds": [
+        0,
+        0,
+        24,
+        24
+      ]
+    },
+    {
+      "index": 36,
+      "type": 1,
+      "rawMetrics": [
+        1,
+        239,
+        15,
+        224,
+        8,
+        18
+      ],
+      "signedSize": [
+        -15,
+        -7
+      ],
+      "uv": [
+        239,
+        15,
+        15,
+        7,
+        18
+      ],
+      "visibleBounds": [
+        1,
+        0,
+        12,
+        7
+      ]
+    },
+    {
+      "index": 37,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        232,
+        120,
+        23,
+        24,
+        12
+      ],
+      "signedSize": [
+        23,
+        24
+      ],
+      "uv": [
+        232,
+        120,
+        23,
+        24,
+        12
+      ],
+      "visibleBounds": [
+        1,
+        2,
+        23,
+        24
+      ]
+    },
+    {
+      "index": 38,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        184,
+        96,
+        24,
+        24,
+        19
+      ],
+      "signedSize": [
+        24,
+        24
+      ],
+      "uv": [
+        184,
+        96,
+        24,
+        24,
+        19
+      ],
+      "visibleBounds": [
+        0,
+        4,
+        23,
+        19
+      ]
+    },
+    {
+      "index": 39,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        208,
+        96,
+        24,
+        24,
+        19
+      ],
+      "signedSize": [
+        24,
+        24
+      ],
+      "uv": [
+        208,
+        96,
+        24,
+        24,
+        19
+      ],
+      "visibleBounds": [
+        0,
+        3,
+        23,
+        19
+      ]
+    },
+    {
+      "index": 40,
+      "type": 0,
+      "rawMetrics": [
+        0,
+        232,
+        96,
+        23,
+        24,
+        19
+      ],
+      "signedSize": [
+        23,
+        24
+      ],
+      "uv": [
+        232,
+        96,
+        23,
+        24,
+        19
+      ],
+      "visibleBounds": [
+        0,
+        2,
+        23,
+        19
+      ]
+    }
+  ],
+  "symbols": [
+    {
+      "name": "disabled-cross",
+      "uv": [
+        96,
+        112,
+        16,
+        16,
+        25
+      ],
+      "visibleBounds": [
+        1,
+        1,
+        15,
+        15
+      ]
+    },
+    {
+      "name": "target-blue",
+      "uv": [
+        240,
+        0,
+        16,
+        23,
+        30
+      ],
+      "visibleBounds": [
+        3,
+        8,
+        14,
+        23
+      ]
+    },
+    {
+      "name": "target-yellow",
+      "uv": [
+        240,
+        0,
+        16,
+        23,
+        31
+      ],
+      "visibleBounds": [
+        3,
+        8,
+        14,
+        23
+      ]
+    },
+    {
+      "name": "target-red",
+      "uv": [
+        240,
+        0,
+        16,
+        23,
+        32
+      ],
+      "visibleBounds": [
+        3,
+        8,
+        14,
+        23
+      ]
+    },
+    {
+      "name": "dragoon-timing-arrow",
+      "uv": [
+        152,
+        208,
+        8,
+        24,
+        50
+      ],
+      "visibleBounds": [
+        0,
+        0,
+        7,
+        24
+      ]
+    },
+    {
+      "name": "dragoon-star",
+      "uv": [
+        128,
+        64,
+        16,
+        16,
+        51
+      ],
+      "visibleBounds": [
+        0,
+        1,
+        15,
+        16
+      ]
+    }
+  ]
+}

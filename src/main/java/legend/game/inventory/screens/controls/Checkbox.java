@@ -101,6 +101,9 @@ public class Checkbox extends Control {
 
     this.transforms.transfer.set(x, y, this.getZ() * 4.0f);
     this.transforms.scaling(scale, scale, 1.0f);
+    if(legend.game.textures.ModernIcons.render("checkbox/" + (this.checked ? "checked" : "unchecked"), this.transforms, 1, 1) != null) {
+      return;
+    }
     final QueuedModelStandard model = RENDERER
       .queueOrthoModel(obj, this.transforms, QueuedModelStandard.class)
       .texture(tex)

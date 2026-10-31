@@ -1,0 +1,170 @@
+﻿[
+    {
+        "file":  "button-circle.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              80,
+                              77,
+                              1172,
+                              1162
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "button-cross.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              73,
+                              75,
+                              1176,
+                              1170
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "button-l1.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              146,
+                              391,
+                              1107,
+                              849
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "button-l2.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              184,
+                              417,
+                              1071,
+                              831
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "button-r1.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              158,
+                              376,
+                              1096,
+                              864
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "button-r2.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              160,
+                              377,
+                              1095,
+                              868
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "button-square.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              87,
+                              80,
+                              1166,
+                              1161
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "button-triangle.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              58,
+                              55,
+                              1194,
+                              1187
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "checkbox-checked.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              58,
+                              58,
+                              1193,
+                              1180
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "checkbox-unchecked.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              67,
+                              63,
+                              1186,
+                              1179
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "cursor-blink-poses.png",
+        "width":  1774,
+        "height":  887,
+        "visibleBounds":  [
+                              50,
+                              51,
+                              1724,
+                              832
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "cursor-turn-poses.png",
+        "width":  1774,
+        "height":  887,
+        "visibleBounds":  [
+                              54,
+                              65,
+                              1720,
+                              834
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    }
+]

@@ -1,0 +1,131 @@
+{
+  "image": "dialogue-triangle.png",
+  "width": 1896,
+  "height": 830,
+  "columns": 4,
+  "rows": 2,
+  "frameCount": 7,
+  "logicalFrameSize": [
+    16,
+    14
+  ],
+  "originalRenderScaleY": 0.875,
+  "frameOrder": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "frames": [
+    {
+      "index": 0,
+      "sourceRect": [
+        0,
+        0,
+        474,
+        415
+      ],
+      "opaqueBoundsInCell": [
+        53,
+        61,
+        422,
+        306
+      ]
+    },
+    {
+      "index": 1,
+      "sourceRect": [
+        474,
+        0,
+        474,
+        415
+      ],
+      "opaqueBoundsInCell": [
+        53,
+        85,
+        423,
+        331
+      ]
+    },
+    {
+      "index": 2,
+      "sourceRect": [
+        948,
+        0,
+        474,
+        415
+      ],
+      "opaqueBoundsInCell": [
+        52,
+        107,
+        422,
+        354
+      ]
+    },
+    {
+      "index": 3,
+      "sourceRect": [
+        1422,
+        0,
+        474,
+        415
+      ],
+      "opaqueBoundsInCell": [
+        53,
+        129,
+        422,
+        376
+      ]
+    },
+    {
+      "index": 4,
+      "sourceRect": [
+        0,
+        415,
+        474,
+        415
+      ],
+      "opaqueBoundsInCell": [
+        53,
+        96,
+        422,
+        343
+      ]
+    },
+    {
+      "index": 5,
+      "sourceRect": [
+        474,
+        415,
+        474,
+        415
+      ],
+      "opaqueBoundsInCell": [
+        53,
+        77,
+        423,
+        324
+      ]
+    },
+    {
+      "index": 6,
+      "sourceRect": [
+        948,
+        415,
+        474,
+        415
+      ],
+      "opaqueBoundsInCell": [
+        52,
+        57,
+        422,
+        304
+      ]
+    }
+  ],
+  "unusedCell": 7,
+  "status": "artwork candidate; runtime integration and gameplay-size review pending"
+}

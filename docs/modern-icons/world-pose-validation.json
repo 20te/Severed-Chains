@@ -1,0 +1,434 @@
+﻿[
+    {
+        "file":  "arrow-turn-poses.png",
+        "index":  0,
+        "sourceRect":  [
+                           0,
+                           0,
+                           443,
+                           443
+                       ],
+        "visibleBounds":  [
+                              43,
+                              118,
+                              402,
+                              358
+                          ],
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "arrow-turn-poses.png",
+        "index":  1,
+        "sourceRect":  [
+                           443,
+                           0,
+                           444,
+                           443
+                       ],
+        "visibleBounds":  [
+                              110,
+                              95,
+                              365,
+                              355
+                          ],
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "arrow-turn-poses.png",
+        "index":  2,
+        "sourceRect":  [
+                           887,
+                           0,
+                           443,
+                           443
+                       ],
+        "visibleBounds":  [
+                              138,
+                              87,
+                              325,
+                              355
+                          ],
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "arrow-turn-poses.png",
+        "index":  3,
+        "sourceRect":  [
+                           1330,
+                           0,
+                           444,
+                           443
+                       ],
+        "visibleBounds":  [
+                              189,
+                              81,
+                              285,
+                              355
+                          ],
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "arrow-turn-poses.png",
+        "index":  4,
+        "sourceRect":  [
+                           0,
+                           443,
+                           443,
+                           444
+                       ],
+        "visibleBounds":  [
+                              198,
+                              81,
+                              246,
+                              354
+                          ],
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "arrow-turn-poses.png",
+        "index":  5,
+        "sourceRect":  [
+                           443,
+                           443,
+                           444,
+                           444
+                       ],
+        "visibleBounds":  [
+                              163,
+                              81,
+                              287,
+                              353
+                          ],
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "arrow-turn-poses.png",
+        "index":  6,
+        "sourceRect":  [
+                           887,
+                           443,
+                           443,
+                           444
+                       ],
+        "visibleBounds":  [
+                              84,
+                              88,
+                              335,
+                              353
+                          ],
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "arrow-turn-poses.png",
+        "index":  7,
+        "sourceRect":  [
+                           1330,
+                           443,
+                           444,
+                           444
+                       ],
+        "visibleBounds":  [
+                              65,
+                              115,
+                              407,
+                              354
+                          ],
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "destination-diamond-poses.png",
+        "index":  0,
+        "sourceRect":  [
+                           0,
+                           0,
+                           591,
+                           887
+                       ],
+        "visibleBounds":  [
+                              88,
+                              200,
+                              515,
+                              660
+                          ],
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "destination-diamond-poses.png",
+        "index":  1,
+        "sourceRect":  [
+                           591,
+                           0,
+                           591,
+                           887
+                       ],
+        "visibleBounds":  [
+                              81,
+                              200,
+                              510,
+                              660
+                          ],
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "destination-diamond-poses.png",
+        "index":  2,
+        "sourceRect":  [
+                           1182,
+                           0,
+                           592,
+                           887
+                       ],
+        "visibleBounds":  [
+                              73,
+                              199,
+                              500,
+                              659
+                          ],
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "coolon-flight-poses.png",
+        "index":  0,
+        "sourceRect":  [
+                           0,
+                           0,
+                           543,
+                           724
+                       ],
+        "visibleBounds":  [
+                              32,
+                              201,
+                              508,
+                              502
+                          ],
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "coolon-flight-poses.png",
+        "index":  1,
+        "sourceRect":  [
+                           543,
+                           0,
+                           543,
+                           724
+                       ],
+        "visibleBounds":  [
+                              43,
+                              269,
+                              516,
+                              441
+                          ],
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "coolon-flight-poses.png",
+        "index":  2,
+        "sourceRect":  [
+                           1086,
+                           0,
+                           543,
+                           724
+                       ],
+        "visibleBounds":  [
+                              41,
+                              306,
+                              498,
+                              518
+                          ],
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "coolon-flight-poses.png",
+        "index":  3,
+        "sourceRect":  [
+                           1629,
+                           0,
+                           543,
+                           724
+                       ],
+        "visibleBounds":  [
+                              38,
+                              200,
+                              507,
+                              448
+                          ],
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "queen-fury-door-poses.png",
+        "index":  0,
+        "sourceRect":  [
+                           0,
+                           0,
+                           512,
+                           512
+                       ],
+        "visibleBounds":  [
+                              96,
+                              39,
+                              419,
+                              454
+                          ],
+        "alphaMax":  254,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "queen-fury-door-poses.png",
+        "index":  1,
+        "sourceRect":  [
+                           512,
+                           0,
+                           512,
+                           512
+                       ],
+        "visibleBounds":  [
+                              94,
+                              39,
+                              416,
+                              467
+                          ],
+        "alphaMax":  254,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "queen-fury-door-poses.png",
+        "index":  2,
+        "sourceRect":  [
+                           1024,
+                           0,
+                           512,
+                           512
+                       ],
+        "visibleBounds":  [
+                              89,
+                              39,
+                              412,
+                              476
+                          ],
+        "alphaMax":  254,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "queen-fury-door-poses.png",
+        "index":  3,
+        "sourceRect":  [
+                           0,
+                           512,
+                           512,
+                           512
+                       ],
+        "visibleBounds":  [
+                              102,
+                              27,
+                              439,
+                              466
+                          ],
+        "alphaMax":  254,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "queen-fury-door-poses.png",
+        "index":  4,
+        "sourceRect":  [
+                           512,
+                           512,
+                           512,
+                           512
+                       ],
+        "visibleBounds":  [
+                              79,
+                              27,
+                              416,
+                              466
+                          ],
+        "alphaMax":  254,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "zoom-level-diamond-states.png",
+        "index":  0,
+        "sourceRect":  [
+                           0,
+                           0,
+                           724,
+                           724
+                       ],
+        "visibleBounds":  [
+                              34,
+                              183,
+                              681,
+                              539
+                          ],
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "zoom-level-diamond-states.png",
+        "index":  1,
+        "sourceRect":  [
+                           724,
+                           0,
+                           724,
+                           724
+                       ],
+        "visibleBounds":  [
+                              38,
+                              183,
+                              686,
+                              538
+                          ],
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "zoom-level-diamond-states.png",
+        "index":  2,
+        "sourceRect":  [
+                           1448,
+                           0,
+                           724,
+                           724
+                       ],
+        "visibleBounds":  [
+                              43,
+                              183,
+                              690,
+                              539
+                          ],
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "zoom-connector.png",
+        "index":  0,
+        "sourceRect":  [
+                           0,
+                           0,
+                           1774,
+                           887
+                       ],
+        "visibleBounds":  [
+                              45,
+                              177,
+                              1729,
+                              750
+                          ],
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    }
+]

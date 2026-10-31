@@ -1,0 +1,296 @@
+﻿[
+    {
+        "file":  "boat_license.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              59,
+                              49,
+                              1196,
+                              1204
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "divine-overlay-poses.png",
+        "width":  1774,
+        "height":  887,
+        "visibleBounds":  [
+                              452,
+                              86,
+                              1340,
+                              790
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  254,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "dragon_block_staff.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              75,
+                              64,
+                              1193,
+                              1200
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "fathers_stone.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              159,
+                              49,
+                              1221,
+                              1165
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "good_spirits.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              154,
+                              78,
+                              1132,
+                              1178
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "kates_bouquet.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              67,
+                              59,
+                              1192,
+                              1206
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "key_to_ship.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              66,
+                              57,
+                              1181,
+                              1174
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "lavitzs_picture.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              129,
+                              65,
+                              1125,
+                              1171
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "law_maker.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              167,
+                              63,
+                              1194,
+                              1162
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "law_output.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              82,
+                              98,
+                              1159,
+                              1174
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "letter_from_lynn.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              54,
+                              121,
+                              1211,
+                              1102
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "magic_oil.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              173,
+                              55,
+                              1081,
+                              1200
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "moon_dagger.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              52,
+                              73,
+                              1224,
+                              1189
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "moon_gem.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              64,
+                              57,
+                              1187,
+                              1191
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "moon_mirror.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              45,
+                              40,
+                              1209,
+                              1184
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "pass_for_valley.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              69,
+                              42,
+                              1193,
+                              1200
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "prison_key.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              63,
+                              83,
+                              1181,
+                              1141
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "spirit-orb-poses.png",
+        "width":  2172,
+        "height":  724,
+        "visibleBounds":  [
+                              77,
+                              53,
+                              2095,
+                              665
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "stone-spiral-master.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              96,
+                              94,
+                              1156,
+                              1151
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "vanishing_stone.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              109,
+                              90,
+                              1170,
+                              1146
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "war_bulletin.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              135,
+                              81,
+                              1119,
+                              1190
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    }
+]

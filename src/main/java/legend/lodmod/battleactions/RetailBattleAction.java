@@ -49,9 +49,11 @@ public class RetailBattleAction extends BattleAction {
     menu.transforms.identity();
     menu.transforms.transfer.set(menuElementBaseX, menuElementBaseY, 123.8f);
 
-    RENDERER.queueOrthoModel(menu.menuObj, menu.transforms, QueuedModelStandard.class)
-      .vertices(menu.actionIconObjOffset + iconId * 12 + iconState * 4, 4)
-      .translucency(Translucency.of(battleMenuIconMetrics_800fb674[iconId].translucencyMode_06));
+    final QueuedModelStandard modern = legend.game.textures.ModernIcons.render("battle/command/" + iconId + '/' + iconState,
+      menu.transforms, 16, battleMenuIconHeights_800fb6bc[iconId][iconState]);
+    final QueuedModelStandard model = modern != null ? modern : RENDERER.queueOrthoModel(menu.menuObj, menu.transforms, QueuedModelStandard.class)
+      .vertices(menu.actionIconObjOffset + iconId * 12 + iconState * 4, 4);
+    model.translucency(Translucency.of(battleMenuIconMetrics_800fb674[iconId].translucencyMode_06));
 
     if(selected && menu.renderSelectedIconText_40) {
       final int oldZ = textZ_800bdf00;

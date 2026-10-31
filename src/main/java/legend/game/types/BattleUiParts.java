@@ -322,6 +322,34 @@ public class BattleUiParts {
 
     this.mv.scaling(widthScale, heightScale, 1.0f);
     this.mv.transfer.set(left - offsetX + displayWidth_1f8003e0 / 2.0f, top - offsetY + displayHeight_1f8003e4 / 2.0f, 2.0f);
+    final String modernName;
+    final float modernWidth;
+    final float modernHeight;
+    final MV modernTransforms = new MV(this.mv);
+    if(vertexIndex >= this.buttonVert && vertexIndex < this.buttonVert + buttonPressHudMetrics_800faaa0.length * 4) {
+      modernName = "battle/prompt/" + (vertexIndex - this.buttonVert) / 4;
+      modernWidth = Math.abs(w);
+      modernHeight = Math.abs(h);
+    } else if(vertexIndex == this.daddyStarVert) {
+      modernName = "battle/star";
+      modernWidth = 16;
+      modernHeight = 16;
+    } else if(vertexIndex == this.daddyArrowVert) {
+      modernName = "battle/timing-arrow";
+      modernWidth = 8;
+      modernHeight = 24;
+      modernTransforms.transfer.add(32 * widthScale, -4 * heightScale, 0);
+    } else {
+      modernName = null;
+      modernWidth = 0;
+      modernHeight = 0;
+    }
+    final QueuedModelStandard modern = modernName == null ? null :
+      legend.game.textures.ModernIcons.render(modernName, modernTransforms, modernWidth, modernHeight);
+    if(modern != null) {
+      modern.monochrome(brightness / 128.0f).translucency(transMode);
+      return;
+    }
     RENDERER.queueOrthoModel(this.obj, this.mv, QueuedModelStandard.class)
       .vertices(vertexIndex, 4)
       .clutOverride(clutX & 0x3f0, clutY)
