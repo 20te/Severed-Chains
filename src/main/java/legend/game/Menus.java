@@ -174,6 +174,7 @@ public final class Menus {
     renderable.tpage_2c = 0;
     renderable.widthScale = 1.0f;
     renderable.heightScale_38 = 1.0f;
+      renderable.modernIconInset = 0;
     renderable.z_3c = 36;
     renderable.x_40 = 0;
     renderable.y_44 = 0;
@@ -294,7 +295,7 @@ public final class Menus {
       if((renderable.flags_00 & Renderable58.FLAG_INVISIBLE) == 0) {
         final int centreX = displayWidth_1f8003e0 / 2 + 8;
 
-        final RenderableMetrics14[] metricses = entries[renderable.glyph_04].metrics_00();
+        final RenderableMetrics14[] metricses = legend.game.textures.ModernIcons.menuMetrics(renderable, entries[renderable.glyph_04].metrics_00());
 
         //LAB_80023e94
         for(int metricsIndex = Math.min(metricses.length, renderable.metricsCount) - 1; metricsIndex >= 0; metricsIndex--) {
@@ -382,7 +383,7 @@ public final class Menus {
             }
 
             final QueuedModelStandard model = RENDERER
-              .queueOrthoModel(renderable.uiType_20.obj, transforms, QueuedModelStandard.class)
+              .queueOrthoModel(metrics.getObj(renderable.uiType_20.obj), transforms, QueuedModelStandard.class)
               .vertices(metrics.vertexStart, 4)
               .tpageOverride(tpageX, (tpage & 0b10000) != 0 ? 256 : 0)
               .clutOverride(clutX, clut >>> 6)

@@ -90,6 +90,14 @@ public class CoolonQueenFuryOverlay {
     }
 
     this.iconTransforms.transfer.set(GPU.getOffsetX() + 106.0f, GPU.getOffsetY() + 84.0f, 52.0f);
+    final MV modernTransforms = new MV(this.iconTransforms);
+    if(mode != 0) {
+      modernTransforms.transfer.add(22.0f, -2.0f, 0.0f);
+    }
+    if(legend.game.textures.ModernIcons.render("world/" + (mode == 0 ? "coolon/" : "door/") + iconState,
+      modernTransforms, mode == 0 ? 32 : -24, mode == 0 ? 16 : 24) != null) {
+      return;
+    }
     RENDERER
       .queueOrthoModel(icon, this.iconTransforms, QueuedModelStandard.class)
       .vertices(iconState * 4, 4)

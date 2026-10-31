@@ -70,10 +70,10 @@ public class TransformAction extends RetailBattleAction {
         menu.transforms.scaling(16.0f, 16.0f, 1.0f);
         menu.transforms.transfer.set(menuElementBaseX, menuElementBaseY, 10.0f);
 
-        RENDERER.queueOrthoModel(battle.hud.battleIconQuad, menu.transforms, QueuedModelStandard.class)
-          .uvOffset(iconU, iconV)
-          .texture(battle.hud.battleIconsTexture)
-          .useTextureAlpha();
+        if(legend.game.textures.ModernIcons.render("battle/detransform", menu.transforms, 1, 1) == null) {
+          RENDERER.queueOrthoModel(battle.hud.battleIconQuad, menu.transforms, QueuedModelStandard.class)
+            .uvOffset(iconU, iconV).texture(battle.hud.battleIconsTexture).useTextureAlpha();
+        }
       }
 
       final int oldZ = textZ_800bdf00;

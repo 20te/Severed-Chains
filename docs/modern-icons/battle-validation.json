@@ -1,0 +1,366 @@
+﻿[
+    {
+        "file":  "change-addition-poses.png",
+        "width":  1774,
+        "height":  887,
+        "visibleBounds":  [
+                              72,
+                              154,
+                              1702,
+                              703
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "command-attack.png",
+        "width":  1774,
+        "height":  887,
+        "visibleBounds":  [
+                              54,
+                              24,
+                              1656,
+                              843
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "command-dragoon-attack.png",
+        "width":  1774,
+        "height":  887,
+        "visibleBounds":  [
+                              64,
+                              61,
+                              1641,
+                              826
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "command-escape.png",
+        "width":  1774,
+        "height":  887,
+        "visibleBounds":  [
+                              63,
+                              154,
+                              1721,
+                              775
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "command-guard.png",
+        "width":  1774,
+        "height":  887,
+        "visibleBounds":  [
+                              103,
+                              99,
+                              1692,
+                              730
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "command-items.png",
+        "width":  2172,
+        "height":  724,
+        "visibleBounds":  [
+                              125,
+                              50,
+                              2109,
+                              672
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "command-special.png",
+        "width":  1774,
+        "height":  887,
+        "visibleBounds":  [
+                              112,
+                              245,
+                              1664,
+                              670
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "command-spells.png",
+        "width":  1774,
+        "height":  887,
+        "visibleBounds":  [
+                              66,
+                              80,
+                              1709,
+                              786
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "command-unused-slot.png",
+        "width":  1774,
+        "height":  887,
+        "visibleBounds":  [
+                              122,
+                              149,
+                              1629,
+                              707
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "cross-button-poses.png",
+        "width":  2172,
+        "height":  724,
+        "visibleBounds":  [
+                              17,
+                              139,
+                              2161,
+                              559
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  2
+    },
+    {
+        "file":  "detransform-arrow.png",
+        "width":  1024,
+        "height":  1536,
+        "visibleBounds":  [
+                              181,
+                              165,
+                              844,
+                              1329
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  254,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "disabled-cross.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              183,
+                              176,
+                              1066,
+                              1057
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "element-dark.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              118,
+                              111,
+                              1140,
+                              1140
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "element-divine.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              47,
+                              46,
+                              1204,
+                              1191
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "element-earth.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              85,
+                              95,
+                              1172,
+                              1163
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "element-fire.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              96,
+                              12,
+                              1181,
+                              1243
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "element-light.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              55,
+                              53,
+                              1199,
+                              1183
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "element-none.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              76,
+                              79,
+                              1177,
+                              1179
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "element-physical.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              99,
+                              112,
+                              1155,
+                              1127
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "element-thunder.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              137,
+                              131,
+                              1117,
+                              1107
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "element-water.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              221,
+                              34,
+                              1088,
+                              1223
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "element-wind.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              76,
+                              110,
+                              1188,
+                              1160
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "eye-button-poses.png",
+        "width":  2172,
+        "height":  724,
+        "visibleBounds":  [
+                              44,
+                              158,
+                              2075,
+                              539
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "prompt-arrow.png",
+        "width":  1774,
+        "height":  887,
+        "visibleBounds":  [
+                              579,
+                              168,
+                              1194,
+                              735
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "target-master.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              434,
+                              187,
+                              821,
+                              1068
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "timing-star.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              90,
+                              60,
+                              1164,
+                              1162
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    }
+]

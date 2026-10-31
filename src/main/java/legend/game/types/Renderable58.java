@@ -56,6 +56,9 @@ public class Renderable58 {
   /** We moved the UI textures into the vram region that the render buffers used to use so they could stay loaded. Some UIs like {@link PostBattleScreen} use their own textures so we have to use the normal tpage that's passed in. */
   public boolean useOriginalTpage;
 
+  /** Padding for modern artwork in compact icon slots. */
+  public int modernIconInset;
+
   public final Vector3f colour = new Vector3f(1.0f);
 
   public Renderable58 setVisible(final boolean visible) {

@@ -1,0 +1,699 @@
+{
+  "status": "artwork checkpoint; renderer integration and final packing pending",
+  "aliases": {
+    "BANDANA": 16,
+    "SHIELD": 20,
+    "CLOAK": 30,
+    "SCARF": 30
+  },
+  "assets": [
+    {
+      "id": 0,
+      "name": "sword",
+      "file": "inventory/00-sword.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "b005cffc641f38305272db6cc3913e123bf785625d2187cc8bd54777ffa8b4ce"
+    },
+    {
+      "id": 1,
+      "name": "axe",
+      "file": "inventory/01-axe.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "2336252b402f3504df09a054f4f77b841327f0e37b0d82315fec76143a87b02a"
+    },
+    {
+      "id": 2,
+      "name": "hammer",
+      "file": "inventory/02-hammer.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "c33b6188b6edb3d866d434d1b0e5bee172f0d4e304a448e418c5d0b909eb7995"
+    },
+    {
+      "id": 3,
+      "name": "spear",
+      "file": "inventory/03-spear.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "fa45647fe400c0940b22a8e5c6f8bb039a9e857d2c0d587bdb5321a3dd74e345"
+    },
+    {
+      "id": 4,
+      "name": "bow",
+      "file": "inventory/04-bow.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "6fb469c2f5218bcbcf0b086ff21c21d1ce64f045374cba6ccaf4fb8573c9c824"
+    },
+    {
+      "id": 5,
+      "name": "mace",
+      "file": "inventory/05-mace.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "45cb0eda6a957e1f0bdb641341444646c80b2d2d6a3b88b9156224494663f19c"
+    },
+    {
+      "id": 6,
+      "name": "knuckle",
+      "file": "inventory/06-knuckle.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "fc57f227adf178381ac09cc93a21a1581fbbe25bdebf976f29f3639e4f128812"
+    },
+    {
+      "id": 7,
+      "name": "boxing-glove",
+      "file": "inventory/07-boxing-glove.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "48f5158d99154313bfbeb0058dd7d2e4675a5673591dbb9c5f3807e830adf260"
+    },
+    {
+      "id": 8,
+      "name": "clothes",
+      "file": "inventory/08-clothes.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "e8fb917d7ff6f4205e21d6addbef48255041a2c41298b8c3eee64816750f7841"
+    },
+    {
+      "id": 9,
+      "name": "robe",
+      "file": "inventory/09-robe.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "59d21345b157b99a413d04d0cffaec02d7fbe84e2eaecdb8b5724afcc76fdd9f"
+    },
+    {
+      "id": 10,
+      "name": "armor",
+      "file": "inventory/10-armor.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "5a12afeb765ff49e659186c2d61ef7379f592c47687810a499a0f3d603c468e8"
+    },
+    {
+      "id": 11,
+      "name": "breastplate",
+      "file": "inventory/11-breastplate.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "cc3d87db407e989841019c2f49b1499a1c68f3069bf9bd3f728a5d3d3413a453"
+    },
+    {
+      "id": 12,
+      "name": "red-dress",
+      "file": "inventory/12-red-dress.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "6d29aba12ec26f0d56109e9ecb8f8b2fc1295293bb9fc99409e622f4ab78165d"
+    },
+    {
+      "id": 13,
+      "name": "loincloth",
+      "file": "inventory/13-loincloth.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "50fdbc16e89fc29030ab59cbb14920b73138a0feaafd2f20bf6b0b5a540cc5d0"
+    },
+    {
+      "id": 14,
+      "name": "warrior-dress",
+      "file": "inventory/14-warrior-dress.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "e4d66efe0afcceda391c6ae6123167dc639ec2809ed1eca56b1df90b4bd06a42"
+    },
+    {
+      "id": 15,
+      "name": "crown",
+      "file": "inventory/15-crown.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "2061cab06a8084b967b022cc62f84365fedf9b959dfb0c21e99115581d1dc19a"
+    },
+    {
+      "id": 16,
+      "name": "hairband",
+      "file": "inventory/16-hairband.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "9c2b14a48c9215a2812e99389662725f57ebfa8f21ee98dc5957d422a3177e06"
+    },
+    {
+      "id": 17,
+      "name": "hat",
+      "file": "inventory/17-hat.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "806852a29216283850ae6e066ced307173d483470d7e6893f07c47e826786f6f"
+    },
+    {
+      "id": 18,
+      "name": "helm",
+      "file": "inventory/18-helm.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "e480346eb636a6850751d89d600ecc7eaf4cb84ab2cff45d2e33bea6c52bee89"
+    },
+    {
+      "id": 19,
+      "name": "shoes",
+      "file": "inventory/19-shoes.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "6780567ba671baeec35d3eaafe76bfe78a1a0e45baeefe9c0156e184d810ee74"
+    },
+    {
+      "id": 20,
+      "name": "kneepiece",
+      "file": "inventory/20-kneepiece.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "55ce7cce938639e3bf13779d45f9643d6132260174873743399dae4814b0b8b2"
+    },
+    {
+      "id": 21,
+      "name": "boots",
+      "file": "inventory/21-boots.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "791ef40065daff040959ab6b7e2c6a7b92436845d4dfbaca521e6d3a3eb9a748"
+    },
+    {
+      "id": 22,
+      "name": "bracelet",
+      "file": "inventory/22-bracelet.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "be72d1cf5421c4dc5793d807fb87131759d058e827cfb3c25c94b74aa3e111e8"
+    },
+    {
+      "id": 23,
+      "name": "ring",
+      "file": "inventory/23-ring.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "047661e52525d5d8e6f5e8a15534caf1bf10b171a3e555f9451df8a14a84e45b"
+    },
+    {
+      "id": 24,
+      "name": "amulet",
+      "file": "inventory/24-amulet.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "002e01edfb9224c0761ebeae354e558f20549c2f40c44399308aac66b45db965"
+    },
+    {
+      "id": 25,
+      "name": "stone",
+      "file": "inventory/25-stone.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "0caced01620b569343499861b01d571ab594a567ee0efc80c130f1b615c530b0"
+    },
+    {
+      "id": 26,
+      "name": "jewellery",
+      "file": "inventory/26-jewellery.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "a11bf05f48fb7c1bee40c34092a70036fa912d409396de48764a85f8b03f5aa0"
+    },
+    {
+      "id": 27,
+      "name": "pin",
+      "file": "inventory/27-pin.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "6e462e0d1f5c1c3ace142dea26d8f7d71ec89c0bc9792ef367dd46b9e6b2f49c"
+    },
+    {
+      "id": 28,
+      "name": "bell",
+      "file": "inventory/28-bell.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "8e3c611b2246a5373f3117cb93f67cb8f715f3ee123f37eaef517a6fe10734ad"
+    },
+    {
+      "id": 29,
+      "name": "bag",
+      "file": "inventory/29-bag.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "4fc6904a5b86252a8ecbfc1a0d5d4d2014618225fb46d30fd2e475afdba3889e"
+    },
+    {
+      "id": 30,
+      "name": "cape",
+      "file": "inventory/30-cape.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "972c477f6a58efb603b65fe602855d75e5206c452701ac48d9d5f789baf76dac"
+    },
+    {
+      "id": 31,
+      "name": "glove",
+      "file": "inventory/31-glove.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "f0339eb314035a78760b0b8e34ec6899d85eda8652d9aed811e47a3337286844"
+    },
+    {
+      "id": 32,
+      "name": "horn",
+      "file": "inventory/32-horn.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "d0e2f0155f15b5b9aace6f06b73cc6fc3186be8a8debb86c6f3865260bd43226"
+    },
+    {
+      "id": 33,
+      "name": "blue-potion",
+      "file": "inventory/33-blue-potion.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "073ba8348a83b4dd37670a0d4617f32d902f0fc69e032f6d607f9d45a1952d40"
+    },
+    {
+      "id": 34,
+      "name": "yellow-potion",
+      "file": "inventory/34-yellow-potion.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "5d983bdaca5fcd3d9b8568757ea221811be101e0f95581a58f654d72f1aceec8"
+    },
+    {
+      "id": 35,
+      "name": "red-potion",
+      "file": "inventory/35-red-potion.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "faaa899239b1f6797c50c0d1e9cfd61899b1d8f2e68876e399fac006d0edea77"
+    },
+    {
+      "id": 36,
+      "name": "angels-prayer",
+      "file": "inventory/36-angels-prayer.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "b1f7e741fa9684161e985a42076e9a81623a2fc339340f8a01eeb7c5fb3ce05f"
+    },
+    {
+      "id": 37,
+      "name": "green-potion",
+      "file": "inventory/37-green-potion.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "0c62fa7dc6a2aab62003a82ae6e89c17d1b2c698b357283f6acaffdf6acf7843"
+    },
+    {
+      "id": 38,
+      "name": "magic",
+      "file": "inventory/38-magic.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "987a2a3a2520b256a084d3a895c6ba77b666515a13c6754e46ce0873ed482d35"
+    },
+    {
+      "id": 39,
+      "name": "skull",
+      "file": "inventory/39-skull.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "125c56b5b65869de79a159b10a91cd74412faef766d3add5bc2c6b25b9dde09e"
+    },
+    {
+      "id": 40,
+      "name": "up",
+      "file": "inventory/40-up.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "a95335d847a3411a70ceaa158080955173f6b8646a9895d26f9c03b98c32f86a"
+    },
+    {
+      "id": 41,
+      "name": "down",
+      "file": "inventory/41-down.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "c1ec912d0767cf8e9b258c9460a8e62d6dbf86bf6f29f1bb386ab81f194620ea"
+    },
+    {
+      "id": 42,
+      "name": "shield-item",
+      "file": "inventory/42-shield-item.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "b2d87e198a4ea858714431967cd300975999598763240a71a2f67786a6af606a"
+    },
+    {
+      "id": 43,
+      "name": "smoke-ball",
+      "file": "inventory/43-smoke-ball.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "6dbb70a4752504732c59b04b74ab345b638d06203a3c082b22cad19610394d4d"
+    },
+    {
+      "id": 44,
+      "name": "sig-stone",
+      "file": "inventory/44-sig-stone.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "3a968cd8d24efe97447519c1749a51ea33a1fa4df4c0dc98c683c29aeb327ae2"
+    },
+    {
+      "id": 45,
+      "name": "charm",
+      "file": "inventory/45-charm.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "a7ecc079819fc4bcb406fe7084a243f4bbb17a09702529d018c25e351c44b7c6"
+    },
+    {
+      "id": 46,
+      "name": "sack",
+      "file": "inventory/46-sack.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "7219e7876e9d0df583b2aa2903ddac3fd0e7975f4a99c8b6ec1074cf8e2c8819"
+    },
+    {
+      "id": 57,
+      "name": "invalid",
+      "file": "inventory/57-invalid.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "sha256": "caf166ad6cc4dd3d1d5c49149f49a998ac9c223e302e43132c7a4df0272b33c9"
+    },
+    {
+      "id": 58,
+      "name": "warning",
+      "file": "alert.png",
+      "logicalSize": [
+        16,
+        16
+      ],
+      "reuse": true
+    },
+    {
+      "id": 64,
+      "name": "none",
+      "file": null,
+      "render": false
+    }
+  ]
+}

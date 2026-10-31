@@ -1,0 +1,2477 @@
+{
+  "stage": "authoring artwork; not loaded by game",
+  "masters": [
+    {
+      "file": "gfx/ui/modern/battle/command-guard.png",
+      "sha256": "3227a04d6a1b56892c556b3ccc3eb0e44a408544a8e2210af5707c8f7ee7ef8a",
+      "kind": "command",
+      "validation": {
+        "file": "command-guard.png",
+        "width": 1774,
+        "height": 887,
+        "visibleBounds": [
+          103,
+          99,
+          1692,
+          730
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 1
+      }
+    },
+    {
+      "file": "gfx/ui/modern/battle/command-spells.png",
+      "sha256": "da0bb79f42df327247cb29293488e4ab91b31f2c39605556596253756fb4141a",
+      "kind": "command",
+      "validation": {
+        "file": "command-spells.png",
+        "width": 1774,
+        "height": 887,
+        "visibleBounds": [
+          66,
+          80,
+          1709,
+          786
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 0
+      }
+    },
+    {
+      "file": "gfx/ui/modern/battle/command-attack.png",
+      "sha256": "77811568c0302d97648b0f71b82942db8ecfdc9e789c6e4bb6b76690edb663c2",
+      "kind": "command",
+      "validation": {
+        "file": "command-attack.png",
+        "width": 1774,
+        "height": 887,
+        "visibleBounds": [
+          54,
+          24,
+          1656,
+          843
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 0
+      }
+    },
+    {
+      "file": "gfx/ui/modern/battle/command-items.png",
+      "sha256": "7be2abefa6d2803f68e4c78710670a2a36fb72dd3d00e6c6c82c1b58c5af9fde",
+      "kind": "command",
+      "validation": {
+        "file": "command-items.png",
+        "width": 2172,
+        "height": 724,
+        "visibleBounds": [
+          125,
+          50,
+          2109,
+          672
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 0
+      }
+    },
+    {
+      "file": "gfx/ui/modern/battle/command-escape.png",
+      "sha256": "58f4d15a593f62e151d6060fcf315225002b7a47e7c3999a58fda42deac4316a",
+      "kind": "command",
+      "validation": {
+        "file": "command-escape.png",
+        "width": 1774,
+        "height": 887,
+        "visibleBounds": [
+          63,
+          154,
+          1721,
+          775
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 0
+      }
+    },
+    {
+      "file": "gfx/ui/modern/battle/command-special.png",
+      "sha256": "5c29434cc9c9a3caf87c403e07581b471c0613da5626f0dbdd2c955bc5a0d9a0",
+      "kind": "command",
+      "validation": {
+        "file": "command-special.png",
+        "width": 1774,
+        "height": 887,
+        "visibleBounds": [
+          112,
+          245,
+          1664,
+          670
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 0
+      }
+    },
+    {
+      "file": "gfx/ui/modern/battle/command-unused-slot.png",
+      "sha256": "dae84ac00c8657f1e5e43aa2a8067987010ce8c2414ee428052b027254d3b2e7",
+      "kind": "command",
+      "validation": {
+        "file": "command-unused-slot.png",
+        "width": 1774,
+        "height": 887,
+        "visibleBounds": [
+          122,
+          149,
+          1629,
+          707
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 0
+      }
+    },
+    {
+      "file": "gfx/ui/modern/battle/command-dragoon-attack.png",
+      "sha256": "708d13820b77dd6d8f7a5698eb4e239d62c3b21fd2920f9e6f03ace2cb271376",
+      "kind": "command",
+      "validation": {
+        "file": "command-dragoon-attack.png",
+        "width": 1774,
+        "height": 887,
+        "visibleBounds": [
+          64,
+          61,
+          1641,
+          826
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 1
+      }
+    },
+    {
+      "file": "gfx/ui/modern/battle/element-none.png",
+      "sha256": "7110e438333bca412eb925d9e8891e3e2af4a4b050fd6ffcc017082879ef28f8",
+      "kind": "element",
+      "validation": {
+        "file": "element-none.png",
+        "width": 1254,
+        "height": 1254,
+        "visibleBounds": [
+          76,
+          79,
+          1177,
+          1179
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 1
+      }
+    },
+    {
+      "file": "gfx/ui/modern/battle/element-physical.png",
+      "sha256": "c25a1f3c9d93ef1d100b14588d2ee67a1bb4f469315f4fe290780b024c23d1cb",
+      "kind": "element",
+      "validation": {
+        "file": "element-physical.png",
+        "width": 1254,
+        "height": 1254,
+        "visibleBounds": [
+          99,
+          112,
+          1155,
+          1127
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 1
+      }
+    },
+    {
+      "file": "gfx/ui/modern/battle/element-water.png",
+      "sha256": "8f886d5b642191a10242fd6db7ad949be9afcdde5d37976c5e9b5b17ed635bbc",
+      "kind": "element",
+      "validation": {
+        "file": "element-water.png",
+        "width": 1254,
+        "height": 1254,
+        "visibleBounds": [
+          221,
+          34,
+          1088,
+          1223
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 1
+      }
+    },
+    {
+      "file": "gfx/ui/modern/battle/element-earth.png",
+      "sha256": "bcf6c506f1e7373dfadc374d6d6ede2c6e017f6f094d04933bfbb84b66830a6f",
+      "kind": "element",
+      "validation": {
+        "file": "element-earth.png",
+        "width": 1254,
+        "height": 1254,
+        "visibleBounds": [
+          85,
+          95,
+          1172,
+          1163
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 1
+      }
+    },
+    {
+      "file": "gfx/ui/modern/battle/element-dark.png",
+      "sha256": "204ac205c7c772b240d8f427402bd537b2e62e1365347ea43cd3029c43d77689",
+      "kind": "element",
+      "validation": {
+        "file": "element-dark.png",
+        "width": 1254,
+        "height": 1254,
+        "visibleBounds": [
+          118,
+          111,
+          1140,
+          1140
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 1
+      }
+    },
+    {
+      "file": "gfx/ui/modern/battle/element-divine.png",
+      "sha256": "0f5d72db77b1320c749b8b26204ddd36390c625bf884f612c87fbf745814d76d",
+      "kind": "element",
+      "validation": {
+        "file": "element-divine.png",
+        "width": 1254,
+        "height": 1254,
+        "visibleBounds": [
+          47,
+          46,
+          1204,
+          1191
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 1
+      }
+    },
+    {
+      "file": "gfx/ui/modern/battle/element-thunder.png",
+      "sha256": "e3ee8eb8d21054ba8ebd8f0f766b739216ac6e46bed6953f973cda6f17abc39a",
+      "kind": "element",
+      "validation": {
+        "file": "element-thunder.png",
+        "width": 1254,
+        "height": 1254,
+        "visibleBounds": [
+          137,
+          131,
+          1117,
+          1107
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 1
+      }
+    },
+    {
+      "file": "gfx/ui/modern/battle/element-light.png",
+      "sha256": "0abfb7a578f3721afd80a48f50bc5fd4d5fb9a5129bf708796119c5f6e76e6c5",
+      "kind": "element",
+      "validation": {
+        "file": "element-light.png",
+        "width": 1254,
+        "height": 1254,
+        "visibleBounds": [
+          55,
+          53,
+          1199,
+          1183
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 1
+      }
+    },
+    {
+      "file": "gfx/ui/modern/battle/element-wind.png",
+      "sha256": "92b6b36fe0b78c051145c61c0cb47298b48571bbd86ba6aece25a5b7da385559",
+      "kind": "element",
+      "validation": {
+        "file": "element-wind.png",
+        "width": 1254,
+        "height": 1254,
+        "visibleBounds": [
+          76,
+          110,
+          1188,
+          1160
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 1
+      }
+    },
+    {
+      "file": "gfx/ui/modern/battle/element-fire.png",
+      "sha256": "273c50e10ed9b2246684888a13142ea6ccf0637da993b057f394c15dcf2f59c9",
+      "kind": "element",
+      "validation": {
+        "file": "element-fire.png",
+        "width": 1254,
+        "height": 1254,
+        "visibleBounds": [
+          96,
+          12,
+          1181,
+          1243
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 1
+      }
+    },
+    {
+      "file": "gfx/ui/modern/battle/target-master.png",
+      "sha256": "cd9d0dddee9f3f62ca587afaf6218e16b648ce758fbba366d383ae6f0962e965",
+      "kind": "symbol",
+      "validation": {
+        "file": "target-master.png",
+        "width": 1254,
+        "height": 1254,
+        "visibleBounds": [
+          434,
+          187,
+          821,
+          1068
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 0
+      }
+    },
+    {
+      "file": "gfx/ui/modern/battle/disabled-cross.png",
+      "sha256": "2ce4cb385ce18e1e80d6c790789ac7133b220ad676d02df27b5a2afc5229288d",
+      "kind": "symbol",
+      "validation": {
+        "file": "disabled-cross.png",
+        "width": 1254,
+        "height": 1254,
+        "visibleBounds": [
+          183,
+          176,
+          1066,
+          1057
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 0
+      }
+    },
+    {
+      "file": "gfx/ui/modern/battle/timing-star.png",
+      "sha256": "b3eb6f6be7ffda780a8c0ee28915d5a4262040ac1961ceb7d816a102e88d1444",
+      "kind": "symbol",
+      "validation": {
+        "file": "timing-star.png",
+        "width": 1254,
+        "height": 1254,
+        "visibleBounds": [
+          90,
+          60,
+          1164,
+          1162
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 0
+      }
+    },
+    {
+      "file": "gfx/ui/modern/battle/prompt-arrow.png",
+      "sha256": "996b5f4294966e828d40f1d052dcac5b984c485e6205c34d702a354b8025f953",
+      "kind": "symbol",
+      "validation": {
+        "file": "prompt-arrow.png",
+        "width": 1774,
+        "height": 887,
+        "visibleBounds": [
+          579,
+          168,
+          1194,
+          735
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 0
+      }
+    },
+    {
+      "file": "gfx/ui/modern/battle/change-addition-poses.png",
+      "sha256": "3ec1c580bcf54a64c26c795858328a92204b0925dca83629e85860b3e2b6705f",
+      "kind": "addition",
+      "validation": {
+        "file": "change-addition-poses.png",
+        "width": 1774,
+        "height": 887,
+        "visibleBounds": [
+          72,
+          154,
+          1702,
+          703
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 0
+      }
+    },
+    {
+      "file": "gfx/ui/modern/battle/detransform-arrow.png",
+      "sha256": "a2260df6e9c116482dfdbb9d195c173472dd94886ae91297f192f5c24b61fab0",
+      "kind": "symbol",
+      "validation": {
+        "file": "detransform-arrow.png",
+        "width": 1024,
+        "height": 1536,
+        "visibleBounds": [
+          181,
+          165,
+          844,
+          1329
+        ],
+        "alphaMin": 0,
+        "alphaMax": 254,
+        "edgeAlphaMax": 0
+      }
+    },
+    {
+      "file": "gfx/ui/modern/battle/eye-button-poses.png",
+      "sha256": "fcca51da9ddd9619d7a700984770308eabd6330551025df90036576715f3fd6f",
+      "kind": "prompt",
+      "validation": {
+        "file": "eye-button-poses.png",
+        "width": 2172,
+        "height": 724,
+        "visibleBounds": [
+          44,
+          158,
+          2075,
+          539
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 1
+      }
+    },
+    {
+      "file": "gfx/ui/modern/battle/cross-button-poses.png",
+      "sha256": "c3e2af10c9f07969485f1b81f87580385833a9d701df669b95ef48e2a215625c",
+      "kind": "prompt",
+      "validation": {
+        "file": "cross-button-poses.png",
+        "width": 2172,
+        "height": 724,
+        "visibleBounds": [
+          17,
+          139,
+          2161,
+          559
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 2
+      }
+    }
+  ],
+  "poseCells": [
+    {
+      "file": "change-addition-poses.png",
+      "index": 0,
+      "sourceRect": [
+        0,
+        0,
+        624,
+        887
+      ],
+      "visibleBounds": [
+        72,
+        154,
+        579,
+        703
+      ],
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "change-addition-poses.png",
+      "index": 1,
+      "sourceRect": [
+        624,
+        0,
+        557,
+        887
+      ],
+      "visibleBounds": [
+        48,
+        169,
+        493,
+        698
+      ],
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "change-addition-poses.png",
+      "index": 2,
+      "sourceRect": [
+        1181,
+        0,
+        593,
+        887
+      ],
+      "visibleBounds": [
+        64,
+        186,
+        521,
+        686
+      ],
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "command-attack.png",
+      "index": 0,
+      "sourceRect": [
+        0,
+        0,
+        681,
+        887
+      ],
+      "visibleBounds": [
+        54,
+        121,
+        593,
+        779
+      ],
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "command-attack.png",
+      "index": 1,
+      "sourceRect": [
+        681,
+        0,
+        535,
+        887
+      ],
+      "visibleBounds": [
+        90,
+        49,
+        408,
+        836
+      ],
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "command-attack.png",
+      "index": 2,
+      "sourceRect": [
+        1216,
+        0,
+        558,
+        887
+      ],
+      "visibleBounds": [
+        130,
+        24,
+        440,
+        843
+      ],
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "command-dragoon-attack.png",
+      "index": 0,
+      "sourceRect": [
+        0,
+        0,
+        723,
+        887
+      ],
+      "visibleBounds": [
+        64,
+        143,
+        650,
+        748
+      ],
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "command-dragoon-attack.png",
+      "index": 1,
+      "sourceRect": [
+        723,
+        0,
+        491,
+        887
+      ],
+      "visibleBounds": [
+        77,
+        80,
+        374,
+        823
+      ],
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "command-dragoon-attack.png",
+      "index": 2,
+      "sourceRect": [
+        1214,
+        0,
+        560,
+        887
+      ],
+      "visibleBounds": [
+        118,
+        61,
+        427,
+        826
+      ],
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "command-escape.png",
+      "index": 0,
+      "sourceRect": [
+        0,
+        0,
+        692,
+        887
+      ],
+      "visibleBounds": [
+        63,
+        198,
+        618,
+        725
+      ],
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "command-escape.png",
+      "index": 1,
+      "sourceRect": [
+        692,
+        0,
+        606,
+        887
+      ],
+      "visibleBounds": [
+        77,
+        170,
+        525,
+        757
+      ],
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "command-escape.png",
+      "index": 2,
+      "sourceRect": [
+        1298,
+        0,
+        476,
+        887
+      ],
+      "visibleBounds": [
+        81,
+        154,
+        423,
+        775
+      ],
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "command-guard.png",
+      "index": 0,
+      "sourceRect": [
+        0,
+        0,
+        639,
+        887
+      ],
+      "visibleBounds": [
+        103,
+        99,
+        545,
+        723
+      ],
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "command-guard.png",
+      "index": 1,
+      "sourceRect": [
+        639,
+        0,
+        626,
+        887
+      ],
+      "visibleBounds": [
+        97,
+        111,
+        502,
+        730
+      ],
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "command-guard.png",
+      "index": 2,
+      "sourceRect": [
+        1265,
+        0,
+        509,
+        887
+      ],
+      "visibleBounds": [
+        126,
+        115,
+        427,
+        724
+      ],
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "command-items.png",
+      "index": 0,
+      "sourceRect": [
+        0,
+        0,
+        736,
+        724
+      ],
+      "visibleBounds": [
+        125,
+        171,
+        632,
+        651
+      ],
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "command-items.png",
+      "index": 1,
+      "sourceRect": [
+        736,
+        0,
+        716,
+        724
+      ],
+      "visibleBounds": [
+        104,
+        145,
+        619,
+        664
+      ],
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "command-items.png",
+      "index": 2,
+      "sourceRect": [
+        1452,
+        0,
+        720,
+        724
+      ],
+      "visibleBounds": [
+        98,
+        50,
+        657,
+        672
+      ],
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "command-special.png",
+      "index": 0,
+      "sourceRect": [
+        0,
+        0,
+        610,
+        887
+      ],
+      "visibleBounds": [
+        112,
+        245,
+        547,
+        670
+      ],
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "command-special.png",
+      "index": 1,
+      "sourceRect": [
+        610,
+        0,
+        559,
+        887
+      ],
+      "visibleBounds": [
+        66,
+        245,
+        497,
+        670
+      ],
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "command-special.png",
+      "index": 2,
+      "sourceRect": [
+        1169,
+        0,
+        605,
+        887
+      ],
+      "visibleBounds": [
+        63,
+        245,
+        495,
+        670
+      ],
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "command-spells.png",
+      "index": 0,
+      "sourceRect": [
+        0,
+        0,
+        645,
+        887
+      ],
+      "visibleBounds": [
+        66,
+        100,
+        547,
+        710
+      ],
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "command-spells.png",
+      "index": 1,
+      "sourceRect": [
+        645,
+        0,
+        483,
+        887
+      ],
+      "visibleBounds": [
+        99,
+        80,
+        384,
+        786
+      ],
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "command-spells.png",
+      "index": 2,
+      "sourceRect": [
+        1128,
+        0,
+        646,
+        887
+      ],
+      "visibleBounds": [
+        100,
+        101,
+        581,
+        711
+      ],
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "command-unused-slot.png",
+      "index": 0,
+      "sourceRect": [
+        0,
+        0,
+        604,
+        887
+      ],
+      "visibleBounds": [
+        122,
+        150,
+        495,
+        706
+      ],
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "command-unused-slot.png",
+      "index": 1,
+      "sourceRect": [
+        604,
+        0,
+        631,
+        887
+      ],
+      "visibleBounds": [
+        111,
+        149,
+        479,
+        707
+      ],
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "command-unused-slot.png",
+      "index": 2,
+      "sourceRect": [
+        1235,
+        0,
+        539,
+        887
+      ],
+      "visibleBounds": [
+        151,
+        149,
+        394,
+        707
+      ],
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "cross-button-poses.png",
+      "index": 0,
+      "sourceRect": [
+        0,
+        0,
+        723,
+        724
+      ],
+      "visibleBounds": [
+        17,
+        139,
+        697,
+        559
+      ],
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "cross-button-poses.png",
+      "index": 1,
+      "sourceRect": [
+        723,
+        0,
+        724,
+        724
+      ],
+      "visibleBounds": [
+        27,
+        177,
+        699,
+        541
+      ],
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "cross-button-poses.png",
+      "index": 2,
+      "sourceRect": [
+        1447,
+        0,
+        725,
+        724
+      ],
+      "visibleBounds": [
+        25,
+        225,
+        714,
+        520
+      ],
+      "edgeAlphaMax": 2
+    },
+    {
+      "file": "eye-button-poses.png",
+      "index": 0,
+      "sourceRect": [
+        0,
+        0,
+        747,
+        724
+      ],
+      "visibleBounds": [
+        44,
+        158,
+        712,
+        539
+      ],
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "eye-button-poses.png",
+      "index": 1,
+      "sourceRect": [
+        747,
+        0,
+        722,
+        724
+      ],
+      "visibleBounds": [
+        39,
+        196,
+        656,
+        517
+      ],
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "eye-button-poses.png",
+      "index": 2,
+      "sourceRect": [
+        1469,
+        0,
+        703,
+        724
+      ],
+      "visibleBounds": [
+        67,
+        193,
+        606,
+        527
+      ],
+      "edgeAlphaMax": 0
+    }
+  ],
+  "commands": [
+    {
+      "slot": 0,
+      "name": "guard",
+      "originalPoses": [
+        {
+          "slot": 0,
+          "name": "guard",
+          "pose": 0,
+          "uv": [
+            112,
+            64,
+            16,
+            16,
+            28
+          ],
+          "blend": 0,
+          "visibleBounds": [
+            1,
+            0,
+            15,
+            16
+          ]
+        },
+        {
+          "slot": 0,
+          "name": "guard",
+          "pose": 1,
+          "uv": [
+            112,
+            80,
+            16,
+            16,
+            28
+          ],
+          "blend": 0,
+          "visibleBounds": [
+            2,
+            1,
+            14,
+            16
+          ]
+        },
+        {
+          "slot": 0,
+          "name": "guard",
+          "pose": 2,
+          "uv": [
+            112,
+            96,
+            16,
+            16,
+            28
+          ],
+          "blend": 0,
+          "visibleBounds": [
+            1,
+            0,
+            15,
+            16
+          ]
+        }
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/battle/command-guard.png"
+      },
+      "selectedPoseOrder": [
+        0,
+        1,
+        2,
+        1
+      ],
+      "unselectedPose": 0,
+      "anchor": "original bottom at menu.y; preserve per-pose 16/24 pixel height",
+      "ticksPerSelectedPose": 4
+    },
+    {
+      "slot": 1,
+      "name": "transform-legacy",
+      "originalPoses": [
+        {
+          "slot": 1,
+          "name": "transform-legacy",
+          "pose": 0,
+          "uv": [
+            80,
+            64,
+            16,
+            16,
+            25
+          ],
+          "blend": -1,
+          "visibleBounds": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        {
+          "slot": 1,
+          "name": "transform-legacy",
+          "pose": 1,
+          "uv": [
+            80,
+            80,
+            16,
+            16,
+            25
+          ],
+          "blend": -1,
+          "visibleBounds": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        {
+          "slot": 1,
+          "name": "transform-legacy",
+          "pose": 2,
+          "uv": [
+            80,
+            96,
+            16,
+            16,
+            25
+          ],
+          "blend": -1,
+          "visibleBounds": [
+            0,
+            0,
+            15,
+            16
+          ]
+        }
+      ],
+      "recipe": {
+        "manifest": "gfx/ui/modern/goods-spirits.json",
+        "master": "gfx/ui/modern/spirits/spirit-orb-poses.png",
+        "palette": "original fixed red palette for legacy slot; current Transform uses character element and Divine overlay"
+      },
+      "selectedPoseOrder": [
+        0,
+        1,
+        2,
+        1
+      ],
+      "unselectedPose": 0,
+      "anchor": "original bottom at menu.y; preserve per-pose 16/24 pixel height",
+      "ticksPerSelectedPose": 4
+    },
+    {
+      "slot": 2,
+      "name": "spells",
+      "originalPoses": [
+        {
+          "slot": 2,
+          "name": "spells",
+          "pose": 0,
+          "uv": [
+            64,
+            64,
+            16,
+            16,
+            24
+          ],
+          "blend": 1,
+          "visibleBounds": [
+            0,
+            0,
+            15,
+            15
+          ]
+        },
+        {
+          "slot": 2,
+          "name": "spells",
+          "pose": 1,
+          "uv": [
+            64,
+            80,
+            16,
+            24,
+            24
+          ],
+          "blend": 1,
+          "visibleBounds": [
+            2,
+            0,
+            14,
+            24
+          ]
+        },
+        {
+          "slot": 2,
+          "name": "spells",
+          "pose": 2,
+          "uv": [
+            64,
+            104,
+            16,
+            24,
+            24
+          ],
+          "blend": 1,
+          "visibleBounds": [
+            1,
+            8,
+            16,
+            23
+          ]
+        }
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/battle/command-spells.png"
+      },
+      "selectedPoseOrder": [
+        0,
+        1,
+        2,
+        1
+      ],
+      "unselectedPose": 0,
+      "anchor": "original bottom at menu.y; preserve per-pose 16/24 pixel height",
+      "ticksPerSelectedPose": 4
+    },
+    {
+      "slot": 3,
+      "name": "attack",
+      "originalPoses": [
+        {
+          "slot": 3,
+          "name": "attack",
+          "pose": 0,
+          "uv": [
+            16,
+            64,
+            16,
+            16,
+            21
+          ],
+          "blend": -1,
+          "visibleBounds": [
+            0,
+            0,
+            15,
+            15
+          ]
+        },
+        {
+          "slot": 3,
+          "name": "attack",
+          "pose": 1,
+          "uv": [
+            16,
+            80,
+            16,
+            24,
+            21
+          ],
+          "blend": -1,
+          "visibleBounds": [
+            2,
+            4,
+            14,
+            23
+          ]
+        },
+        {
+          "slot": 3,
+          "name": "attack",
+          "pose": 2,
+          "uv": [
+            16,
+            104,
+            16,
+            24,
+            21
+          ],
+          "blend": -1,
+          "visibleBounds": [
+            4,
+            2,
+            13,
+            24
+          ]
+        }
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/battle/command-attack.png"
+      },
+      "selectedPoseOrder": [
+        0,
+        1,
+        2,
+        1
+      ],
+      "unselectedPose": 0,
+      "anchor": "original bottom at menu.y; preserve per-pose 16/24 pixel height",
+      "ticksPerSelectedPose": 4
+    },
+    {
+      "slot": 4,
+      "name": "items",
+      "originalPoses": [
+        {
+          "slot": 4,
+          "name": "items",
+          "pose": 0,
+          "uv": [
+            32,
+            64,
+            16,
+            16,
+            22
+          ],
+          "blend": -1,
+          "visibleBounds": [
+            1,
+            0,
+            16,
+            16
+          ]
+        },
+        {
+          "slot": 4,
+          "name": "items",
+          "pose": 1,
+          "uv": [
+            32,
+            80,
+            16,
+            24,
+            22
+          ],
+          "blend": -1,
+          "visibleBounds": [
+            1,
+            6,
+            16,
+            24
+          ]
+        },
+        {
+          "slot": 4,
+          "name": "items",
+          "pose": 2,
+          "uv": [
+            32,
+            104,
+            16,
+            24,
+            22
+          ],
+          "blend": -1,
+          "visibleBounds": [
+            1,
+            6,
+            16,
+            24
+          ]
+        }
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/battle/command-items.png"
+      },
+      "selectedPoseOrder": [
+        0,
+        1,
+        2,
+        1
+      ],
+      "unselectedPose": 0,
+      "anchor": "original bottom at menu.y; preserve per-pose 16/24 pixel height",
+      "ticksPerSelectedPose": 4
+    },
+    {
+      "slot": 5,
+      "name": "escape",
+      "originalPoses": [
+        {
+          "slot": 5,
+          "name": "escape",
+          "pose": 0,
+          "uv": [
+            48,
+            64,
+            16,
+            16,
+            23
+          ],
+          "blend": -1,
+          "visibleBounds": [
+            3,
+            1,
+            16,
+            16
+          ]
+        },
+        {
+          "slot": 5,
+          "name": "escape",
+          "pose": 1,
+          "uv": [
+            48,
+            80,
+            16,
+            24,
+            23
+          ],
+          "blend": -1,
+          "visibleBounds": [
+            3,
+            7,
+            15,
+            24
+          ]
+        },
+        {
+          "slot": 5,
+          "name": "escape",
+          "pose": 2,
+          "uv": [
+            48,
+            104,
+            16,
+            24,
+            23
+          ],
+          "blend": -1,
+          "visibleBounds": [
+            3,
+            7,
+            15,
+            24
+          ]
+        }
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/battle/command-escape.png"
+      },
+      "selectedPoseOrder": [
+        0,
+        1,
+        2,
+        1
+      ],
+      "unselectedPose": 0,
+      "anchor": "original bottom at menu.y; preserve per-pose 16/24 pixel height",
+      "ticksPerSelectedPose": 4
+    },
+    {
+      "slot": 6,
+      "name": "special",
+      "originalPoses": [
+        {
+          "slot": 6,
+          "name": "special",
+          "pose": 0,
+          "uv": [
+            96,
+            64,
+            16,
+            16,
+            26
+          ],
+          "blend": 0,
+          "visibleBounds": [
+            1,
+            1,
+            15,
+            15
+          ]
+        },
+        {
+          "slot": 6,
+          "name": "special",
+          "pose": 1,
+          "uv": [
+            96,
+            80,
+            16,
+            16,
+            26
+          ],
+          "blend": 0,
+          "visibleBounds": [
+            1,
+            1,
+            15,
+            15
+          ]
+        },
+        {
+          "slot": 6,
+          "name": "special",
+          "pose": 2,
+          "uv": [
+            96,
+            96,
+            16,
+            16,
+            26
+          ],
+          "blend": 0,
+          "visibleBounds": [
+            1,
+            1,
+            15,
+            15
+          ]
+        }
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/battle/command-special.png"
+      },
+      "selectedPoseOrder": [
+        0,
+        1,
+        2,
+        1
+      ],
+      "unselectedPose": 0,
+      "anchor": "original bottom at menu.y; preserve per-pose 16/24 pixel height",
+      "ticksPerSelectedPose": 4
+    },
+    {
+      "slot": 7,
+      "name": "unused-slot",
+      "originalPoses": [
+        {
+          "slot": 7,
+          "name": "unused-slot",
+          "pose": 0,
+          "uv": [
+            112,
+            64,
+            16,
+            16,
+            13
+          ],
+          "blend": 0,
+          "visibleBounds": [
+            2,
+            0,
+            15,
+            15
+          ]
+        },
+        {
+          "slot": 7,
+          "name": "unused-slot",
+          "pose": 1,
+          "uv": [
+            112,
+            80,
+            16,
+            16,
+            13
+          ],
+          "blend": 0,
+          "visibleBounds": [
+            2,
+            1,
+            14,
+            15
+          ]
+        },
+        {
+          "slot": 7,
+          "name": "unused-slot",
+          "pose": 2,
+          "uv": [
+            112,
+            96,
+            16,
+            16,
+            13
+          ],
+          "blend": 0,
+          "visibleBounds": [
+            1,
+            0,
+            14,
+            15
+          ]
+        }
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/battle/command-unused-slot.png"
+      },
+      "selectedPoseOrder": [
+        0,
+        1,
+        2,
+        1
+      ],
+      "unselectedPose": 0,
+      "anchor": "original bottom at menu.y; preserve per-pose 16/24 pixel height",
+      "ticksPerSelectedPose": 4
+    },
+    {
+      "slot": 8,
+      "name": "dragoon-attack",
+      "originalPoses": [
+        {
+          "slot": 8,
+          "name": "dragoon-attack",
+          "pose": 0,
+          "uv": [
+            0,
+            64,
+            16,
+            16,
+            20
+          ],
+          "blend": -1,
+          "visibleBounds": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        {
+          "slot": 8,
+          "name": "dragoon-attack",
+          "pose": 1,
+          "uv": [
+            0,
+            80,
+            16,
+            24,
+            20
+          ],
+          "blend": -1,
+          "visibleBounds": [
+            2,
+            4,
+            14,
+            23
+          ]
+        },
+        {
+          "slot": 8,
+          "name": "dragoon-attack",
+          "pose": 2,
+          "uv": [
+            0,
+            104,
+            16,
+            24,
+            20
+          ],
+          "blend": -1,
+          "visibleBounds": [
+            4,
+            2,
+            13,
+            24
+          ]
+        }
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/battle/command-dragoon-attack.png"
+      },
+      "selectedPoseOrder": [
+        0,
+        1,
+        2,
+        1
+      ],
+      "unselectedPose": 0,
+      "anchor": "original bottom at menu.y; preserve per-pose 16/24 pixel height",
+      "ticksPerSelectedPose": 4
+    }
+  ],
+  "elements": [
+    {
+      "registryId": "lod:none",
+      "original": "gfx/ui/magic.png",
+      "originalSha256": "b89233d00d716eef297771cda0b1da47c6f20e5a7d4fcf1e059defbffa3e9f94",
+      "master": "gfx/ui/modern/battle/element-none.png",
+      "logicalSize": [
+        16,
+        16
+      ]
+    },
+    {
+      "registryId": "lod:physical",
+      "original": "gfx/ui/physical.png",
+      "originalSha256": "d9d3420aa2dc39d3cd08ef765754cb1550c3285f4e4aca1c91ee8d6325b57bb7",
+      "master": "gfx/ui/modern/battle/element-physical.png",
+      "logicalSize": [
+        16,
+        16
+      ]
+    },
+    {
+      "registryId": "lod:water",
+      "original": "gfx/ui/water.png",
+      "originalSha256": "c4a35dc274ed57d4d9070b13d927b90781f4fd4daff7a1dcdb082d50ce132afd",
+      "master": "gfx/ui/modern/battle/element-water.png",
+      "logicalSize": [
+        16,
+        16
+      ]
+    },
+    {
+      "registryId": "lod:earth",
+      "original": "gfx/ui/earth.png",
+      "originalSha256": "ffeb599c3945bb359c6025c8b33aeabcc1d2a4281cee3fb00e411072f2ad71e0",
+      "master": "gfx/ui/modern/battle/element-earth.png",
+      "logicalSize": [
+        16,
+        16
+      ]
+    },
+    {
+      "registryId": "lod:dark",
+      "original": "gfx/ui/dark.png",
+      "originalSha256": "00e5f8886f507898a852313e3d3428a96abcff053d730ccde58325a66a51f6e5",
+      "master": "gfx/ui/modern/battle/element-dark.png",
+      "logicalSize": [
+        16,
+        16
+      ]
+    },
+    {
+      "registryId": "lod:divine",
+      "original": "gfx/ui/divine.png",
+      "originalSha256": "44e1875019b6eb6fbe09206eef15951cf56b9dca4c92a51c2d443001a4b29c3e",
+      "master": "gfx/ui/modern/battle/element-divine.png",
+      "logicalSize": [
+        16,
+        16
+      ]
+    },
+    {
+      "registryId": "lod:thunder",
+      "original": "gfx/ui/thunder.png",
+      "originalSha256": "0a3778b974ae05f1f8a0ecb29d56d2c2b4ba12bc72bb0847697a99c057e92199",
+      "master": "gfx/ui/modern/battle/element-thunder.png",
+      "logicalSize": [
+        16,
+        16
+      ]
+    },
+    {
+      "registryId": "lod:light",
+      "original": "gfx/ui/light.png",
+      "originalSha256": "3d658c1633edc57016591f4848aa9c2dad965fa40fcd0ae7a03910ca52281629",
+      "master": "gfx/ui/modern/battle/element-light.png",
+      "logicalSize": [
+        16,
+        16
+      ]
+    },
+    {
+      "registryId": "lod:wind",
+      "original": "gfx/ui/wind.png",
+      "originalSha256": "96d1ef3baec910f04ff17967bfdfb789b589cbee7bf51a660c6e18781ccdc5f8",
+      "master": "gfx/ui/modern/battle/element-wind.png",
+      "logicalSize": [
+        16,
+        16
+      ]
+    },
+    {
+      "registryId": "lod:fire",
+      "original": "gfx/ui/fire.png",
+      "originalSha256": "6aa02bcdc4c36da6ee21fa1bf72a8505ab6084fad55339cf29e23e0418eace82",
+      "master": "gfx/ui/modern/battle/element-fire.png",
+      "logicalSize": [
+        16,
+        16
+      ]
+    }
+  ],
+  "target": {
+    "master": "gfx/ui/modern/battle/target-master.png",
+    "sampleSize": [
+      16,
+      23
+    ],
+    "logicalSize": [
+      16,
+      24
+    ],
+    "palettes": [
+      {
+        "name": "blue",
+        "clut": [
+          720,
+          510
+        ],
+        "hp": "greater than half"
+      },
+      {
+        "name": "yellow",
+        "clut": [
+          720,
+          511
+        ],
+        "hp": "greater than quarter through half"
+      },
+      {
+        "name": "red",
+        "clut": [
+          736,
+          496
+        ],
+        "hp": "quarter or less"
+      }
+    ],
+    "yOffsets": [
+      -20,
+      -18,
+      -16,
+      -14,
+      -12,
+      -14,
+      -16,
+      -18
+    ],
+    "clock": "tickCount & 7",
+    "placement": "keep projected target position, x minus8, targetability and group-target checks"
+  },
+  "additionalCommands": [
+    {
+      "registryId": "lod:additions",
+      "master": "gfx/ui/modern/battle/change-addition-poses.png",
+      "source": "gfx/ui/battle_icons.png",
+      "sourceRect": [
+        0,
+        0,
+        48,
+        16
+      ],
+      "logicalSize": [
+        16,
+        16
+      ],
+      "frameCount": 3,
+      "clock": "existing tickCount modulo4 logic in SeveredBattleAction; preserve unselected reset"
+    },
+    {
+      "name": "detransform-mode indicator",
+      "master": "gfx/ui/modern/battle/detransform-arrow.png",
+      "source": "gfx/ui/battle_icons.png",
+      "sourceRect": [
+        0,
+        16,
+        16,
+        16
+      ],
+      "logicalSize": [
+        16,
+        16
+      ]
+    }
+  ],
+  "transformReuse": {
+    "manifest": "gfx/ui/modern/goods-spirits.json",
+    "preserve": "character template element selection, Dart Divine override, original overlay blend and attachment"
+  },
+  "disabledCross": {
+    "master": "gfx/ui/modern/battle/disabled-cross.png",
+    "original": {
+      "name": "disabled-cross",
+      "uv": [
+        96,
+        112,
+        16,
+        16,
+        25
+      ],
+      "visibleBounds": [
+        1,
+        1,
+        15,
+        15
+      ]
+    }
+  },
+  "timingStar": {
+    "master": "gfx/ui/modern/battle/timing-star.png",
+    "original": {
+      "name": "dragoon-star",
+      "uv": [
+        128,
+        64,
+        16,
+        16,
+        51
+      ],
+      "visibleBounds": [
+        0,
+        1,
+        15,
+        16
+      ]
+    },
+    "preserve": "blue palette0x33, spinner path, brightness and additive blend"
+  },
+  "timingArrow": {
+    "master": "gfx/ui/modern/battle/target-master.png",
+    "original": {
+      "name": "dragoon-timing-arrow",
+      "uv": [
+        152,
+        208,
+        8,
+        24,
+        50
+      ],
+      "visibleBounds": [
+        0,
+        0,
+        7,
+        24
+      ]
+    },
+    "palette": "original gold CLUT0x32",
+    "rotationClockwise": 0,
+    "preserve": "8x24 bounds, original pos32,-4, HALF_B_PLUS_HALF_F blend"
+  },
+  "prompts": [
+    {
+      "index": 0,
+      "original": {
+        "index": 0,
+        "type": 0,
+        "rawMetrics": [
+          0,
+          184,
+          96,
+          24,
+          16,
+          42
+        ],
+        "signedSize": [
+          24,
+          16
+        ],
+        "uv": [
+          184,
+          96,
+          24,
+          16,
+          42
+        ],
+        "visibleBounds": [
+          0,
+          4,
+          23,
+          16
+        ]
+      },
+      "recipe": {
+        "master": "gfx/ui/modern/battle/eye-button-poses.png",
+        "pose": 0,
+        "palette": "original packed CLUT"
+      }
+    },
+    {
+      "index": 1,
+      "original": {
+        "index": 1,
+        "type": 0,
+        "rawMetrics": [
+          0,
+          208,
+          96,
+          24,
+          16,
+          42
+        ],
+        "signedSize": [
+          24,
+          16
+        ],
+        "uv": [
+          208,
+          96,
+          24,
+          16,
+          42
+        ],
+        "visibleBounds": [
+          0,
+          3,
+          23,
+          16
+        ]
+      },
+      "recipe": {
+        "master": "gfx/ui/modern/battle/eye-button-poses.png",
+        "pose": 1,
+        "palette": "original packed CLUT"
+      }
+    },
+    {
+      "index": 2,
+      "original": {
+        "index": 2,
+        "type": 0,
+        "rawMetrics": [
+          0,
+          232,
+          96,
+          23,
+          23,
+          42
+        ],
+        "signedSize": [
+          23,
+          23
+        ],
+        "uv": [
+          232,
+          96,
+          23,
+          23,
+          42
+        ],
+        "visibleBounds": [
+          0,
+          2,
+          23,
+          19
+        ]
+      },
+      "recipe": {
+        "master": "gfx/ui/modern/battle/eye-button-poses.png",
+        "pose": 2,
+        "palette": "original packed CLUT"
+      }
+    },
+    {
+      "index": 18,
+      "original": {
+        "index": 18,
+        "type": 0,
+        "rawMetrics": [
+          0,
+          184,
+          96,
+          16,
+          16,
+          27
+        ],
+        "signedSize": [
+          16,
+          16
+        ],
+        "uv": [
+          184,
+          96,
+          16,
+          16,
+          27
+        ],
+        "visibleBounds": [
+          0,
+          4,
+          16,
+          16
+        ]
+      },
+      "recipe": {
+        "master": "gfx/ui/modern/battle/eye-button-poses.png",
+        "palette": "original packed CLUT",
+        "atlasSlice": "preserve original overlapping source rectangle across eye poses0 and1; fit and bake before runtime"
+      }
+    },
+    {
+      "index": 19,
+      "original": {
+        "index": 19,
+        "type": 0,
+        "rawMetrics": [
+          0,
+          200,
+          96,
+          16,
+          16,
+          19
+        ],
+        "signedSize": [
+          16,
+          16
+        ],
+        "uv": [
+          200,
+          96,
+          16,
+          16,
+          19
+        ],
+        "visibleBounds": [
+          0,
+          3,
+          16,
+          16
+        ]
+      },
+      "recipe": {
+        "master": "gfx/ui/modern/battle/eye-button-poses.png",
+        "palette": "original packed CLUT",
+        "atlasSlice": "preserve original overlapping source rectangle across eye poses0 and1; fit and bake before runtime"
+      }
+    },
+    {
+      "index": 33,
+      "original": {
+        "index": 33,
+        "type": 0,
+        "rawMetrics": [
+          0,
+          0,
+          208,
+          24,
+          24,
+          29
+        ],
+        "signedSize": [
+          24,
+          24
+        ],
+        "uv": [
+          0,
+          208,
+          24,
+          24,
+          29
+        ],
+        "visibleBounds": [
+          0,
+          0,
+          24,
+          24
+        ]
+      },
+      "recipe": {
+        "master": "gfx/ui/modern/battle/cross-button-poses.png",
+        "pose": 0,
+        "palette": "original packed CLUT"
+      }
+    },
+    {
+      "index": 34,
+      "original": {
+        "index": 34,
+        "type": 0,
+        "rawMetrics": [
+          0,
+          24,
+          208,
+          24,
+          24,
+          29
+        ],
+        "signedSize": [
+          24,
+          24
+        ],
+        "uv": [
+          24,
+          208,
+          24,
+          24,
+          29
+        ],
+        "visibleBounds": [
+          0,
+          0,
+          24,
+          24
+        ]
+      },
+      "recipe": {
+        "master": "gfx/ui/modern/battle/cross-button-poses.png",
+        "pose": 1,
+        "palette": "original packed CLUT"
+      }
+    },
+    {
+      "index": 35,
+      "original": {
+        "index": 35,
+        "type": 0,
+        "rawMetrics": [
+          0,
+          48,
+          208,
+          24,
+          24,
+          29
+        ],
+        "signedSize": [
+          24,
+          24
+        ],
+        "uv": [
+          48,
+          208,
+          24,
+          24,
+          29
+        ],
+        "visibleBounds": [
+          0,
+          0,
+          24,
+          24
+        ]
+      },
+      "recipe": {
+        "master": "gfx/ui/modern/battle/cross-button-poses.png",
+        "pose": 2,
+        "palette": "original packed CLUT"
+      }
+    },
+    {
+      "index": 36,
+      "original": {
+        "index": 36,
+        "type": 1,
+        "rawMetrics": [
+          1,
+          239,
+          15,
+          224,
+          8,
+          18
+        ],
+        "signedSize": [
+          -15,
+          -7
+        ],
+        "uv": [
+          239,
+          15,
+          15,
+          7,
+          18
+        ],
+        "visibleBounds": [
+          1,
+          0,
+          12,
+          7
+        ]
+      },
+      "recipe": {
+        "master": "gfx/ui/modern/battle/prompt-arrow.png",
+        "preserve": "original signed UV orientation; match final displayed downward direction"
+      }
+    },
+    {
+      "index": 38,
+      "original": {
+        "index": 38,
+        "type": 0,
+        "rawMetrics": [
+          0,
+          184,
+          96,
+          24,
+          24,
+          19
+        ],
+        "signedSize": [
+          24,
+          24
+        ],
+        "uv": [
+          184,
+          96,
+          24,
+          24,
+          19
+        ],
+        "visibleBounds": [
+          0,
+          4,
+          23,
+          19
+        ]
+      },
+      "recipe": {
+        "master": "gfx/ui/modern/battle/eye-button-poses.png",
+        "pose": 0,
+        "palette": "original packed CLUT"
+      }
+    },
+    {
+      "index": 39,
+      "original": {
+        "index": 39,
+        "type": 0,
+        "rawMetrics": [
+          0,
+          208,
+          96,
+          24,
+          24,
+          19
+        ],
+        "signedSize": [
+          24,
+          24
+        ],
+        "uv": [
+          208,
+          96,
+          24,
+          24,
+          19
+        ],
+        "visibleBounds": [
+          0,
+          3,
+          23,
+          19
+        ]
+      },
+      "recipe": {
+        "master": "gfx/ui/modern/battle/eye-button-poses.png",
+        "pose": 1,
+        "palette": "original packed CLUT"
+      }
+    },
+    {
+      "index": 40,
+      "original": {
+        "index": 40,
+        "type": 0,
+        "rawMetrics": [
+          0,
+          232,
+          96,
+          23,
+          24,
+          19
+        ],
+        "signedSize": [
+          23,
+          24
+        ],
+        "uv": [
+          232,
+          96,
+          23,
+          24,
+          19
+        ],
+        "visibleBounds": [
+          0,
+          2,
+          23,
+          19
+        ]
+      },
+      "recipe": {
+        "master": "gfx/ui/modern/battle/eye-button-poses.png",
+        "pose": 2,
+        "palette": "original packed CLUT"
+      }
+    }
+  ],
+  "excludedPromptEntries": {
+    "3": "text/digits",
+    "4": "text/digits",
+    "5": "text/digits",
+    "6": "text/digits",
+    "7": "text/digits",
+    "8": "text/digits",
+    "9": "text/digits",
+    "10": "text/digits",
+    "11": "text/digits",
+    "12": "text/digits",
+    "13": "text/digits",
+    "14": "text/digits",
+    "15": "text/digits",
+    "16": "text/digits",
+    "17": "text/digits",
+    "20": "panel, glow or effect layer",
+    "21": "panel, glow or effect layer",
+    "22": "panel, glow or effect layer",
+    "23": "text/digits",
+    "24": "panel, glow or effect layer",
+    "25": "panel, glow or effect layer",
+    "26": "panel, glow or effect layer",
+    "27": "panel, glow or effect layer",
+    "28": "panel, glow or effect layer",
+    "29": "panel, glow or effect layer",
+    "30": "panel, glow or effect layer",
+    "31": "panel, glow or effect layer",
+    "32": "panel, glow or effect layer",
+    "37": "panel, glow or effect layer"
+  },
+  "originalMetrics": "docs/modern-icons/battle-original-metrics.json",
+  "sourceBattleIconsSha256": "00e2931273531f644bc1fddf79d1ab42400c4cbf4c4b066bf96f37f6e213a4fa",
+  "integrationConstraints": [
+    "Fit each generated pose into original visible bounds; do not use raw generated padding as runtime alignment.",
+    "Preserve original command blend modes, disabled conditions, colours, draw order, clocks and transforms.",
+    "Keep InputCodepoints action names, translated labels, numeric glyphs, portraits, panels, meters and full Dragoon eye assembly on existing paths.",
+    "Keep reduced-motion addition border rotation suppression. Do not introduce new flashing.",
+    "Keep unknown mod-provided action, element and character icons on existing paths.",
+    "Exact8x packing, palette baking and gameplay verification remain pending."
+  ]
+}

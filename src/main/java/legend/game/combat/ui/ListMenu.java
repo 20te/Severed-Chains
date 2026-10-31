@@ -442,9 +442,10 @@ public abstract class ListMenu {
           //LAB_800f5d90
           this.transforms.identity();
           this.transforms.transfer.set(this.textX_18 - 16, this.listStartY_1a + this.listIndex_24 * 14 + 2, 124.0f);
-          RENDERER.queueOrthoModel(this.menuObj, this.transforms, QueuedModelStandard.class)
-            .vertices(this.arrowObjOffset + this.selectionArrowFrame_84 * 4, 4)
-            .translucency(Translucency.B_PLUS_F);
+          final QueuedModelStandard modern = legend.game.textures.ModernIcons.render("battle/list-cursor/" + this.selectionArrowFrame_84, this.transforms, 15, 8);
+          final QueuedModelStandard cursor = modern != null ? modern : RENDERER.queueOrthoModel(this.menuObj, this.transforms, QueuedModelStandard.class)
+            .vertices(this.arrowObjOffset + this.selectionArrowFrame_84 * 4, 4);
+          cursor.translucency(Translucency.B_PLUS_F);
 
           //LAB_800f5e00
           final int s1;

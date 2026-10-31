@@ -31,7 +31,6 @@ import java.util.List;
 import java.util.concurrent.CompletableFuture;
 import java.util.function.Consumer;
 
-import static legend.core.GameEngine.getTextureAtlas;
 import static legend.game.DrgnFiles.loadDrgnDir;
 import static legend.game.Scus94491BpeSegment_800b.gameState_800babc8;
 import static legend.lodmod.LodGoods.DIVINE_DRAGOON_SPIRIT;
@@ -115,7 +114,7 @@ public class DartTemplate extends RetailCharacterTemplate {
   @Override
   public void renderTransformIcon(final CharacterData2c character, final PlayerBattleEntity bent, final MV transforms, final int frame) {
     final Element element = character.gameState.goods_19c.has(DIVINE_DRAGOON_SPIRIT.get()) ? DIVINE_ELEMENT.get() : FIRE_ELEMENT.get();
-    final TextureAtlasIcon icon = getTextureAtlas().getIcon(LodMod.id(element.getRegistryId().entryId() + '_' + frame));
+    final TextureAtlasIcon icon = legend.game.textures.ModernIcons.registryOrOriginal(LodMod.id(element.getRegistryId().entryId() + '_' + frame));
     icon.render(transforms);
 
     if(element == DIVINE_ELEMENT.get()) {
@@ -123,7 +122,7 @@ public class DartTemplate extends RetailCharacterTemplate {
         transforms.transfer.x += 4.0f;
         transforms.scale(0.5f, 1.0f, 1.0f);
 
-        final TextureAtlasIcon icon2 = getTextureAtlas().getIcon(LodMod.id(DIVINE_ELEMENT.getId().entryId() + "_overlay_" + (frame - 1)));
+        final TextureAtlasIcon icon2 = legend.game.textures.ModernIcons.registryOrOriginal(LodMod.id(DIVINE_ELEMENT.getId().entryId() + "_overlay_" + (frame - 1)));
         icon2.render(transforms)
           .translucency(Translucency.B_PLUS_F)
         ;

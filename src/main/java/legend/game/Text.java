@@ -1929,8 +1929,12 @@ public final class Text {
       if((textboxText.flags_08 & TextboxText84.SHOW_ARROW) != 0) {
         textboxArrowTransforms.scaling(1.0f, 0.875f, 1.0f);
         textboxArrowTransforms.transfer.set(arrow.x_04, arrow.y_06,  textboxText.z_0c * 4.0f);
-        RENDERER.queueOrthoModel(textboxArrowObjs[arrow.spriteIndex_08], textboxArrowTransforms, QueuedModelStandard.class)
-          .worldScissor().set(0, 0, RENDERER.getRenderWidth(), RENDERER.getRenderHeight());
+        final MV modernTransforms = new MV(textboxArrowTransforms);
+        modernTransforms.transfer.add(-8.0f, -6.0f * 0.875f, 0.0f);
+        final QueuedModelStandard modern = legend.game.textures.ModernIcons.render("dialogue/" + arrow.spriteIndex_08, modernTransforms, 16, 14);
+        final QueuedModelStandard model = modern != null ? modern :
+          RENDERER.queueOrthoModel(textboxArrowObjs[arrow.spriteIndex_08], textboxArrowTransforms, QueuedModelStandard.class);
+        model.worldScissor().set(0, 0, RENDERER.getRenderWidth(), RENDERER.getRenderHeight());
       }
     }
 

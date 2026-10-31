@@ -1,0 +1,356 @@
+{
+  "generator": "image_gen (built-in)",
+  "assets": [
+    {
+      "name": "command-guard",
+      "kind": "command",
+      "columns": 3,
+      "rows": 1,
+      "frameCount": 3,
+      "sourceSlot": 0,
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/battle-commands-original.png"
+      ],
+      "prompt": "Use case: stylized-concept. Production artwork for Severed Chains game UI, polished fantasy style matching the style-reference: crisp dark contours, faceted highlights, restrained gold/silver materials and jewel colours, readable at tiny gameplay sizes. TRUE TRANSPARENT background, no backdrop, no lettering, no labels, no watermark, no outer badge unless specified. Generous fully transparent margin, all art strictly inside its cell, no sparkles crossing cells. Smooth high-resolution antialiased edges. Input1 is STYLE only. Input2 is decoded original command sheet: row 1 (zero-based row 0), three poses left to right. Redesign ONLY that row as ONE HORIZONTAL SPRITE SHEET, exactly THREE equally sized cells in one row, ideally 1536x768 canvas with each cell 512x768. Subject in every cell: a small green kite shield with gold rim and ivory central boss; retain compact shield silhouette. Retain source identity, colours and pose progression; image is not a menu mockup. Three isolated consistent drawings of the SAME object; identical materials and stable visual anchor, subtle pose change not three different objects. Source logical frames are 16 pixels wide with 16 or24 pixel heights; leave transparent headroom for upright poses. No cell borders.",
+      "file": "gfx/ui/modern/battle/command-guard.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-ced41928-0641-4cf2-84fb-ace24b60f18e.png"
+    },
+    {
+      "name": "command-spells",
+      "kind": "command",
+      "columns": 3,
+      "rows": 1,
+      "frameCount": 3,
+      "sourceSlot": 2,
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/battle-commands-original.png"
+      ],
+      "prompt": "Use case: stylized-concept. Production artwork for Severed Chains game UI, polished fantasy style matching the style-reference: crisp dark contours, faceted highlights, restrained gold/silver materials and jewel colours, readable at tiny gameplay sizes. TRUE TRANSPARENT background, no backdrop, no lettering, no labels, no watermark, no outer badge unless specified. Generous fully transparent margin, all art strictly inside its cell, no sparkles crossing cells. Smooth high-resolution antialiased edges. Input1 is STYLE only. Input2 is decoded original command sheet: row 3 (zero-based row 2), three poses left to right. Redesign ONLY that row as ONE HORIZONTAL SPRITE SHEET, exactly THREE equally sized cells in one row, ideally 1536x768 canvas with each cell 512x768. Subject in every cell: a luminous green round-headed magical sceptre with slim gold/brown shaft; preserve original green wand meaning. Retain source identity, colours and pose progression; image is not a menu mockup. Three isolated consistent drawings of the SAME object; identical materials and stable visual anchor, subtle pose change not three different objects. Source logical frames are 16 pixels wide with 16 or24 pixel heights; leave transparent headroom for upright poses. No cell borders.",
+      "file": "gfx/ui/modern/battle/command-spells.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-c983c20f-fdaf-4bd4-bba7-9c8208805c95.png"
+    },
+    {
+      "name": "command-attack",
+      "kind": "command",
+      "columns": 3,
+      "rows": 1,
+      "frameCount": 3,
+      "sourceSlot": 3,
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/battle-commands-original.png"
+      ],
+      "prompt": "Use case: stylized-concept. Production artwork for Severed Chains game UI, polished fantasy style matching the style-reference: crisp dark contours, faceted highlights, restrained gold/silver materials and jewel colours, readable at tiny gameplay sizes. TRUE TRANSPARENT background, no backdrop, no lettering, no labels, no watermark, no outer badge unless specified. Generous fully transparent margin, all art strictly inside its cell, no sparkles crossing cells. Smooth high-resolution antialiased edges. Input1 is STYLE only. Input2 is decoded original command sheet: row 4 (zero-based row 3), three poses left to right. Redesign ONLY that row as ONE HORIZONTAL SPRITE SHEET, exactly THREE equally sized cells in one row, ideally 1536x768 canvas with each cell 512x768. Subject in every cell: a straight silver sword with dark grip, gold guard; source pose0 leans upper-left, pose1 nearly upright, pose2 upright point upward. Retain source identity, colours and pose progression; image is not a menu mockup. Three isolated consistent drawings of the SAME object; identical materials and stable visual anchor, subtle pose change not three different objects. Source logical frames are 16 pixels wide with 16 or24 pixel heights; leave transparent headroom for upright poses. No cell borders.",
+      "file": "gfx/ui/modern/battle/command-attack.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-fd72d14f-c8a7-434c-8fcb-4876db5b11e9.png"
+    },
+    {
+      "name": "command-items",
+      "kind": "command",
+      "columns": 3,
+      "rows": 1,
+      "frameCount": 3,
+      "sourceSlot": 4,
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/battle-commands-original.png"
+      ],
+      "prompt": "Use case: stylized-concept. Production artwork for Severed Chains game UI, polished fantasy style matching the style-reference: crisp dark contours, faceted highlights, restrained gold/silver materials and jewel colours, readable at tiny gameplay sizes. TRUE TRANSPARENT background, no backdrop, no lettering, no labels, no watermark, no outer badge unless specified. Generous fully transparent margin, all art strictly inside its cell, no sparkles crossing cells. Smooth high-resolution antialiased edges. Input1 is STYLE only. Input2 is decoded original command sheet: row 5 (zero-based row 4), three poses left to right. Redesign ONLY that row as ONE HORIZONTAL SPRITE SHEET, exactly THREE equally sized cells in one row, ideally 1536x768 canvas with each cell 512x768. Subject in every cell: a small wooden treasure chest, warm brown panels with gold edging and latch; pose0 closed, pose1 lid slightly raised, pose2 lid open. Retain source identity, colours and pose progression; image is not a menu mockup. Three isolated consistent drawings of the SAME object; identical materials and stable visual anchor, subtle pose change not three different objects. Source logical frames are 16 pixels wide with 16 or24 pixel heights; leave transparent headroom for upright poses. No cell borders.",
+      "file": "gfx/ui/modern/battle/command-items.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-86a96c5d-c81d-4450-add3-f6bfcbda37de.png"
+    },
+    {
+      "name": "command-escape",
+      "kind": "command",
+      "columns": 3,
+      "rows": 1,
+      "frameCount": 3,
+      "sourceSlot": 5,
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/battle-commands-original.png"
+      ],
+      "prompt": "Use case: stylized-concept. Production artwork for Severed Chains game UI, polished fantasy style matching the style-reference: crisp dark contours, faceted highlights, restrained gold/silver materials and jewel colours, readable at tiny gameplay sizes. TRUE TRANSPARENT background, no backdrop, no lettering, no labels, no watermark, no outer badge unless specified. Generous fully transparent margin, all art strictly inside its cell, no sparkles crossing cells. Smooth high-resolution antialiased edges. Input1 is STYLE only. Input2 is decoded original command sheet: row 6 (zero-based row 5), three poses left to right. Redesign ONLY that row as ONE HORIZONTAL SPRITE SHEET, exactly THREE equally sized cells in one row, ideally 1536x768 canvas with each cell 512x768. Subject in every cell: one warm golden-brown ankle boot with bent foot; pivot from profile toward viewer across poses. Retain source identity, colours and pose progression; image is not a menu mockup. Three isolated consistent drawings of the SAME object; identical materials and stable visual anchor, subtle pose change not three different objects. Source logical frames are 16 pixels wide with 16 or24 pixel heights; leave transparent headroom for upright poses. No cell borders.",
+      "file": "gfx/ui/modern/battle/command-escape.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-a5f1f0b7-9108-4ee6-b7b1-1f14a053d2e3.png"
+    },
+    {
+      "name": "command-special",
+      "kind": "command",
+      "columns": 3,
+      "rows": 1,
+      "frameCount": 3,
+      "sourceSlot": 6,
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/battle-commands-original.png"
+      ],
+      "prompt": "Use case: stylized-concept. Production artwork for Severed Chains game UI, polished fantasy style matching the style-reference: crisp dark contours, faceted highlights, restrained gold/silver materials and jewel colours, readable at tiny gameplay sizes. TRUE TRANSPARENT background, no backdrop, no lettering, no labels, no watermark, no outer badge unless specified. Generous fully transparent margin, all art strictly inside its cell, no sparkles crossing cells. Smooth high-resolution antialiased edges. Input1 is STYLE only. Input2 is decoded original command sheet: row 7 (zero-based row 6), three poses left to right. Redesign ONLY that row as ONE HORIZONTAL SPRITE SHEET, exactly THREE equally sized cells in one row, ideally 1536x768 canvas with each cell 512x768. Subject in every cell: a glossy charcoal-black sphere bearing a bright small white curved yin-yang-like reflective comma, not a multicolour orb; preserve original dark orb appearance. Retain source identity, colours and pose progression; image is not a menu mockup. Three isolated consistent drawings of the SAME object; identical materials and stable visual anchor, subtle pose change not three different objects. Source logical frames are 16 pixels wide with 16 or24 pixel heights; leave transparent headroom for upright poses. No cell borders.",
+      "file": "gfx/ui/modern/battle/command-special.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-0afd4787-4923-491b-a577-74b29f7d6e5b.png"
+    },
+    {
+      "name": "command-unused-slot",
+      "kind": "command",
+      "columns": 3,
+      "rows": 1,
+      "frameCount": 3,
+      "sourceSlot": 7,
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/battle-commands-original.png"
+      ],
+      "prompt": "Use case: stylized-concept. Production artwork for Severed Chains game UI, polished fantasy style matching the style-reference: crisp dark contours, faceted highlights, restrained gold/silver materials and jewel colours, readable at tiny gameplay sizes. TRUE TRANSPARENT background, no backdrop, no lettering, no labels, no watermark, no outer badge unless specified. Generous fully transparent margin, all art strictly inside its cell, no sparkles crossing cells. Smooth high-resolution antialiased edges. Input1 is STYLE only. Input2 is decoded original command sheet: row 8 (zero-based row 7), three poses left to right. Redesign ONLY that row as ONE HORIZONTAL SPRITE SHEET, exactly THREE equally sized cells in one row, ideally 1536x768 canvas with each cell 512x768. Subject in every cell: a small cyan-blue kite shield with silver rim; visually distinct from green Guard shield. Retain source identity, colours and pose progression; image is not a menu mockup. Three isolated consistent drawings of the SAME object; identical materials and stable visual anchor, subtle pose change not three different objects. Source logical frames are 16 pixels wide with 16 or24 pixel heights; leave transparent headroom for upright poses. No cell borders.",
+      "file": "gfx/ui/modern/battle/command-unused-slot.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-2689ce3d-6341-4743-87a4-f69ebdbc48a5.png"
+    },
+    {
+      "name": "command-dragoon-attack",
+      "kind": "command",
+      "columns": 3,
+      "rows": 1,
+      "frameCount": 3,
+      "sourceSlot": 8,
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/battle-commands-original.png"
+      ],
+      "prompt": "Use case: stylized-concept. Production artwork for Severed Chains game UI, polished fantasy style matching the style-reference: crisp dark contours, faceted highlights, restrained gold/silver materials and jewel colours, readable at tiny gameplay sizes. TRUE TRANSPARENT background, no backdrop, no lettering, no labels, no watermark, no outer badge unless specified. Generous fully transparent margin, all art strictly inside its cell, no sparkles crossing cells. Smooth high-resolution antialiased edges. Input1 is STYLE only. Input2 is decoded original command sheet: row 9 (zero-based row 8), three poses left to right. Redesign ONLY that row as ONE HORIZONTAL SPRITE SHEET, exactly THREE equally sized cells in one row, ideally 1536x768 canvas with each cell 512x768. Subject in every cell: a straight ruby-red sword, dark grip, gold guard; pose0 leans upper-left, pose1 nearly upright, pose2 upright point upward. Retain source identity, colours and pose progression; image is not a menu mockup. Three isolated consistent drawings of the SAME object; identical materials and stable visual anchor, subtle pose change not three different objects. Source logical frames are 16 pixels wide with 16 or24 pixel heights; leave transparent headroom for upright poses. No cell borders.",
+      "file": "gfx/ui/modern/battle/command-dragoon-attack.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-1832a8e2-73b6-45fa-8a1e-7be5090f58fe.png"
+    },
+    {
+      "name": "element-none",
+      "kind": "element",
+      "registryId": "lod:none",
+      "original": "gfx/ui/magic.png",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/ui/magic.png"
+      ],
+      "prompt": "Use case: stylized-concept. Production artwork for Severed Chains game UI, polished fantasy style matching the style-reference: crisp dark contours, faceted highlights, restrained gold/silver materials and jewel colours, readable at tiny gameplay sizes. TRUE TRANSPARENT background, no backdrop, no lettering, no labels, no watermark, no outer badge unless specified. Generous fully transparent margin, all art strictly inside its cell, no sparkles crossing cells. Smooth high-resolution antialiased edges. Input1 STYLE only. Input2 original element icon identity and palette. Redesign as ONE centered isolated emblem: a white radiant starburst inside a black circular core, fine cool green/silver ring. Preserve original recognisable motif and dominant colour. Square canvas at least1024px, art inside central80percent with transparent margin. Simple bold shape, not scenery, not a large decorative shield.",
+      "file": "gfx/ui/modern/battle/element-none.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-22291b96-89b5-424f-a033-613a4453fee7.png"
+    },
+    {
+      "name": "element-physical",
+      "kind": "element",
+      "registryId": "lod:physical",
+      "original": "gfx/ui/physical.png",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/ui/physical.png"
+      ],
+      "prompt": "Use case: stylized-concept. Production artwork for Severed Chains game UI, polished fantasy style matching the style-reference: crisp dark contours, faceted highlights, restrained gold/silver materials and jewel colours, readable at tiny gameplay sizes. TRUE TRANSPARENT background, no backdrop, no lettering, no labels, no watermark, no outer badge unless specified. Generous fully transparent margin, all art strictly inside its cell, no sparkles crossing cells. Smooth high-resolution antialiased edges. Input1 STYLE only. Input2 original element icon identity and palette. Redesign as ONE centered isolated emblem: two crossed short silver swords with tiny gold guards over a subdued grey circular medallion. Preserve original recognisable motif and dominant colour. Square canvas at least1024px, art inside central80percent with transparent margin. Simple bold shape, not scenery, not a large decorative shield.",
+      "file": "gfx/ui/modern/battle/element-physical.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-5f0631bc-e335-44e7-a7f2-f7bdcef1c3a9.png"
+    },
+    {
+      "name": "element-water",
+      "kind": "element",
+      "registryId": "lod:water",
+      "original": "gfx/ui/water.png",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/ui/water.png"
+      ],
+      "prompt": "Use case: stylized-concept. Production artwork for Severed Chains game UI, polished fantasy style matching the style-reference: crisp dark contours, faceted highlights, restrained gold/silver materials and jewel colours, readable at tiny gameplay sizes. TRUE TRANSPARENT background, no backdrop, no lettering, no labels, no watermark, no outer badge unless specified. Generous fully transparent margin, all art strictly inside its cell, no sparkles crossing cells. Smooth high-resolution antialiased edges. Input1 STYLE only. Input2 original element icon identity and palette. Redesign as ONE centered isolated emblem: a sculpted blue water droplet curling over itself with icy blue rim. Preserve original recognisable motif and dominant colour. Square canvas at least1024px, art inside central80percent with transparent margin. Simple bold shape, not scenery, not a large decorative shield.",
+      "file": "gfx/ui/modern/battle/element-water.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-0325f111-176c-48dc-a0fa-c5bf830f4822.png"
+    },
+    {
+      "name": "element-earth",
+      "kind": "element",
+      "registryId": "lod:earth",
+      "original": "gfx/ui/earth.png",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/ui/earth.png"
+      ],
+      "prompt": "Use case: stylized-concept. Production artwork for Severed Chains game UI, polished fantasy style matching the style-reference: crisp dark contours, faceted highlights, restrained gold/silver materials and jewel colours, readable at tiny gameplay sizes. TRUE TRANSPARENT background, no backdrop, no lettering, no labels, no watermark, no outer badge unless specified. Generous fully transparent margin, all art strictly inside its cell, no sparkles crossing cells. Smooth high-resolution antialiased edges. Input1 STYLE only. Input2 original element icon identity and palette. Redesign as ONE centered isolated emblem: a cluster of warm brown angular rock crystals with ochre stone rim. Preserve original recognisable motif and dominant colour. Square canvas at least1024px, art inside central80percent with transparent margin. Simple bold shape, not scenery, not a large decorative shield.",
+      "file": "gfx/ui/modern/battle/element-earth.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-604abf8b-49ea-414a-b57c-e6188e42cc5a.png"
+    },
+    {
+      "name": "element-dark",
+      "kind": "element",
+      "registryId": "lod:dark",
+      "original": "gfx/ui/dark.png",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/ui/dark.png"
+      ],
+      "prompt": "Use case: stylized-concept. Production artwork for Severed Chains game UI, polished fantasy style matching the style-reference: crisp dark contours, faceted highlights, restrained gold/silver materials and jewel colours, readable at tiny gameplay sizes. TRUE TRANSPARENT background, no backdrop, no lettering, no labels, no watermark, no outer badge unless specified. Generous fully transparent margin, all art strictly inside its cell, no sparkles crossing cells. Smooth high-resolution antialiased edges. Input1 STYLE only. Input2 original element icon identity and palette. Redesign as ONE centered isolated emblem: a purple-black sphere with multiple luminous pale-violet oval holes/spots on its surface. Preserve original recognisable motif and dominant colour. Square canvas at least1024px, art inside central80percent with transparent margin. Simple bold shape, not scenery, not a large decorative shield.",
+      "file": "gfx/ui/modern/battle/element-dark.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-3ad6a5c6-1c5e-4af2-a319-1eb582cb11f9.png"
+    },
+    {
+      "name": "element-divine",
+      "kind": "element",
+      "registryId": "lod:divine",
+      "original": "gfx/ui/divine.png",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/ui/divine.png"
+      ],
+      "prompt": "Use case: stylized-concept. Production artwork for Severed Chains game UI, polished fantasy style matching the style-reference: crisp dark contours, faceted highlights, restrained gold/silver materials and jewel colours, readable at tiny gameplay sizes. TRUE TRANSPARENT background, no backdrop, no lettering, no labels, no watermark, no outer badge unless specified. Generous fully transparent margin, all art strictly inside its cell, no sparkles crossing cells. Smooth high-resolution antialiased edges. Input1 STYLE only. Input2 original element icon identity and palette. Redesign as ONE centered isolated emblem: a vertical slender crimson red diamond spindle within a pale mint and silver circular aura. Preserve original recognisable motif and dominant colour. Square canvas at least1024px, art inside central80percent with transparent margin. Simple bold shape, not scenery, not a large decorative shield.",
+      "file": "gfx/ui/modern/battle/element-divine.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-19a88dc3-9039-4594-8572-c33dff2b3a23.png"
+    },
+    {
+      "name": "element-thunder",
+      "kind": "element",
+      "registryId": "lod:thunder",
+      "original": "gfx/ui/thunder.png",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/ui/thunder.png"
+      ],
+      "prompt": "Use case: stylized-concept. Production artwork for Severed Chains game UI, polished fantasy style matching the style-reference: crisp dark contours, faceted highlights, restrained gold/silver materials and jewel colours, readable at tiny gameplay sizes. TRUE TRANSPARENT background, no backdrop, no lettering, no labels, no watermark, no outer badge unless specified. Generous fully transparent margin, all art strictly inside its cell, no sparkles crossing cells. Smooth high-resolution antialiased edges. Input1 STYLE only. Input2 original element icon identity and palette. Redesign as ONE centered isolated emblem: an angular white-violet branching lightning rune over a luminous lavender circular jewel. Preserve original recognisable motif and dominant colour. Square canvas at least1024px, art inside central80percent with transparent margin. Simple bold shape, not scenery, not a large decorative shield.",
+      "file": "gfx/ui/modern/battle/element-thunder.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-a4940b26-18ae-47c0-87b6-e7eb93e028af.png"
+    },
+    {
+      "name": "element-light",
+      "kind": "element",
+      "registryId": "lod:light",
+      "original": "gfx/ui/light.png",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/ui/light.png"
+      ],
+      "prompt": "Use case: stylized-concept. Production artwork for Severed Chains game UI, polished fantasy style matching the style-reference: crisp dark contours, faceted highlights, restrained gold/silver materials and jewel colours, readable at tiny gameplay sizes. TRUE TRANSPARENT background, no backdrop, no lettering, no labels, no watermark, no outer badge unless specified. Generous fully transparent margin, all art strictly inside its cell, no sparkles crossing cells. Smooth high-resolution antialiased edges. Input1 STYLE only. Input2 original element icon identity and palette. Redesign as ONE centered isolated emblem: a four-point golden sun star with bright ivory square centre and warm yellow halo. Preserve original recognisable motif and dominant colour. Square canvas at least1024px, art inside central80percent with transparent margin. Simple bold shape, not scenery, not a large decorative shield.",
+      "file": "gfx/ui/modern/battle/element-light.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-c76883e8-e0db-4be2-a998-7ad10fe313fa.png"
+    },
+    {
+      "name": "element-wind",
+      "kind": "element",
+      "registryId": "lod:wind",
+      "original": "gfx/ui/wind.png",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/ui/wind.png"
+      ],
+      "prompt": "Use case: stylized-concept. Production artwork for Severed Chains game UI, polished fantasy style matching the style-reference: crisp dark contours, faceted highlights, restrained gold/silver materials and jewel colours, readable at tiny gameplay sizes. TRUE TRANSPARENT background, no backdrop, no lettering, no labels, no watermark, no outer badge unless specified. Generous fully transparent margin, all art strictly inside its cell, no sparkles crossing cells. Smooth high-resolution antialiased edges. Input1 STYLE only. Input2 original element icon identity and palette. Redesign as ONE centered isolated emblem: a curled emerald-green wind spiral with two sweeping ribbon-like gusts. Preserve original recognisable motif and dominant colour. Square canvas at least1024px, art inside central80percent with transparent margin. Simple bold shape, not scenery, not a large decorative shield.",
+      "file": "gfx/ui/modern/battle/element-wind.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-5733403d-0b14-40a1-b240-24c6fef95170.png"
+    },
+    {
+      "name": "element-fire",
+      "kind": "element",
+      "registryId": "lod:fire",
+      "original": "gfx/ui/fire.png",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/ui/fire.png"
+      ],
+      "prompt": "Use case: stylized-concept. Production artwork for Severed Chains game UI, polished fantasy style matching the style-reference: crisp dark contours, faceted highlights, restrained gold/silver materials and jewel colours, readable at tiny gameplay sizes. TRUE TRANSPARENT background, no backdrop, no lettering, no labels, no watermark, no outer badge unless specified. Generous fully transparent margin, all art strictly inside its cell, no sparkles crossing cells. Smooth high-resolution antialiased edges. Input1 STYLE only. Input2 original element icon identity and palette. Redesign as ONE centered isolated emblem: a bright orange-red flame with a distinct pale-yellow central curl. Preserve original recognisable motif and dominant colour. Square canvas at least1024px, art inside central80percent with transparent margin. Simple bold shape, not scenery, not a large decorative shield.",
+      "file": "gfx/ui/modern/battle/element-fire.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-a10677f8-8e6f-449d-82a1-f099f971f860.png"
+    },
+    {
+      "name": "target-master",
+      "kind": "symbol",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/battle-symbols-original.png"
+      ],
+      "prompt": "Use case: stylized-concept. Production artwork for Severed Chains game UI, polished fantasy style matching the style-reference: crisp dark contours, faceted highlights, restrained gold/silver materials and jewel colours, readable at tiny gameplay sizes. TRUE TRANSPARENT background, no backdrop, no lettering, no labels, no watermark, no outer badge unless specified. Generous fully transparent margin, all art strictly inside its cell, no sparkles crossing cells. Smooth high-resolution antialiased edges. Input1 style only. Input2 source symbols reference. Produce ONE isolated icon on1024 square transparent canvas: a slender DOWNWARD pointing solid arrow, long narrow triangular spear tip below a short straight stem, neutral faceted silver-white metal and charcoal contour. Taller than wide, fits16x24 logical area, transparent hole-free body. Will be palette-tinted blue/yellow/red. No circular badge or background.",
+      "file": "gfx/ui/modern/battle/target-master.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-69d133a9-d93c-4a43-9ed9-05b912e27cde.png"
+    },
+    {
+      "name": "disabled-cross",
+      "kind": "symbol",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/battle-symbols-original.png"
+      ],
+      "prompt": "Use case: stylized-concept. Production artwork for Severed Chains game UI, polished fantasy style matching the style-reference: crisp dark contours, faceted highlights, restrained gold/silver materials and jewel colours, readable at tiny gameplay sizes. TRUE TRANSPARENT background, no backdrop, no lettering, no labels, no watermark, no outer badge unless specified. Generous fully transparent margin, all art strictly inside its cell, no sparkles crossing cells. Smooth high-resolution antialiased edges. Input1 style only. Input2 source symbols reference. Produce ONE isolated icon on1024 square transparent canvas: ONE bare red X made of two broad ruby-red bevelled diagonal bars, thin dark outline. Transparent spaces between arms, NO surrounding ring or badge. Square symmetrical centred overlay.",
+      "file": "gfx/ui/modern/battle/disabled-cross.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-5074db9f-38e0-47e9-acd3-d7a4d9acb970.png"
+    },
+    {
+      "name": "timing-star",
+      "kind": "symbol",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/battle-symbols-original.png"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit target is the attached four-point timing-star game UI icon. Change ONLY its ruby red/orange material to vivid sapphire BLUE with cyan edge highlights and cool ivory central shine, matching the game's original blue Dragoon timing star. Preserve exactly the four-point silhouette, geometry, bevel facets, thin dark outline, composition and transparent padding. No added glow, no particles, no badge, no text. Keep genuinely transparent background.",
+      "file": "gfx/ui/modern/battle/timing-star.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-f8b4ed00-e7ab-463f-bca3-d00cdfaa8c52.png",
+      "firstDraft": {
+        "prompt": "Use case: stylized-concept. Production artwork for Severed Chains game UI, polished fantasy style matching the style-reference: crisp dark contours, faceted highlights, restrained gold/silver materials and jewel colours, readable at tiny gameplay sizes. TRUE TRANSPARENT background, no backdrop, no lettering, no labels, no watermark, no outer badge unless specified. Generous fully transparent margin, all art strictly inside its cell, no sparkles crossing cells. Smooth high-resolution antialiased edges. Input1 style only. Input2 source symbols reference. Produce ONE isolated icon on1024 square transparent canvas: one compact symmetrical four-point red crystalline star, top bottom left right points, warm ivory central highlight, no halo or trails, no enclosing badge.",
+        "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-17aac7bc-5add-40b9-8d84-36deb11e51af.png"
+      }
+    },
+    {
+      "name": "prompt-arrow",
+      "kind": "symbol",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/battle-symbols-original.png"
+      ],
+      "prompt": "Use case: stylized-concept. Production artwork for Severed Chains game UI, polished fantasy style matching the style-reference: crisp dark contours, faceted highlights, restrained gold/silver materials and jewel colours, readable at tiny gameplay sizes. TRUE TRANSPARENT background, no backdrop, no lettering, no labels, no watermark, no outer badge unless specified. Generous fully transparent margin, all art strictly inside its cell, no sparkles crossing cells. Smooth high-resolution antialiased edges. Input1 style only. Input2 source symbols reference. Produce ONE isolated icon on1024 square transparent canvas: one short broad downward gold arrowhead with small rectangular stem above, neutral silver-white faceted body so it can be palette-baked yellow, thin dark edge; horizontal16x8 proportions, no backing or badge.",
+      "file": "gfx/ui/modern/battle/prompt-arrow.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-1458a050-8991-430d-94f9-4bfcafcdab17.png"
+    },
+    {
+      "name": "change-addition-poses",
+      "kind": "addition",
+      "columns": 3,
+      "rows": 1,
+      "frameCount": 3,
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/ui/battle_icons.png"
+      ],
+      "prompt": "Use case: stylized-concept. Production artwork for Severed Chains game UI, polished fantasy style matching the style-reference: crisp dark contours, faceted highlights, restrained gold/silver materials and jewel colours, readable at tiny gameplay sizes. TRUE TRANSPARENT background, no backdrop, no lettering, no labels, no watermark, no outer badge unless specified. Generous fully transparent margin, all art strictly inside its cell, no sparkles crossing cells. Smooth high-resolution antialiased edges. Input1 style only. Input2 original two-row sheet: redesign ONLY top row of three chain/rotation emblems. ONE horizontal sprite sheet, exactly THREE equal cells one row. In each cell a pair of interlocking cyan steel links or curling arrows with restrained gold tips. Show same emblem rotating a little across three phases, source colours cyan and warm gold. No text or enclosing badge. Consistent size, transparent gutters, ideally1536x768.",
+      "file": "gfx/ui/modern/battle/change-addition-poses.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-e63f15b8-f4bb-4421-ae76-dd8883b1892f.png"
+    },
+    {
+      "name": "detransform-arrow",
+      "kind": "symbol",
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/gfx/ui/battle_icons.png"
+      ],
+      "prompt": "Use case: stylized-concept. Production artwork for Severed Chains game UI, polished fantasy style matching the style-reference: crisp dark contours, faceted highlights, restrained gold/silver materials and jewel colours, readable at tiny gameplay sizes. TRUE TRANSPARENT background, no backdrop, no lettering, no labels, no watermark, no outer badge unless specified. Generous fully transparent margin, all art strictly inside its cell, no sparkles crossing cells. Smooth high-resolution antialiased edges. Input1 style only. Input2 identity reference: lower row small down arrow. ONE slender downward pointing silver-grey arrow with dark central groove, symmetrical arrowhead and short stem. Transparent canvas no border or surrounding badge.",
+      "file": "gfx/ui/modern/battle/detransform-arrow.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-183fcaa6-2e6b-4295-a41d-b6112ee3ae7e.png"
+    },
+    {
+      "name": "eye-button-poses",
+      "kind": "prompt",
+      "columns": 3,
+      "rows": 1,
+      "frameCount": 3,
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/battle-prompts-original.png"
+      ],
+      "prompt": "Use case: stylized-concept. Production artwork for Severed Chains game UI, polished fantasy style matching the style-reference: crisp dark contours, faceted highlights, restrained gold/silver materials and jewel colours, readable at tiny gameplay sizes. TRUE TRANSPARENT background, no backdrop, no lettering, no labels, no watermark, no outer badge unless specified. Generous fully transparent margin, all art strictly inside its cell, no sparkles crossing cells. Smooth high-resolution antialiased edges. Input1 style only. Input2 decoded original prompt sheet: first THREE entries are bronze eye/button states. Redesign them in ONE HORIZONTAL THREE-CELL sprite sheet: left eye-shaped oval bronze button with pale reflective centre and dark slit pupil, middle same button gently tilted/pressed, right same button more rounded and compressed. Bronze metallic rims, ivory highlights, preserve eye motif; no X, triangle or letters, no blue orb. Equal cells, isolated, stable anchor and scale. Ideally1536x768.",
+      "file": "gfx/ui/modern/battle/eye-button-poses.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-882c8776-ef9d-4a1e-811a-443fc9c8d8bb.png"
+    },
+    {
+      "name": "cross-button-poses",
+      "kind": "prompt",
+      "columns": 3,
+      "rows": 1,
+      "frameCount": 3,
+      "references": [
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/art-direction/reference-sheet-v1.png",
+        "C:/Users/20te/.codex/worktrees/modern-fantasy-icons/Severed-Chains/docs/modern-icons/battle-prompts-original.png"
+      ],
+      "prompt": "Use case: stylized-concept. Production artwork for Severed Chains game UI, polished fantasy style matching the style-reference: crisp dark contours, faceted highlights, restrained gold/silver materials and jewel colours, readable at tiny gameplay sizes. TRUE TRANSPARENT background, no backdrop, no lettering, no labels, no watermark, no outer badge unless specified. Generous fully transparent margin, all art strictly inside its cell, no sparkles crossing cells. Smooth high-resolution antialiased edges. Input1 style only. Input2 original prompt sheet: entries33,34,35 are blue oval X buttons. ONE HORIZONTAL THREE-CELL sprite sheet. Three isolated phases of SAME glossy navy blue oval button, silver edge, clear pale ivory X centred. First unpressed, second slightly compressed, third pressed flatter. Wide oval eye-like silhouette NOT sphere. Keep identical style and anchor, no other symbols, no arrows. Ideally1536x768.",
+      "file": "gfx/ui/modern/battle/cross-button-poses.png",
+      "generatedPath": "C:\\Users\\20te\\.codex\\generated_images\\01a19174-289f-73e0-a466-660b19d595af\\exec-7f9935d6-8604-4e69-8075-868c72de8da0.png"
+    }
+  ]
+}

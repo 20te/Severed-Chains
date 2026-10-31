@@ -1,0 +1,300 @@
+{
+  "image": "player-master.png",
+  "reuse": "door draws the same neutral triangle at original narrow dimensions; no duplicate bitmap",
+  "logicalFrameSize": [
+    8,
+    16
+  ],
+  "originalSampleSize": [
+    8,
+    15
+  ],
+  "spriteGroups": [
+    {
+      "index": 0,
+      "u": 0,
+      "v": 0,
+      "paletteWord": 30720,
+      "spriteSize": [
+        8,
+        16
+      ],
+      "visibleBounds": [
+        0,
+        2,
+        7,
+        12
+      ]
+    },
+    {
+      "index": 1,
+      "u": 8,
+      "v": 0,
+      "paletteWord": 63488,
+      "spriteSize": [
+        8,
+        16
+      ],
+      "visibleBounds": [
+        1,
+        2,
+        6,
+        12
+      ]
+    },
+    {
+      "index": 2,
+      "u": 16,
+      "v": 0,
+      "paletteWord": 63488,
+      "spriteSize": [
+        8,
+        16
+      ],
+      "visibleBounds": [
+        2,
+        2,
+        5,
+        12
+      ]
+    },
+    {
+      "index": 3,
+      "u": 24,
+      "v": 0,
+      "paletteWord": 63488,
+      "spriteSize": [
+        8,
+        16
+      ],
+      "visibleBounds": [
+        2,
+        2,
+        5,
+        12
+      ]
+    },
+    {
+      "index": 4,
+      "u": 32,
+      "v": 0,
+      "paletteWord": 63488,
+      "spriteSize": [
+        8,
+        16
+      ],
+      "visibleBounds": [
+        2,
+        2,
+        5,
+        12
+      ]
+    },
+    {
+      "index": 5,
+      "u": 40,
+      "v": 0,
+      "paletteWord": 63488,
+      "spriteSize": [
+        8,
+        16
+      ],
+      "visibleBounds": [
+        1,
+        2,
+        6,
+        12
+      ]
+    },
+    {
+      "index": 6,
+      "u": 48,
+      "v": 0,
+      "paletteWord": 63488,
+      "spriteSize": [
+        8,
+        16
+      ],
+      "visibleBounds": [
+        1,
+        2,
+        8,
+        12
+      ]
+    },
+    {
+      "index": 7,
+      "u": 40,
+      "v": 0,
+      "paletteWord": 63488,
+      "spriteSize": [
+        8,
+        16
+      ],
+      "visibleBounds": [
+        1,
+        2,
+        6,
+        12
+      ]
+    },
+    {
+      "index": 8,
+      "u": 32,
+      "v": 0,
+      "paletteWord": 63488,
+      "spriteSize": [
+        8,
+        16
+      ],
+      "visibleBounds": [
+        2,
+        2,
+        5,
+        12
+      ]
+    },
+    {
+      "index": 9,
+      "u": 24,
+      "v": 0,
+      "paletteWord": 63488,
+      "spriteSize": [
+        8,
+        16
+      ],
+      "visibleBounds": [
+        2,
+        2,
+        5,
+        12
+      ]
+    },
+    {
+      "index": 10,
+      "u": 16,
+      "v": 0,
+      "paletteWord": 63488,
+      "spriteSize": [
+        8,
+        16
+      ],
+      "visibleBounds": [
+        2,
+        2,
+        5,
+        12
+      ]
+    },
+    {
+      "index": 11,
+      "u": 8,
+      "v": 0,
+      "paletteWord": 30720,
+      "spriteSize": [
+        8,
+        16
+      ],
+      "visibleBounds": [
+        1,
+        2,
+        6,
+        12
+      ]
+    }
+  ],
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    10,
+    11
+  ],
+  "sequenceTimes": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "typePaletteRows": [
+    2,
+    2,
+    1,
+    0
+  ],
+  "paletteNames": [
+    "cyan",
+    "yellow",
+    "green"
+  ],
+  "originalPalettesPSX15": [
+    [
+      0,
+      32620,
+      30506,
+      29417,
+      28328,
+      27239,
+      26182,
+      24068,
+      22979,
+      21890,
+      20801,
+      19744,
+      9344,
+      7264,
+      5152,
+      4096
+    ],
+    [
+      0,
+      1023,
+      924,
+      858,
+      792,
+      726,
+      660,
+      594,
+      528,
+      463,
+      398,
+      366,
+      231,
+      198,
+      165,
+      132
+    ],
+    [
+      0,
+      11072,
+      11008,
+      10976,
+      10944,
+      10912,
+      11904,
+      11840,
+      11808,
+      11776,
+      11744,
+      12736,
+      6368,
+      4288,
+      2208,
+      128
+    ]
+  ],
+  "status": "artwork reuse candidate; runtime rendering pending"
+}

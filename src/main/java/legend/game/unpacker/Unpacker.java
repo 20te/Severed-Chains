@@ -144,6 +144,9 @@ public final class Unpacker {
 
   public static void unpack() throws UnpackerException {
     try {
+      if(SharedGameData.useExisting(ROOT, VERSION)) {
+        return;
+      }
       Files.createDirectories(ROOT);
       Files.createDirectories(Path.of("./isos"));
 

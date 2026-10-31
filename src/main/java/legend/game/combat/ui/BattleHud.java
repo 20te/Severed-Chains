@@ -321,9 +321,10 @@ public class BattleHud {
     //LAB_800ece9c
     this.battleMenu_800c6c34.transforms.identity();
     this.battleMenu_800c6c34.transforms.transfer.set(GPU.getOffsetX() + screenCoords.x - 8, GPU.getOffsetY() + screenCoords.y + targetArrowOffsetY_800fb188[tickCount_800bb0fc & 0x7], 112.0f);
-    RENDERER.queueOrthoModel(this.battleMenu_800c6c34.menuObj, this.battleMenu_800c6c34.transforms, QueuedModelStandard.class)
-      .vertices(this.battleMenu_800c6c34.targetArrowsObjOffset + colour * 4, 4)
-      .translucency(Translucency.HALF_B_PLUS_HALF_F);
+    final QueuedModelStandard modern = legend.game.textures.ModernIcons.render("battle/target/" + colour, this.battleMenu_800c6c34.transforms, 16, 24);
+    final QueuedModelStandard model = modern != null ? modern : RENDERER.queueOrthoModel(this.battleMenu_800c6c34.menuObj, this.battleMenu_800c6c34.transforms, QueuedModelStandard.class)
+      .vertices(this.battleMenu_800c6c34.targetArrowsObjOffset + colour * 4, 4);
+    model.translucency(Translucency.HALF_B_PLUS_HALF_F);
   }
 
   @Method(0x800ef7c4L)
@@ -1267,13 +1268,15 @@ public class BattleHud {
                 final List<ElementIcon> attackElements = this.currentAttackElements.stream().distinct().toList();
                 for(int x = 0; x < attackElements.size(); x++) {
                   this.elementTransforms.transfer.set(digit.x_0e + num.x_1c - 18 - (16 * x), digit.y_10 + num.y_20, 0);
-                  RENDERER
+                  final var elementId = this.currentAttackElements.get(x).getRegistryId();
+                  final QueuedModelStandard modern = legend.game.textures.ModernIcons.render("element/" + elementId.modId() + '/' + elementId.entryId(), this.elementTransforms, 16, 16);
+                  final QueuedModelStandard elementModel = modern != null ? modern : RENDERER
                     .queueOrthoModel(this.elementIconQuad, this.elementTransforms, QueuedModelStandard.class)
+                    .uvOffset(0, 0).texture(this.elementIcon.get(elementId));
+                  elementModel
                     .translucency(Translucency.HALF_B_PLUS_HALF_F)
                     .alpha(num.shade_0c / 128.0f)
-                    .useTextureAlpha()
-                    .uvOffset(0, 0)
-                    .texture(this.elementIcon.get(this.currentAttackElements.get(x).getRegistryId()));
+                    .useTextureAlpha();
                 }
               }
             }
@@ -1774,8 +1777,10 @@ public class BattleHud {
           final int menuElementBaseX = this.battleMenu_800c6c34.x_06 - this.battleMenu_800c6c34.xShiftOffset_0a + iconIndex * 19;
           this.battleMenu_800c6c34.transforms.identity();
           this.battleMenu_800c6c34.transforms.transfer.set(menuElementBaseX, this.battleMenu_800c6c34.y_08 - 16, 123.7f);
-          RENDERER.queueOrthoModel(this.battleMenu_800c6c34.menuObj, this.battleMenu_800c6c34.transforms, QueuedModelStandard.class)
-            .vertices(this.battleMenu_800c6c34.actionDisabledObjOffset, 4);
+          if(legend.game.textures.ModernIcons.render("battle/disabled", this.battleMenu_800c6c34.transforms, 16, 16) == null) {
+            RENDERER.queueOrthoModel(this.battleMenu_800c6c34.menuObj, this.battleMenu_800c6c34.transforms, QueuedModelStandard.class)
+              .vertices(this.battleMenu_800c6c34.actionDisabledObjOffset, 4);
+          }
         }
 
         //LAB_800f6fa4

@@ -1,0 +1,2575 @@
+{
+  "stage": "authoring artwork; not loaded by game",
+  "masters": [
+    {
+      "file": "gfx/ui/modern/menu/button-circle.png",
+      "sha256": "756d83ac9ed85d2c5f71340cae7c5b15207b750528c306207d94f8dc67cee9c2",
+      "kind": "button",
+      "validation": {
+        "file": "button-circle.png",
+        "width": 1254,
+        "height": 1254,
+        "visibleBounds": [
+          80,
+          77,
+          1172,
+          1162
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 1
+      }
+    },
+    {
+      "file": "gfx/ui/modern/menu/button-cross.png",
+      "sha256": "988fed5355a85e2281df70dd23d29d9a7c6c195ec10823044ec366db623bf8c9",
+      "kind": "button",
+      "validation": {
+        "file": "button-cross.png",
+        "width": 1254,
+        "height": 1254,
+        "visibleBounds": [
+          73,
+          75,
+          1176,
+          1170
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 1
+      }
+    },
+    {
+      "file": "gfx/ui/modern/menu/button-square.png",
+      "sha256": "1f7c5d6e2e08977e8943f23a515dc214730d665f98413bcda87ed08eb1c92576",
+      "kind": "button",
+      "validation": {
+        "file": "button-square.png",
+        "width": 1254,
+        "height": 1254,
+        "visibleBounds": [
+          87,
+          80,
+          1166,
+          1161
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 1
+      }
+    },
+    {
+      "file": "gfx/ui/modern/menu/button-triangle.png",
+      "sha256": "42a744f53314a2ece214312ec087e86d9476b7f90ca08b629945791e30fada82",
+      "kind": "button",
+      "validation": {
+        "file": "button-triangle.png",
+        "width": 1254,
+        "height": 1254,
+        "visibleBounds": [
+          58,
+          55,
+          1194,
+          1187
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 1
+      }
+    },
+    {
+      "file": "gfx/ui/modern/menu/button-r1.png",
+      "sha256": "5192b0a4c8f4796e09031dbf6574a0656e295f9baf346437bd92d486d47fc217",
+      "kind": "button",
+      "validation": {
+        "file": "button-r1.png",
+        "width": 1254,
+        "height": 1254,
+        "visibleBounds": [
+          158,
+          376,
+          1096,
+          864
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 1
+      }
+    },
+    {
+      "file": "gfx/ui/modern/menu/button-r2.png",
+      "sha256": "3ec220428475db5f11b0f324fb8c55fd7311a34e9b59125ea19bb5da3b8d73c2",
+      "kind": "button",
+      "validation": {
+        "file": "button-r2.png",
+        "width": 1254,
+        "height": 1254,
+        "visibleBounds": [
+          160,
+          377,
+          1095,
+          868
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 1
+      }
+    },
+    {
+      "file": "gfx/ui/modern/menu/button-l1.png",
+      "sha256": "728079465c26ce9f9f4464c78ca853e815e5fb8833e9336487353407cc18066b",
+      "kind": "button",
+      "validation": {
+        "file": "button-l1.png",
+        "width": 1254,
+        "height": 1254,
+        "visibleBounds": [
+          146,
+          391,
+          1107,
+          849
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 0
+      }
+    },
+    {
+      "file": "gfx/ui/modern/menu/button-l2.png",
+      "sha256": "1f96c648911ccf565d9c459027aa306b655b668f513ec8aea2b0236a06dcb504",
+      "kind": "button",
+      "validation": {
+        "file": "button-l2.png",
+        "width": 1254,
+        "height": 1254,
+        "visibleBounds": [
+          184,
+          417,
+          1071,
+          831
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 1
+      }
+    },
+    {
+      "file": "gfx/ui/modern/menu/checkbox-unchecked.png",
+      "sha256": "5620a1e7df08283f26afef637ab11076db1bafa0e4134078d05e7f7a9b8c546e",
+      "kind": "checkbox",
+      "validation": {
+        "file": "checkbox-unchecked.png",
+        "width": 1254,
+        "height": 1254,
+        "visibleBounds": [
+          67,
+          63,
+          1186,
+          1179
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 1
+      }
+    },
+    {
+      "file": "gfx/ui/modern/menu/checkbox-checked.png",
+      "sha256": "a35362781530f12f4df7debad23d5ae7589eb70b5ac1a09cdb771e2c1bb5587e",
+      "kind": "checkbox",
+      "validation": {
+        "file": "checkbox-checked.png",
+        "width": 1254,
+        "height": 1254,
+        "visibleBounds": [
+          58,
+          58,
+          1193,
+          1180
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 1
+      }
+    },
+    {
+      "file": "gfx/ui/modern/menu/cursor-turn-poses.png",
+      "sha256": "a7ac9aebb3a6b06f2f082c5c953f8bf10c398b9cbc1d50fbae105cccd69ee02d",
+      "kind": "cursor",
+      "validation": {
+        "file": "cursor-turn-poses.png",
+        "width": 1774,
+        "height": 887,
+        "visibleBounds": [
+          54,
+          65,
+          1720,
+          834
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 0
+      }
+    },
+    {
+      "file": "gfx/ui/modern/menu/cursor-blink-poses.png",
+      "sha256": "5cd4e2b299539c779c6a66a810c2d0084c3ff4ef690ef79b2d90271aebaacb4a",
+      "kind": "cursor",
+      "validation": {
+        "file": "cursor-blink-poses.png",
+        "width": 1774,
+        "height": 887,
+        "visibleBounds": [
+          50,
+          51,
+          1724,
+          832
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 0
+      }
+    }
+  ],
+  "glyphs": [
+    {
+      "glyph": 21,
+      "logicalSize": [
+        8,
+        8
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        1,
+        0,
+        6,
+        8
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/player-master.png",
+        "rotationClockwise": 0,
+        "palette": "gold or caller CLUT override",
+        "kind": "outline"
+      }
+    },
+    {
+      "glyph": 22,
+      "logicalSize": [
+        8,
+        8
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        1,
+        0,
+        6,
+        8
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/player-master.png",
+        "rotationClockwise": 180,
+        "palette": "gold or caller CLUT override",
+        "kind": "outline"
+      }
+    },
+    {
+      "glyph": 23,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        1,
+        1,
+        12,
+        10
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/dialogue-triangle.png",
+        "pose": 0,
+        "rotationClockwise": 270,
+        "palette": "gold or caller CLUT override",
+        "kind": "solid",
+        "fit": "original visible bounds per phase"
+      }
+    },
+    {
+      "glyph": 36,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        1,
+        1,
+        12,
+        10
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/dialogue-triangle.png",
+        "pose": 0,
+        "rotationClockwise": 270,
+        "palette": "gold or caller CLUT override",
+        "kind": "solid",
+        "fit": "original visible bounds per phase"
+      }
+    },
+    {
+      "glyph": 37,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 0,
+        "rotationClockwise": 0
+      }
+    },
+    {
+      "glyph": 38,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 1,
+        "rotationClockwise": 0
+      }
+    },
+    {
+      "glyph": 39,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 2,
+        "rotationClockwise": 0
+      }
+    },
+    {
+      "glyph": 40,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 3,
+        "rotationClockwise": 0
+      }
+    },
+    {
+      "glyph": 41,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 4,
+        "rotationClockwise": 0
+      }
+    },
+    {
+      "glyph": 42,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 5,
+        "rotationClockwise": 0
+      }
+    },
+    {
+      "glyph": 43,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 6,
+        "rotationClockwise": 0
+      }
+    },
+    {
+      "glyph": 44,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 7,
+        "rotationClockwise": 0
+      }
+    },
+    {
+      "glyph": 45,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 0,
+        "rotationClockwise": 180
+      }
+    },
+    {
+      "glyph": 46,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 1,
+        "rotationClockwise": 180
+      }
+    },
+    {
+      "glyph": 47,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 2,
+        "rotationClockwise": 180
+      }
+    },
+    {
+      "glyph": 48,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 3,
+        "rotationClockwise": 180
+      }
+    },
+    {
+      "glyph": 49,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 4,
+        "rotationClockwise": 180
+      }
+    },
+    {
+      "glyph": 50,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 5,
+        "rotationClockwise": 180
+      }
+    },
+    {
+      "glyph": 51,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 6,
+        "rotationClockwise": 180
+      }
+    },
+    {
+      "glyph": 52,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 7,
+        "rotationClockwise": 180
+      }
+    },
+    {
+      "glyph": 53,
+      "logicalSize": [
+        8,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        2,
+        4,
+        6,
+        14
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/dialogue-triangle.png",
+        "pose": 0,
+        "rotationClockwise": 0,
+        "palette": "gold or caller CLUT override",
+        "kind": "solid",
+        "fit": "original visible bounds per phase"
+      }
+    },
+    {
+      "glyph": 54,
+      "logicalSize": [
+        8,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        3,
+        4,
+        5,
+        14
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/dialogue-triangle.png",
+        "pose": 0,
+        "rotationClockwise": 0,
+        "palette": "gold or caller CLUT override",
+        "kind": "solid",
+        "fit": "original visible bounds per phase"
+      }
+    },
+    {
+      "glyph": 55,
+      "logicalSize": [
+        8,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        3,
+        4,
+        5,
+        14
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/dialogue-triangle.png",
+        "pose": 0,
+        "rotationClockwise": 0,
+        "palette": "gold or caller CLUT override",
+        "kind": "solid",
+        "fit": "original visible bounds per phase"
+      }
+    },
+    {
+      "glyph": 56,
+      "logicalSize": [
+        8,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        2,
+        4,
+        6,
+        14
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/dialogue-triangle.png",
+        "pose": 0,
+        "rotationClockwise": 0,
+        "palette": "gold or caller CLUT override",
+        "kind": "solid",
+        "fit": "original visible bounds per phase"
+      }
+    },
+    {
+      "glyph": 57,
+      "logicalSize": [
+        8,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        1,
+        4,
+        6,
+        14
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/dialogue-triangle.png",
+        "pose": 0,
+        "rotationClockwise": 0,
+        "palette": "gold or caller CLUT override",
+        "kind": "solid",
+        "fit": "original visible bounds per phase"
+      }
+    },
+    {
+      "glyph": 58,
+      "logicalSize": [
+        8,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        1,
+        4,
+        7,
+        14
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/dialogue-triangle.png",
+        "pose": 0,
+        "rotationClockwise": 0,
+        "palette": "gold or caller CLUT override",
+        "kind": "solid",
+        "fit": "original visible bounds per phase"
+      }
+    },
+    {
+      "glyph": 59,
+      "logicalSize": [
+        8,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        1,
+        4,
+        7,
+        14
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/dialogue-triangle.png",
+        "pose": 0,
+        "rotationClockwise": 0,
+        "palette": "gold or caller CLUT override",
+        "kind": "solid",
+        "fit": "original visible bounds per phase"
+      }
+    },
+    {
+      "glyph": 60,
+      "logicalSize": [
+        7,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        1,
+        4,
+        6,
+        14
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/dialogue-triangle.png",
+        "pose": 0,
+        "rotationClockwise": 0,
+        "palette": "gold or caller CLUT override",
+        "kind": "solid",
+        "fit": "original visible bounds per phase"
+      }
+    },
+    {
+      "glyph": 61,
+      "logicalSize": [
+        8,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        2,
+        2,
+        6,
+        12
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/dialogue-triangle.png",
+        "pose": 0,
+        "rotationClockwise": 180,
+        "palette": "gold or caller CLUT override",
+        "kind": "solid",
+        "fit": "original visible bounds per phase"
+      }
+    },
+    {
+      "glyph": 62,
+      "logicalSize": [
+        8,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        3,
+        2,
+        5,
+        12
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/dialogue-triangle.png",
+        "pose": 0,
+        "rotationClockwise": 180,
+        "palette": "gold or caller CLUT override",
+        "kind": "solid",
+        "fit": "original visible bounds per phase"
+      }
+    },
+    {
+      "glyph": 63,
+      "logicalSize": [
+        8,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        3,
+        2,
+        5,
+        12
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/dialogue-triangle.png",
+        "pose": 0,
+        "rotationClockwise": 180,
+        "palette": "gold or caller CLUT override",
+        "kind": "solid",
+        "fit": "original visible bounds per phase"
+      }
+    },
+    {
+      "glyph": 64,
+      "logicalSize": [
+        8,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        2,
+        2,
+        6,
+        12
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/dialogue-triangle.png",
+        "pose": 0,
+        "rotationClockwise": 180,
+        "palette": "gold or caller CLUT override",
+        "kind": "solid",
+        "fit": "original visible bounds per phase"
+      }
+    },
+    {
+      "glyph": 65,
+      "logicalSize": [
+        8,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        1,
+        2,
+        6,
+        12
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/dialogue-triangle.png",
+        "pose": 0,
+        "rotationClockwise": 180,
+        "palette": "gold or caller CLUT override",
+        "kind": "solid",
+        "fit": "original visible bounds per phase"
+      }
+    },
+    {
+      "glyph": 66,
+      "logicalSize": [
+        8,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        1,
+        2,
+        7,
+        12
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/dialogue-triangle.png",
+        "pose": 0,
+        "rotationClockwise": 180,
+        "palette": "gold or caller CLUT override",
+        "kind": "solid",
+        "fit": "original visible bounds per phase"
+      }
+    },
+    {
+      "glyph": 67,
+      "logicalSize": [
+        8,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        1,
+        2,
+        7,
+        12
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/dialogue-triangle.png",
+        "pose": 0,
+        "rotationClockwise": 180,
+        "palette": "gold or caller CLUT override",
+        "kind": "solid",
+        "fit": "original visible bounds per phase"
+      }
+    },
+    {
+      "glyph": 68,
+      "logicalSize": [
+        7,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        1,
+        2,
+        6,
+        12
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/dialogue-triangle.png",
+        "pose": 0,
+        "rotationClockwise": 180,
+        "palette": "gold or caller CLUT override",
+        "kind": "solid",
+        "fit": "original visible bounds per phase"
+      }
+    },
+    {
+      "glyph": 107,
+      "logicalSize": [
+        8,
+        8
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        0,
+        8,
+        7
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/dialogue-triangle.png",
+        "pose": 0,
+        "rotationClockwise": 270,
+        "palette": "gold or caller CLUT override",
+        "kind": "solid",
+        "fit": "original visible bounds per phase"
+      }
+    },
+    {
+      "glyph": 108,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 0,
+        "transitionScale": 0.75,
+        "fit": "preserve original transforms and attachment"
+      }
+    },
+    {
+      "glyph": 109,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 0,
+        "transitionScale": 0.5,
+        "fit": "preserve original transforms and attachment"
+      }
+    },
+    {
+      "glyph": 110,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 0,
+        "transitionScale": 0.25,
+        "fit": "preserve original transforms and attachment"
+      }
+    },
+    {
+      "glyph": 111,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 0,
+        "transitionScale": 0.125,
+        "fit": "preserve original transforms and attachment"
+      }
+    },
+    {
+      "glyph": 134,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        0,
+        12,
+        12
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/button-circle.png",
+        "label": "circle"
+      }
+    },
+    {
+      "glyph": 135,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        0,
+        12,
+        12
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/button-cross.png",
+        "label": "cross"
+      }
+    },
+    {
+      "glyph": 136,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        0,
+        12,
+        12
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/button-square.png",
+        "label": "square"
+      }
+    },
+    {
+      "glyph": 137,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        0,
+        12,
+        12
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/button-triangle.png",
+        "label": "triangle"
+      }
+    },
+    {
+      "glyph": 138,
+      "logicalSize": [
+        24,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        0,
+        24,
+        12
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/button-r1.png",
+        "label": "R1"
+      }
+    },
+    {
+      "glyph": 139,
+      "logicalSize": [
+        24,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        0,
+        24,
+        12
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/button-r2.png",
+        "label": "R2"
+      }
+    },
+    {
+      "glyph": 140,
+      "logicalSize": [
+        24,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        0,
+        24,
+        12
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/button-l1.png",
+        "label": "L1"
+      }
+    },
+    {
+      "glyph": 141,
+      "logicalSize": [
+        24,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        0,
+        24,
+        12
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/button-l2.png",
+        "label": "L2"
+      }
+    },
+    {
+      "glyph": 162,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 0,
+        "rotationClockwise": 0
+      }
+    },
+    {
+      "glyph": 163,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 1,
+        "rotationClockwise": 0
+      }
+    },
+    {
+      "glyph": 164,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 2,
+        "rotationClockwise": 0
+      }
+    },
+    {
+      "glyph": 165,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 3,
+        "rotationClockwise": 0
+      }
+    },
+    {
+      "glyph": 166,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 4,
+        "rotationClockwise": 0
+      }
+    },
+    {
+      "glyph": 167,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 5,
+        "rotationClockwise": 0
+      }
+    },
+    {
+      "glyph": 168,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 6,
+        "rotationClockwise": 0
+      }
+    },
+    {
+      "glyph": 169,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 7,
+        "rotationClockwise": 0
+      }
+    },
+    {
+      "glyph": 170,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 0,
+        "rotationClockwise": 180
+      }
+    },
+    {
+      "glyph": 171,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 1,
+        "rotationClockwise": 180
+      }
+    },
+    {
+      "glyph": 172,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 2,
+        "rotationClockwise": 180
+      }
+    },
+    {
+      "glyph": 173,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 3,
+        "rotationClockwise": 180
+      }
+    },
+    {
+      "glyph": 174,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 4,
+        "rotationClockwise": 180
+      }
+    },
+    {
+      "glyph": 175,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 5,
+        "rotationClockwise": 180
+      }
+    },
+    {
+      "glyph": 176,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 6,
+        "rotationClockwise": 180
+      }
+    },
+    {
+      "glyph": 177,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 7,
+        "rotationClockwise": 180
+      }
+    },
+    {
+      "glyph": 178,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 0,
+        "rotationClockwise": 90
+      }
+    },
+    {
+      "glyph": 179,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 1,
+        "rotationClockwise": 90
+      }
+    },
+    {
+      "glyph": 180,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 2,
+        "rotationClockwise": 90
+      }
+    },
+    {
+      "glyph": 181,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 3,
+        "rotationClockwise": 90
+      }
+    },
+    {
+      "glyph": 182,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 4,
+        "rotationClockwise": 90
+      }
+    },
+    {
+      "glyph": 183,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 5,
+        "rotationClockwise": 90
+      }
+    },
+    {
+      "glyph": 184,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 6,
+        "rotationClockwise": 90
+      }
+    },
+    {
+      "glyph": 185,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 7,
+        "rotationClockwise": 90
+      }
+    },
+    {
+      "glyph": 186,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 0,
+        "rotationClockwise": 90
+      }
+    },
+    {
+      "glyph": 187,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 1,
+        "rotationClockwise": 90
+      }
+    },
+    {
+      "glyph": 188,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 2,
+        "rotationClockwise": 90
+      }
+    },
+    {
+      "glyph": 189,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 3,
+        "rotationClockwise": 90
+      }
+    },
+    {
+      "glyph": 190,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 4,
+        "rotationClockwise": 90
+      }
+    },
+    {
+      "glyph": 191,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 5,
+        "rotationClockwise": 90
+      }
+    },
+    {
+      "glyph": 192,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 6,
+        "rotationClockwise": 90
+      }
+    },
+    {
+      "glyph": 193,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 7,
+        "rotationClockwise": 90
+      }
+    },
+    {
+      "glyph": 194,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 0,
+        "rotationClockwise": 270
+      }
+    },
+    {
+      "glyph": 195,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 1,
+        "rotationClockwise": 270
+      }
+    },
+    {
+      "glyph": 196,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 2,
+        "rotationClockwise": 270
+      }
+    },
+    {
+      "glyph": 197,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 3,
+        "rotationClockwise": 270
+      }
+    },
+    {
+      "glyph": 198,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 4,
+        "rotationClockwise": 270
+      }
+    },
+    {
+      "glyph": 199,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 5,
+        "rotationClockwise": 270
+      }
+    },
+    {
+      "glyph": 200,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 6,
+        "rotationClockwise": 270
+      }
+    },
+    {
+      "glyph": 201,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-turn-poses.png",
+        "pose": 7,
+        "rotationClockwise": 270
+      }
+    },
+    {
+      "glyph": 202,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 0,
+        "rotationClockwise": 270
+      }
+    },
+    {
+      "glyph": 203,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 1,
+        "rotationClockwise": 270
+      }
+    },
+    {
+      "glyph": 204,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 2,
+        "rotationClockwise": 270
+      }
+    },
+    {
+      "glyph": 205,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 3,
+        "rotationClockwise": 270
+      }
+    },
+    {
+      "glyph": 206,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 4,
+        "rotationClockwise": 270
+      }
+    },
+    {
+      "glyph": 207,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 5,
+        "rotationClockwise": 270
+      }
+    },
+    {
+      "glyph": 208,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 6,
+        "rotationClockwise": 270
+      }
+    },
+    {
+      "glyph": 209,
+      "logicalSize": [
+        16,
+        16
+      ],
+      "ticksPerFrame": 1,
+      "originalVisibleBounds": [
+        0,
+        1,
+        16,
+        15
+      ],
+      "recipe": {
+        "master": "gfx/ui/modern/menu/cursor-blink-poses.png",
+        "pose": 7,
+        "rotationClockwise": 270
+      }
+    }
+  ],
+  "poseCells": [
+    {
+      "file": "cursor-turn-poses",
+      "index": 0,
+      "sourceRect": [
+        0,
+        0,
+        443,
+        443
+      ],
+      "visibleBounds": [
+        54,
+        65,
+        390,
+        391
+      ],
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "cursor-turn-poses",
+      "index": 1,
+      "sourceRect": [
+        443,
+        0,
+        444,
+        443
+      ],
+      "visibleBounds": [
+        55,
+        65,
+        390,
+        391
+      ],
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "cursor-turn-poses",
+      "index": 2,
+      "sourceRect": [
+        887,
+        0,
+        443,
+        443
+      ],
+      "visibleBounds": [
+        54,
+        66,
+        390,
+        391
+      ],
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "cursor-turn-poses",
+      "index": 3,
+      "sourceRect": [
+        1330,
+        0,
+        444,
+        443
+      ],
+      "visibleBounds": [
+        55,
+        66,
+        390,
+        391
+      ],
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "cursor-turn-poses",
+      "index": 4,
+      "sourceRect": [
+        0,
+        443,
+        443,
+        444
+      ],
+      "visibleBounds": [
+        54,
+        67,
+        390,
+        391
+      ],
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "cursor-turn-poses",
+      "index": 5,
+      "sourceRect": [
+        443,
+        443,
+        444,
+        444
+      ],
+      "visibleBounds": [
+        55,
+        66,
+        390,
+        391
+      ],
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "cursor-turn-poses",
+      "index": 6,
+      "sourceRect": [
+        887,
+        443,
+        443,
+        444
+      ],
+      "visibleBounds": [
+        54,
+        67,
+        390,
+        391
+      ],
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "cursor-turn-poses",
+      "index": 7,
+      "sourceRect": [
+        1330,
+        443,
+        444,
+        444
+      ],
+      "visibleBounds": [
+        55,
+        67,
+        390,
+        391
+      ],
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "cursor-blink-poses",
+      "index": 0,
+      "sourceRect": [
+        0,
+        0,
+        443,
+        443
+      ],
+      "visibleBounds": [
+        51,
+        51,
+        393,
+        389
+      ],
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "cursor-blink-poses",
+      "index": 1,
+      "sourceRect": [
+        443,
+        0,
+        444,
+        443
+      ],
+      "visibleBounds": [
+        51,
+        51,
+        394,
+        389
+      ],
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "cursor-blink-poses",
+      "index": 2,
+      "sourceRect": [
+        887,
+        0,
+        443,
+        443
+      ],
+      "visibleBounds": [
+        50,
+        51,
+        393,
+        389
+      ],
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "cursor-blink-poses",
+      "index": 3,
+      "sourceRect": [
+        1330,
+        0,
+        444,
+        443
+      ],
+      "visibleBounds": [
+        51,
+        51,
+        394,
+        389
+      ],
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "cursor-blink-poses",
+      "index": 4,
+      "sourceRect": [
+        0,
+        443,
+        443,
+        444
+      ],
+      "visibleBounds": [
+        50,
+        51,
+        393,
+        389
+      ],
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "cursor-blink-poses",
+      "index": 5,
+      "sourceRect": [
+        443,
+        443,
+        444,
+        444
+      ],
+      "visibleBounds": [
+        51,
+        51,
+        394,
+        389
+      ],
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "cursor-blink-poses",
+      "index": 6,
+      "sourceRect": [
+        887,
+        443,
+        443,
+        444
+      ],
+      "visibleBounds": [
+        50,
+        51,
+        393,
+        389
+      ],
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "cursor-blink-poses",
+      "index": 7,
+      "sourceRect": [
+        1330,
+        443,
+        444,
+        444
+      ],
+      "visibleBounds": [
+        51,
+        51,
+        394,
+        389
+      ],
+      "edgeAlphaMax": 1
+    }
+  ],
+  "originalMetrics": "docs/modern-icons/menu-original-metrics.json",
+  "originalMetricsSha256": "6d5d111aeaaba15aef1732c7834b358c5586be403d9799e02f88f43a035c2972",
+  "reducedMotion": {
+    "up": 67,
+    "down": 59
+  },
+  "checkbox": {
+    "original": "gfx/ui/ui.png",
+    "originalSha256": "a43376f1b987b8717334df419707a4430892cd401c073f6d08153396fa668b27",
+    "logicalSize": [
+      14,
+      14
+    ],
+    "unchecked": {
+      "sourceRect": [
+        0,
+        0,
+        14,
+        14
+      ],
+      "master": "gfx/ui/modern/menu/checkbox-unchecked.png"
+    },
+    "checked": {
+      "sourceRect": [
+        16,
+        0,
+        14,
+        14
+      ],
+      "master": "gfx/ui/modern/menu/checkbox-checked.png"
+    }
+  },
+  "preserve": [
+    "original animation clocks and flags",
+    "fade-in reverse 111..108 then repeat; fade-out 108..111",
+    "runtime CLUT overrides and tint",
+    "logical size, visible bounds, placement, hit areas",
+    "original primitive mirror signs, blend modes and transition transforms"
+  ],
+  "excludedGlyphs": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218
+  ],
+  "packingNotes": [
+    "Retain text, punctuation, panels and highlights. Spirits 13..20 covered by goods-spirits.json.",
+    "Fit generated poses to original bounds; raw generated padding is not final alignment.",
+    "Palette baking and exact 8x atlas packing remain pending."
+  ]
+}

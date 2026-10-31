@@ -74,17 +74,27 @@ public class ZoomOverlay {
     this.transforms.transfer.set(0.0f, 0.0f, 79.0f);
 
     for(int i = 0; i < 2; i++) {
-      RENDERER.queueOrthoModel(this.overlayTranslucent, this.transforms, QueuedModelStandard.class)
-        .vertices(i * 4, 4)
-        .monochrome(brightness);
+      final MV modernTransforms = new MV(this.transforms);
+      modernTransforms.transfer.add(GPU.getOffsetX() + zoomUiMetrics_800ef104[i].x_00 + 88,
+        GPU.getOffsetY() + zoomUiMetrics_800ef104[i].y_01 - 96, 0);
+      final QueuedModelStandard modern = legend.game.textures.ModernIcons.render("world/zoom/" + i, modernTransforms, 32, 16);
+      if(modern != null) {
+        modern.monochrome(brightness).translucency(Translucency.HALF_B_PLUS_HALF_F);
+      } else {
+        RENDERER.queueOrthoModel(this.overlayTranslucent, this.transforms, QueuedModelStandard.class)
+          .vertices(i * 4, 4).monochrome(brightness);
+      }
     }
 
     for(int i = 0; i < 5; i++) {
       this.transforms.transfer.set(0.0f, 0.0f, 80.0f + i * 0.1f);
 
-      final QueuedModelStandard model = RENDERER.queueOrthoModel(this.overlayOpaque, this.transforms, QueuedModelStandard.class)
-        .vertices(i * 4, 4)
-        .monochrome(brightness);
+      final WmapRectMetrics06 metrics = zoomUiMetrics_800ef104[i + 2];
+      final MV modernTransforms = new MV(this.transforms);
+      modernTransforms.transfer.add(GPU.getOffsetX() + metrics.x_00 + 88, GPU.getOffsetY() + metrics.y_01 - 96, 0);
+      final QueuedModelStandard modern = i < 3 ? legend.game.textures.ModernIcons.render("world/zoom/" + (i + 2), modernTransforms, 32, 16) : null;
+      final QueuedModelStandard model = modern != null ? modern : RENDERER.queueOrthoModel(this.overlayOpaque, this.transforms, QueuedModelStandard.class).vertices(i * 4, 4);
+      model.monochrome(brightness);
 
       if(i + 2 == currentZoomLevel) {
         model.monochrome(8.0f * brightness);

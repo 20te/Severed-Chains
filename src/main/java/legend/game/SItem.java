@@ -1571,7 +1571,10 @@ public final class SItem {
         final Equipment equipment = charData.getEquipment(slot);
 
         if(equipment != null) {
-          equipment.renderIcon(202, 17 + 14 * slot.ordinal(), 0);
+          final Renderable58 icon = equipment.renderIcon(202, 17 + 14 * slot.ordinal(), 0);
+          if(icon != null) {
+            icon.modernIconInset = 2;
+          }
         }
       }
     }

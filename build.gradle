@@ -205,7 +205,14 @@ tasks.register('copySupportFiles', Copy) {
   into layout.buildDirectory.dir("libs")
 
   into("gfx") {
-    from 'gfx'
+    from('gfx') {
+      exclude 'ui/modern/**'
+    }
+  }
+
+  into("gfx/ui/modern/packed") {
+    from 'gfx/ui/modern/packed'
+    include 'atlas.png', 'atlas.json', 'aliases.json'
   }
 
   into("patches") {
@@ -291,6 +298,26 @@ test {
   useJUnitPlatform()
   // Don't automatically run tests in build process
   exclude '**/*'
+}
+
+tasks.register('modernIconTest', Test) {
+  description = 'Checks packed modern icon coverage, geometry and transparency without starting the game.'
+  inputs.dir('gfx/ui/modern/packed')
+  testClassesDirs = sourceSets.test.output.classesDirs
+  classpath = sourceSets.test.runtimeClasspath
+  useJUnitPlatform()
+  filter {
+    includeTestsMatching 'legend.game.textures.ModernIconAtlasTest'
+    includeTestsMatching 'legend.game.inventory.ModernIconsConfigTest'
+  }
+}
+
+tasks.register('sharedGameDataTest', Test) {
+  description = 'Checks shared game data version and private write guards.'
+  testClassesDirs = sourceSets.test.output.classesDirs
+  classpath = sourceSets.test.runtimeClasspath
+  useJUnitPlatform()
+  filter { includeTestsMatching 'legend.game.unpacker.SharedGameDataTest' }
 }
 
 sourceSets {

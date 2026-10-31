@@ -1,0 +1,674 @@
+﻿[
+    {
+        "file":  "00-sword.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              60,
+                              22,
+                              1229,
+                              1199
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "01-axe.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              58,
+                              20,
+                              1203,
+                              1210
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "02-hammer.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              45,
+                              24,
+                              1216,
+                              1218
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "03-spear.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              104,
+                              41,
+                              1222,
+                              1208
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "04-bow.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              23,
+                              27,
+                              1236,
+                              1227
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "05-mace.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              108,
+                              28,
+                              1238,
+                              1219
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "06-knuckle.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              41,
+                              83,
+                              1237,
+                              1177
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "07-boxing-glove.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              69,
+                              63,
+                              1217,
+                              1193
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "08-clothes.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              156,
+                              45,
+                              1173,
+                              1220
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "09-robe.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              187,
+                              16,
+                              1055,
+                              1241
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "10-armor.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              14,
+                              57,
+                              1240,
+                              1204
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "11-breastplate.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              12,
+                              63,
+                              1242,
+                              1196
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "12-red-dress.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              72,
+                              68,
+                              1185,
+                              1196
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "13-loincloth.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              87,
+                              120,
+                              1170,
+                              1170
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "14-warrior-dress.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              134,
+                              43,
+                              1114,
+                              1232
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  2
+    },
+    {
+        "file":  "15-crown.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              58,
+                              79,
+                              1195,
+                              1142
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "16-hairband.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              58,
+                              142,
+                              1214,
+                              1131
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "17-hat.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              24,
+                              182,
+                              1242,
+                              1067
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "18-helm.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              168,
+                              54,
+                              1082,
+                              1213
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "19-shoes.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              19,
+                              163,
+                              1235,
+                              1101
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "20-kneepiece.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              156,
+                              22,
+                              1097,
+                              1228
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "21-boots.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              213,
+                              26,
+                              1141,
+                              1198
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "22-bracelet.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              45,
+                              236,
+                              1216,
+                              1020
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "23-ring.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              131,
+                              121,
+                              1157,
+                              1147
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "24-amulet.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              286,
+                              43,
+                              969,
+                              1205
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "25-stone.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              139,
+                              202,
+                              1142,
+                              1098
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "26-jewellery.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              102,
+                              43,
+                              1149,
+                              1172
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "27-pin.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              146,
+                              70,
+                              1179,
+                              1200
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "28-bell.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              141,
+                              74,
+                              1229,
+                              1201
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "29-bag.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              29,
+                              80,
+                              1226,
+                              1181
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "30-cape.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              48,
+                              70,
+                              1212,
+                              1193
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "31-glove.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              130,
+                              56,
+                              1218,
+                              1191
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "32-horn.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              32,
+                              94,
+                              1228,
+                              1157
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "33-blue-potion.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              152,
+                              35,
+                              1098,
+                              1222
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "34-yellow-potion.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              161,
+                              37,
+                              1085,
+                              1215
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "35-red-potion.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              165,
+                              42,
+                              1088,
+                              1216
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "36-angels-prayer.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              170,
+                              13,
+                              1183,
+                              1200
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "37-green-potion.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              167,
+                              45,
+                              1073,
+                              1208
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "38-magic.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              56,
+                              65,
+                              1222,
+                              1171
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "39-skull.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              116,
+                              66,
+                              1143,
+                              1199
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "40-up.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              158,
+                              62,
+                              1090,
+                              1173
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "41-down.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              116,
+                              79,
+                              1138,
+                              1190
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "42-shield-item.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              136,
+                              32,
+                              1119,
+                              1213
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "43-smoke-ball.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              173,
+                              68,
+                              1133,
+                              1214
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "44-sig-stone.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              52,
+                              31,
+                              1195,
+                              1209
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  0
+    },
+    {
+        "file":  "45-charm.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              91,
+                              30,
+                              1232,
+                              1204
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "46-sack.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              85,
+                              59,
+                              1184,
+                              1203
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    },
+    {
+        "file":  "57-invalid.png",
+        "width":  1254,
+        "height":  1254,
+        "visibleBounds":  [
+                              58,
+                              59,
+                              1196,
+                              1191
+                          ],
+        "alphaMin":  0,
+        "alphaMax":  255,
+        "edgeAlphaMax":  1
+    }
+]

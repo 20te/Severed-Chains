@@ -1,0 +1,1644 @@
+{
+  "stage": "authoring artwork; not loaded by game",
+  "masters": [
+    {
+      "file": "gfx/ui/modern/world/arrow-turn-poses.png",
+      "sha256": "9342f0aeaf0292f709a2835883d4594584b10e8493e726b7639d41e557fb4f50",
+      "kind": "arrow",
+      "columns": 4,
+      "rows": 2,
+      "frameCount": 8,
+      "validation": {
+        "file": "arrow-turn-poses.png",
+        "width": 1774,
+        "height": 887,
+        "visibleBounds": [
+          43,
+          81,
+          1737,
+          797
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 1
+      }
+    },
+    {
+      "file": "gfx/ui/modern/world/destination-diamond-poses.png",
+      "sha256": "34c209d164bfe96a66f47d60804697b909b2620f049ba8508ed424ee292afa0f",
+      "kind": "destination",
+      "columns": 3,
+      "rows": 1,
+      "frameCount": 3,
+      "validation": {
+        "file": "destination-diamond-poses.png",
+        "width": 1774,
+        "height": 887,
+        "visibleBounds": [
+          88,
+          199,
+          1682,
+          660
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 0
+      }
+    },
+    {
+      "file": "gfx/ui/modern/world/coolon-flight-poses.png",
+      "sha256": "6f4a1cb1ae9f4ffaf445f412a9ec57308ac969241a9d61791e3124f60f744552",
+      "kind": "transport",
+      "columns": 4,
+      "rows": 1,
+      "frameCount": 4,
+      "validation": {
+        "file": "coolon-flight-poses.png",
+        "width": 2172,
+        "height": 724,
+        "visibleBounds": [
+          32,
+          200,
+          2136,
+          518
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 0
+      }
+    },
+    {
+      "file": "gfx/ui/modern/world/queen-fury-door-poses.png",
+      "sha256": "7e2cd303b209b525f41c63e0a5f8412625547891290fa7d4ace1621b2827a330",
+      "kind": "transport",
+      "columns": 3,
+      "rows": 2,
+      "frameCount": 5,
+      "validation": {
+        "file": "queen-fury-door-poses.png",
+        "width": 1536,
+        "height": 1024,
+        "visibleBounds": [
+          96,
+          39,
+          1436,
+          978
+        ],
+        "alphaMin": 0,
+        "alphaMax": 254,
+        "edgeAlphaMax": 0
+      }
+    },
+    {
+      "file": "gfx/ui/modern/world/zoom-level-diamond-states.png",
+      "sha256": "ad7671d3bdfdc62323ba37c0b0a13db62e3b4bd9a136b18f800cfe9417ba3681",
+      "kind": "zoom",
+      "columns": 3,
+      "rows": 1,
+      "frameCount": 3,
+      "validation": {
+        "file": "zoom-level-diamond-states.png",
+        "width": 2172,
+        "height": 724,
+        "visibleBounds": [
+          34,
+          183,
+          2138,
+          539
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 0
+      }
+    },
+    {
+      "file": "gfx/ui/modern/world/zoom-connector.png",
+      "sha256": "e8b424bad304c7ec4ebdbf2c5c808fc729fb55c974cc1eb95c94b9c0daaf9b4b",
+      "kind": "zoom",
+      "columns": 1,
+      "rows": 1,
+      "frameCount": 1,
+      "validation": {
+        "file": "zoom-connector.png",
+        "width": 1774,
+        "height": 887,
+        "visibleBounds": [
+          45,
+          177,
+          1729,
+          750
+        ],
+        "alphaMin": 0,
+        "alphaMax": 255,
+        "edgeAlphaMax": 1
+      }
+    }
+  ],
+  "poseCells": [
+    {
+      "file": "arrow-turn-poses.png",
+      "index": 0,
+      "sourceRect": [
+        0,
+        0,
+        443,
+        443
+      ],
+      "visibleBounds": [
+        43,
+        118,
+        402,
+        358
+      ],
+      "alphaMax": 255,
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "arrow-turn-poses.png",
+      "index": 1,
+      "sourceRect": [
+        443,
+        0,
+        444,
+        443
+      ],
+      "visibleBounds": [
+        110,
+        95,
+        365,
+        355
+      ],
+      "alphaMax": 255,
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "arrow-turn-poses.png",
+      "index": 2,
+      "sourceRect": [
+        887,
+        0,
+        443,
+        443
+      ],
+      "visibleBounds": [
+        138,
+        87,
+        325,
+        355
+      ],
+      "alphaMax": 255,
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "arrow-turn-poses.png",
+      "index": 3,
+      "sourceRect": [
+        1330,
+        0,
+        444,
+        443
+      ],
+      "visibleBounds": [
+        189,
+        81,
+        285,
+        355
+      ],
+      "alphaMax": 255,
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "arrow-turn-poses.png",
+      "index": 4,
+      "sourceRect": [
+        0,
+        443,
+        443,
+        444
+      ],
+      "visibleBounds": [
+        198,
+        81,
+        246,
+        354
+      ],
+      "alphaMax": 255,
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "arrow-turn-poses.png",
+      "index": 5,
+      "sourceRect": [
+        443,
+        443,
+        444,
+        444
+      ],
+      "visibleBounds": [
+        163,
+        81,
+        287,
+        353
+      ],
+      "alphaMax": 255,
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "arrow-turn-poses.png",
+      "index": 6,
+      "sourceRect": [
+        887,
+        443,
+        443,
+        444
+      ],
+      "visibleBounds": [
+        84,
+        88,
+        335,
+        353
+      ],
+      "alphaMax": 255,
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "arrow-turn-poses.png",
+      "index": 7,
+      "sourceRect": [
+        1330,
+        443,
+        444,
+        444
+      ],
+      "visibleBounds": [
+        65,
+        115,
+        407,
+        354
+      ],
+      "alphaMax": 255,
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "destination-diamond-poses.png",
+      "index": 0,
+      "sourceRect": [
+        0,
+        0,
+        591,
+        887
+      ],
+      "visibleBounds": [
+        88,
+        200,
+        515,
+        660
+      ],
+      "alphaMax": 255,
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "destination-diamond-poses.png",
+      "index": 1,
+      "sourceRect": [
+        591,
+        0,
+        591,
+        887
+      ],
+      "visibleBounds": [
+        81,
+        200,
+        510,
+        660
+      ],
+      "alphaMax": 255,
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "destination-diamond-poses.png",
+      "index": 2,
+      "sourceRect": [
+        1182,
+        0,
+        592,
+        887
+      ],
+      "visibleBounds": [
+        73,
+        199,
+        500,
+        659
+      ],
+      "alphaMax": 255,
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "coolon-flight-poses.png",
+      "index": 0,
+      "sourceRect": [
+        0,
+        0,
+        543,
+        724
+      ],
+      "visibleBounds": [
+        32,
+        201,
+        508,
+        502
+      ],
+      "alphaMax": 255,
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "coolon-flight-poses.png",
+      "index": 1,
+      "sourceRect": [
+        543,
+        0,
+        543,
+        724
+      ],
+      "visibleBounds": [
+        43,
+        269,
+        516,
+        441
+      ],
+      "alphaMax": 255,
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "coolon-flight-poses.png",
+      "index": 2,
+      "sourceRect": [
+        1086,
+        0,
+        543,
+        724
+      ],
+      "visibleBounds": [
+        41,
+        306,
+        498,
+        518
+      ],
+      "alphaMax": 255,
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "coolon-flight-poses.png",
+      "index": 3,
+      "sourceRect": [
+        1629,
+        0,
+        543,
+        724
+      ],
+      "visibleBounds": [
+        38,
+        200,
+        507,
+        448
+      ],
+      "alphaMax": 255,
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "queen-fury-door-poses.png",
+      "index": 0,
+      "sourceRect": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visibleBounds": [
+        96,
+        39,
+        419,
+        454
+      ],
+      "alphaMax": 254,
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "queen-fury-door-poses.png",
+      "index": 1,
+      "sourceRect": [
+        512,
+        0,
+        512,
+        512
+      ],
+      "visibleBounds": [
+        94,
+        39,
+        416,
+        467
+      ],
+      "alphaMax": 254,
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "queen-fury-door-poses.png",
+      "index": 2,
+      "sourceRect": [
+        1024,
+        0,
+        512,
+        512
+      ],
+      "visibleBounds": [
+        89,
+        39,
+        412,
+        476
+      ],
+      "alphaMax": 254,
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "queen-fury-door-poses.png",
+      "index": 3,
+      "sourceRect": [
+        0,
+        512,
+        512,
+        512
+      ],
+      "visibleBounds": [
+        102,
+        27,
+        439,
+        466
+      ],
+      "alphaMax": 254,
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "queen-fury-door-poses.png",
+      "index": 4,
+      "sourceRect": [
+        512,
+        512,
+        512,
+        512
+      ],
+      "visibleBounds": [
+        79,
+        27,
+        416,
+        466
+      ],
+      "alphaMax": 254,
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "zoom-level-diamond-states.png",
+      "index": 0,
+      "sourceRect": [
+        0,
+        0,
+        724,
+        724
+      ],
+      "visibleBounds": [
+        34,
+        183,
+        681,
+        539
+      ],
+      "alphaMax": 255,
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "zoom-level-diamond-states.png",
+      "index": 1,
+      "sourceRect": [
+        724,
+        0,
+        724,
+        724
+      ],
+      "visibleBounds": [
+        38,
+        183,
+        686,
+        538
+      ],
+      "alphaMax": 255,
+      "edgeAlphaMax": 1
+    },
+    {
+      "file": "zoom-level-diamond-states.png",
+      "index": 2,
+      "sourceRect": [
+        1448,
+        0,
+        724,
+        724
+      ],
+      "visibleBounds": [
+        43,
+        183,
+        690,
+        539
+      ],
+      "alphaMax": 255,
+      "edgeAlphaMax": 0
+    },
+    {
+      "file": "zoom-connector.png",
+      "index": 0,
+      "sourceRect": [
+        0,
+        0,
+        1774,
+        887
+      ],
+      "visibleBounds": [
+        45,
+        177,
+        1729,
+        750
+      ],
+      "alphaMax": 255,
+      "edgeAlphaMax": 1
+    }
+  ],
+  "originalMetrics": "docs/modern-icons/world-original-metrics.json",
+  "arrows": {
+    "master": "gfx/ui/modern/world/arrow-turn-poses.png",
+    "frames": [
+      {
+        "index": 0,
+        "sourceRect": [
+          0,
+          0,
+          443,
+          443
+        ],
+        "generatedBounds": [
+          43,
+          118,
+          402,
+          358
+        ],
+        "original": {
+          "index": 0,
+          "uv": [
+            0,
+            32,
+            16,
+            16
+          ],
+          "clut": [
+            640,
+            496
+          ],
+          "visibleBounds": [
+            0,
+            4,
+            15,
+            16
+          ]
+        }
+      },
+      {
+        "index": 1,
+        "sourceRect": [
+          443,
+          0,
+          444,
+          443
+        ],
+        "generatedBounds": [
+          110,
+          95,
+          365,
+          355
+        ],
+        "original": {
+          "index": 1,
+          "uv": [
+            16,
+            32,
+            16,
+            16
+          ],
+          "clut": [
+            640,
+            496
+          ],
+          "visibleBounds": [
+            1,
+            2,
+            14,
+            16
+          ]
+        }
+      },
+      {
+        "index": 2,
+        "sourceRect": [
+          887,
+          0,
+          443,
+          443
+        ],
+        "generatedBounds": [
+          138,
+          87,
+          325,
+          355
+        ],
+        "original": {
+          "index": 2,
+          "uv": [
+            32,
+            32,
+            16,
+            16
+          ],
+          "clut": [
+            640,
+            496
+          ],
+          "visibleBounds": [
+            2,
+            1,
+            13,
+            16
+          ]
+        }
+      },
+      {
+        "index": 3,
+        "sourceRect": [
+          1330,
+          0,
+          444,
+          443
+        ],
+        "generatedBounds": [
+          189,
+          81,
+          285,
+          355
+        ],
+        "original": {
+          "index": 3,
+          "uv": [
+            48,
+            32,
+            16,
+            16
+          ],
+          "clut": [
+            640,
+            496
+          ],
+          "visibleBounds": [
+            4,
+            1,
+            11,
+            16
+          ]
+        }
+      },
+      {
+        "index": 4,
+        "sourceRect": [
+          0,
+          443,
+          443,
+          444
+        ],
+        "generatedBounds": [
+          198,
+          81,
+          246,
+          354
+        ],
+        "original": {
+          "index": 4,
+          "uv": [
+            64,
+            32,
+            16,
+            16
+          ],
+          "clut": [
+            640,
+            496
+          ],
+          "visibleBounds": [
+            7,
+            0,
+            8,
+            16
+          ]
+        }
+      },
+      {
+        "index": 5,
+        "sourceRect": [
+          443,
+          443,
+          444,
+          444
+        ],
+        "generatedBounds": [
+          163,
+          81,
+          287,
+          353
+        ],
+        "original": {
+          "index": 5,
+          "uv": [
+            80,
+            32,
+            16,
+            16
+          ],
+          "clut": [
+            640,
+            496
+          ],
+          "visibleBounds": [
+            4,
+            1,
+            11,
+            16
+          ]
+        }
+      },
+      {
+        "index": 6,
+        "sourceRect": [
+          887,
+          443,
+          443,
+          444
+        ],
+        "generatedBounds": [
+          84,
+          88,
+          335,
+          353
+        ],
+        "original": {
+          "index": 6,
+          "uv": [
+            96,
+            32,
+            16,
+            16
+          ],
+          "clut": [
+            640,
+            496
+          ],
+          "visibleBounds": [
+            2,
+            1,
+            13,
+            16
+          ]
+        }
+      },
+      {
+        "index": 7,
+        "sourceRect": [
+          1330,
+          443,
+          444,
+          444
+        ],
+        "generatedBounds": [
+          65,
+          115,
+          407,
+          354
+        ],
+        "original": {
+          "index": 7,
+          "uv": [
+            112,
+            32,
+            16,
+            16
+          ],
+          "clut": [
+            640,
+            496
+          ],
+          "visibleBounds": [
+            1,
+            2,
+            14,
+            16
+          ]
+        }
+      }
+    ],
+    "logicalSize": 16,
+    "zoomedOutSize": 8,
+    "blend": null,
+    "clock": "(int)(tickCount / (3.0f / vsyncMode)) &7",
+    "preserve": "player/destination/selection indices, current transform, depths100/68 and WORLD_3 player Y correction minus8"
+  },
+  "destinationMarkers": {
+    "master": "gfx/ui/modern/world/destination-diamond-poses.png",
+    "frames": [
+      {
+        "index": 0,
+        "sourceRect": [
+          0,
+          0,
+          591,
+          887
+        ],
+        "generatedBounds": [
+          88,
+          200,
+          515,
+          660
+        ],
+        "original": {
+          "index": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "clut": [
+            640,
+            496
+          ],
+          "visibleBounds": [
+            0,
+            0,
+            16,
+            16
+          ]
+        }
+      },
+      {
+        "index": 1,
+        "sourceRect": [
+          591,
+          0,
+          591,
+          887
+        ],
+        "generatedBounds": [
+          81,
+          200,
+          510,
+          660
+        ],
+        "original": {
+          "index": 1,
+          "uv": [
+            16,
+            0,
+            16,
+            16
+          ],
+          "clut": [
+            640,
+            496
+          ],
+          "visibleBounds": [
+            0,
+            0,
+            16,
+            16
+          ]
+        }
+      },
+      {
+        "index": 2,
+        "sourceRect": [
+          1182,
+          0,
+          592,
+          887
+        ],
+        "generatedBounds": [
+          73,
+          199,
+          500,
+          659
+        ],
+        "original": {
+          "index": 2,
+          "uv": [
+            32,
+            0,
+            16,
+            16
+          ],
+          "clut": [
+            640,
+            496
+          ],
+          "visibleBounds": [
+            0,
+            0,
+            16,
+            16
+          ]
+        }
+      }
+    ],
+    "sampleSize": [
+      16,
+      16
+    ],
+    "logicalSize": [
+      10,
+      10
+    ],
+    "blend": "B_PLUS_F",
+    "clock": "(int)(tickCount /5 / (3.0f / vsyncMode) %3)",
+    "preserve": "nine Coolon locations and existing depth/placement"
+  },
+  "tints": [
+    {
+      "index": 0,
+      "name": "player red",
+      "rgb": [
+        0.6640625,
+        0,
+        0
+      ]
+    },
+    {
+      "index": 1,
+      "name": "destination blue",
+      "rgb": [
+        0,
+        0,
+        0.6640625
+      ]
+    },
+    {
+      "index": 2,
+      "name": "bright selection/destination",
+      "rgb": [
+        1,
+        1,
+        2
+      ]
+    }
+  ],
+  "coolonPrompt": {
+    "master": "gfx/ui/modern/world/coolon-flight-poses.png",
+    "frames": [
+      {
+        "index": 0,
+        "sourceRect": [
+          0,
+          0,
+          543,
+          724
+        ],
+        "generatedBounds": [
+          32,
+          201,
+          508,
+          502
+        ],
+        "original": {
+          "index": 0,
+          "uv": [
+            0,
+            128,
+            32,
+            16
+          ],
+          "clut": [
+            640,
+            506
+          ],
+          "visibleBounds": [
+            0,
+            3,
+            32,
+            14
+          ]
+        }
+      },
+      {
+        "index": 1,
+        "sourceRect": [
+          543,
+          0,
+          543,
+          724
+        ],
+        "generatedBounds": [
+          43,
+          269,
+          516,
+          441
+        ],
+        "original": {
+          "index": 1,
+          "uv": [
+            32,
+            128,
+            32,
+            16
+          ],
+          "clut": [
+            640,
+            506
+          ],
+          "visibleBounds": [
+            0,
+            3,
+            32,
+            14
+          ]
+        }
+      },
+      {
+        "index": 2,
+        "sourceRect": [
+          1086,
+          0,
+          543,
+          724
+        ],
+        "generatedBounds": [
+          41,
+          306,
+          498,
+          518
+        ],
+        "original": {
+          "index": 2,
+          "uv": [
+            64,
+            128,
+            32,
+            16
+          ],
+          "clut": [
+            640,
+            506
+          ],
+          "visibleBounds": [
+            0,
+            4,
+            32,
+            16
+          ]
+        }
+      },
+      {
+        "index": 3,
+        "sourceRect": [
+          1629,
+          0,
+          543,
+          724
+        ],
+        "generatedBounds": [
+          38,
+          200,
+          507,
+          448
+        ],
+        "original": {
+          "index": 3,
+          "uv": [
+            96,
+            128,
+            32,
+            16
+          ],
+          "clut": [
+            640,
+            506
+          ],
+          "visibleBounds": [
+            0,
+            3,
+            32,
+            15
+          ]
+        }
+      }
+    ],
+    "logicalSize": [
+      32,
+      16
+    ],
+    "poseOrder": [
+      0,
+      1,
+      2,
+      3,
+      0
+    ],
+    "clock": "(int)(tickCount /2 / (3.0f / vsyncMode) %5)",
+    "translation": "GPU offsets plus106,84,52",
+    "preserve": "InputCodepoints action label, render mode0 and existing cleanup"
+  },
+  "queenFuryPrompt": {
+    "master": "gfx/ui/modern/world/queen-fury-door-poses.png",
+    "frames": [
+      {
+        "index": 0,
+        "sourceRect": [
+          0,
+          0,
+          512,
+          512
+        ],
+        "generatedBounds": [
+          96,
+          39,
+          419,
+          454
+        ],
+        "original": {
+          "index": 0,
+          "uv": [
+            0,
+            144,
+            23,
+            24
+          ],
+          "clut": [
+            640,
+            507
+          ],
+          "logicalSize": [
+            -24,
+            24
+          ],
+          "localOffset": [
+            22,
+            -2
+          ],
+          "visibleBounds": [
+            12,
+            1,
+            22,
+            22
+          ]
+        }
+      },
+      {
+        "index": 1,
+        "sourceRect": [
+          512,
+          0,
+          512,
+          512
+        ],
+        "generatedBounds": [
+          94,
+          39,
+          416,
+          467
+        ],
+        "original": {
+          "index": 1,
+          "uv": [
+            24,
+            144,
+            23,
+            24
+          ],
+          "clut": [
+            640,
+            507
+          ],
+          "logicalSize": [
+            -24,
+            24
+          ],
+          "localOffset": [
+            22,
+            -2
+          ],
+          "visibleBounds": [
+            12,
+            1,
+            22,
+            24
+          ]
+        }
+      },
+      {
+        "index": 2,
+        "sourceRect": [
+          1024,
+          0,
+          512,
+          512
+        ],
+        "generatedBounds": [
+          89,
+          39,
+          412,
+          476
+        ],
+        "original": {
+          "index": 2,
+          "uv": [
+            48,
+            144,
+            23,
+            24
+          ],
+          "clut": [
+            640,
+            507
+          ],
+          "logicalSize": [
+            -24,
+            24
+          ],
+          "localOffset": [
+            22,
+            -2
+          ],
+          "visibleBounds": [
+            6,
+            1,
+            22,
+            24
+          ]
+        }
+      },
+      {
+        "index": 3,
+        "sourceRect": [
+          0,
+          512,
+          512,
+          512
+        ],
+        "generatedBounds": [
+          102,
+          27,
+          439,
+          466
+        ],
+        "original": {
+          "index": 3,
+          "uv": [
+            72,
+            144,
+            23,
+            24
+          ],
+          "clut": [
+            640,
+            507
+          ],
+          "logicalSize": [
+            -24,
+            24
+          ],
+          "localOffset": [
+            22,
+            -2
+          ],
+          "visibleBounds": [
+            3,
+            1,
+            22,
+            22
+          ]
+        }
+      },
+      {
+        "index": 4,
+        "sourceRect": [
+          512,
+          512,
+          512,
+          512
+        ],
+        "generatedBounds": [
+          79,
+          27,
+          416,
+          466
+        ],
+        "original": {
+          "index": 4,
+          "uv": [
+            96,
+            144,
+            23,
+            24
+          ],
+          "clut": [
+            640,
+            507
+          ],
+          "logicalSize": [
+            -24,
+            24
+          ],
+          "localOffset": [
+            22,
+            -2
+          ],
+          "visibleBounds": [
+            1,
+            1,
+            22,
+            22
+          ]
+        }
+      }
+    ],
+    "logicalSize": [
+      -24,
+      24
+    ],
+    "sampleSize": [
+      23,
+      24
+    ],
+    "localOffset": [
+      22,
+      -2
+    ],
+    "poseOrder": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      2,
+      3,
+      4,
+      4,
+      4,
+      4,
+      3,
+      2,
+      1,
+      0
+    ],
+    "clock": "(int)(tickCount /3 / (3.0f / vsyncMode) %15)",
+    "translation": "GPU offsets plus106,84,52",
+    "preserve": "negative width mirror at draw time, render mode1, label and cleanup"
+  },
+  "zoomPieces": [
+    {
+      "index": 0,
+      "original": {
+        "index": 0,
+        "uv": [
+          96,
+          16,
+          32,
+          16
+        ],
+        "clut": [
+          640,
+          502
+        ],
+        "visibleBounds": [
+          2,
+          0,
+          30,
+          14
+        ]
+      },
+      "recipe": {
+        "master": "gfx/ui/modern/world/zoom-connector.png",
+        "pose": 0,
+        "blend": "HALF_B_PLUS_HALF_F",
+        "relativePosition": [
+          0,
+          8
+        ],
+        "logicalSize": [
+          32,
+          16
+        ]
+      }
+    },
+    {
+      "index": 1,
+      "original": {
+        "index": 1,
+        "uv": [
+          96,
+          16,
+          32,
+          16
+        ],
+        "clut": [
+          640,
+          502
+        ],
+        "visibleBounds": [
+          2,
+          0,
+          30,
+          14
+        ]
+      },
+      "recipe": {
+        "master": "gfx/ui/modern/world/zoom-connector.png",
+        "pose": 0,
+        "blend": "HALF_B_PLUS_HALF_F",
+        "relativePosition": [
+          0,
+          16
+        ],
+        "logicalSize": [
+          32,
+          16
+        ]
+      }
+    },
+    {
+      "index": 2,
+      "original": {
+        "index": 2,
+        "uv": [
+          64,
+          0,
+          32,
+          16
+        ],
+        "clut": [
+          640,
+          502
+        ],
+        "visibleBounds": [
+          1,
+          0,
+          31,
+          15
+        ]
+      },
+      "recipe": {
+        "master": "gfx/ui/modern/world/zoom-level-diamond-states.png",
+        "pose": 0,
+        "relativePosition": [
+          0,
+          0
+        ],
+        "logicalSize": [
+          32,
+          16
+        ]
+      }
+    },
+    {
+      "index": 3,
+      "original": {
+        "index": 3,
+        "uv": [
+          64,
+          16,
+          32,
+          16
+        ],
+        "clut": [
+          640,
+          502
+        ],
+        "visibleBounds": [
+          1,
+          0,
+          31,
+          15
+        ]
+      },
+      "recipe": {
+        "master": "gfx/ui/modern/world/zoom-level-diamond-states.png",
+        "pose": 1,
+        "relativePosition": [
+          0,
+          8
+        ],
+        "logicalSize": [
+          32,
+          16
+        ]
+      }
+    },
+    {
+      "index": 4,
+      "original": {
+        "index": 4,
+        "uv": [
+          96,
+          0,
+          32,
+          16
+        ],
+        "clut": [
+          640,
+          502
+        ],
+        "visibleBounds": [
+          1,
+          0,
+          31,
+          15
+        ]
+      },
+      "recipe": {
+        "master": "gfx/ui/modern/world/zoom-level-diamond-states.png",
+        "pose": 2,
+        "relativePosition": [
+          0,
+          16
+        ],
+        "logicalSize": [
+          32,
+          16
+        ]
+      }
+    },
+    {
+      "index": 5,
+      "original": {
+        "index": 5,
+        "uv": [
+          64,
+          48,
+          16,
+          16
+        ],
+        "clut": [
+          640,
+          503
+        ],
+        "visibleBounds": [
+          0,
+          0,
+          16,
+          16
+        ]
+      },
+      "recipe": {
+        "preserveOriginal": true,
+        "reason": "L2/R2 text plus vertical bar; fonts and meters outside icon artwork scope"
+      }
+    },
+    {
+      "index": 6,
+      "original": {
+        "index": 6,
+        "uv": [
+          80,
+          48,
+          16,
+          16
+        ],
+        "clut": [
+          640,
+          503
+        ],
+        "visibleBounds": [
+          0,
+          0,
+          16,
+          16
+        ]
+      },
+      "recipe": {
+        "preserveOriginal": true,
+        "reason": "L2/R2 text plus vertical bar; fonts and meters outside icon artwork scope"
+      }
+    }
+  ],
+  "zoomSelection": {
+    "local": 2,
+    "continentAndTransitionOut": 3,
+    "worldAndTransitionIn": 4,
+    "selectedBrightnessMultiplier": 8,
+    "origin": "GPU offsets plus88,-96",
+    "preserve": "per-piece position, blend, depths79 and80+i*0.1, mapTextureBrightness"
+  },
+  "integrationConstraints": [
+    "Fit generated visible artwork to each original visible bound; raw padding and unaligned sheet cells are not final runtime coordinates.",
+    "Palette baking, exact8x output dimensions and alpha/matte cleanup remain pending.",
+    "Keep original frame clocks, colour multipliers including values above1, sample sizes, placements, zoom sizing and blend modes.",
+    "Keep terrain, smoke, continent/location text, platform input names, L2/R2 labels and meters on existing paths.",
+    "Preserve existing reduced-motion behaviour; introduce no new flashes or clocks."
+  ]
+}

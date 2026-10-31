@@ -1,0 +1,1288 @@
+{
+  "status": "artwork checkpoint; palette baking, alignment and renderer integration pending",
+  "masters": [
+    {
+      "name": "boat_license",
+      "category": "goods",
+      "file": "goods/boat_license.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sha256": "74a1aa1fe057a1b6b401301ac73ebe577d9619c59e2f5e1e16c41f071b8c1c72"
+    },
+    {
+      "name": "dragon_block_staff",
+      "category": "goods",
+      "file": "goods/dragon_block_staff.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sha256": "27b6408692469caf024a65c095176d2d507d44ad93bdc89ce5c71d2abca55e4b"
+    },
+    {
+      "name": "fathers_stone",
+      "category": "goods",
+      "file": "goods/fathers_stone.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sha256": "2bb5175abfbaf5e719ecaf24b848c27674a0506b0d92b4e779e9649ebc11358b"
+    },
+    {
+      "name": "good_spirits",
+      "category": "goods",
+      "file": "goods/good_spirits.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sha256": "1962f17dfafdc1d30c71ea1e8088326a6de1dc6eee7fffd2941e23e6f93ea677"
+    },
+    {
+      "name": "kates_bouquet",
+      "category": "goods",
+      "file": "goods/kates_bouquet.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sha256": "4b357a4165b8f38fb6562644f26bf94cc19dad175e1ca412ef51de3e24436193"
+    },
+    {
+      "name": "key_to_ship",
+      "category": "goods",
+      "file": "goods/key_to_ship.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sha256": "db5552283cedbe92e710d4708c851b54dd4282354c0bcde904baf9145a1b81c2"
+    },
+    {
+      "name": "lavitzs_picture",
+      "category": "goods",
+      "file": "goods/lavitzs_picture.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sha256": "bcd232c5aedcacffc8c3b10d30447635bce8f23be21cf69c5e82bef5d2918d06"
+    },
+    {
+      "name": "law_maker",
+      "category": "goods",
+      "file": "goods/law_maker.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sha256": "dd245c66a46a5ac1221a9d7674c665551beebeb5e899522a19cae5f2d71e95db"
+    },
+    {
+      "name": "law_output",
+      "category": "goods",
+      "file": "goods/law_output.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sha256": "1546f3d152699f923b250157d00662e1e241505a106410dd33f7473fe12c6d96"
+    },
+    {
+      "name": "letter_from_lynn",
+      "category": "goods",
+      "file": "goods/letter_from_lynn.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sha256": "c80935c149c7641cca151d6f18aa1baad372f5e0485f84ff0c510432f540129e"
+    },
+    {
+      "name": "magic_oil",
+      "category": "goods",
+      "file": "goods/magic_oil.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sha256": "2d9546d1f105822d838a0ea7d3e8b21ffbe375d79f1c4b69dad0d586ba436ef6"
+    },
+    {
+      "name": "moon_dagger",
+      "category": "goods",
+      "file": "goods/moon_dagger.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sha256": "f504f3b84b1559077bab07873a22ec2b258032670c2d929d3c3a7b5ce346fad9"
+    },
+    {
+      "name": "moon_gem",
+      "category": "goods",
+      "file": "goods/moon_gem.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sha256": "bd17ea3d13ea835bf75793fac42b3f339ad9d17373b8cae6d8c5b2b90795dcdf"
+    },
+    {
+      "name": "moon_mirror",
+      "category": "goods",
+      "file": "goods/moon_mirror.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sha256": "a8fe7289135250822200beef398ec9f02ad9ab07b80e8804b2e51a5b0eb2b383"
+    },
+    {
+      "name": "pass_for_valley",
+      "category": "goods",
+      "file": "goods/pass_for_valley.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sha256": "55d6c458d3210658701742555ecc99c72ec3f7832a6bc16d44ca605851ac03bd"
+    },
+    {
+      "name": "prison_key",
+      "category": "goods",
+      "file": "goods/prison_key.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sha256": "0351f383671c1e601ed2d552c6b76042b0d5da07c748839047058247a43361bf"
+    },
+    {
+      "name": "vanishing_stone",
+      "category": "goods",
+      "file": "goods/vanishing_stone.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sha256": "a6d4c3e49b813a5eac85bf934e4d85930116430212119dfab9b80d02d4e8df3b"
+    },
+    {
+      "name": "war_bulletin",
+      "category": "goods",
+      "file": "goods/war_bulletin.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sha256": "41d6726dfe0ddd675b444aa9b49870b21107c7def16b0f013c55bf6807422fb6"
+    },
+    {
+      "name": "stone-spiral-master",
+      "category": "goods",
+      "file": "goods/stone-spiral-master.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sha256": "41c4d5bb43e61faec4e891e834e8f160fe3fe849a716ad8311551b892803f992"
+    },
+    {
+      "name": "spirit-orb-poses",
+      "category": "spirits",
+      "file": "spirits/spirit-orb-poses.png",
+      "sourceSize": [
+        2172,
+        724
+      ],
+      "sha256": "68f8512616344680273e8fbe10c7ae489220fed9a50983d2082f5c73805eba1e"
+    },
+    {
+      "name": "divine-overlay-poses",
+      "category": "spirits",
+      "file": "spirits/divine-overlay-poses.png",
+      "sourceSize": [
+        1774,
+        887
+      ],
+      "sha256": "a3cf3f903e7107ba850b89684be221574917015aa10cf626b90bfa10129a7d3b"
+    }
+  ],
+  "goods": [
+    {
+      "atlasId": "lod:blue_stone",
+      "file": "goods/stone-spiral-master.png",
+      "logicalSize": [
+        16,
+        16
+      ],
+      "originalSourceSize": [
+        32,
+        32
+      ],
+      "packingTarget": [
+        256,
+        256
+      ],
+      "paletteBake": {
+        "tintRgb8": [
+          45,
+          97,
+          255
+        ],
+        "preserveWhiteHighlights": true,
+        "sourceReference": "gfx/goods/blue_stone.png"
+      }
+    },
+    {
+      "atlasId": "lod:boat_license",
+      "file": "goods/boat_license.png",
+      "logicalSize": [
+        16,
+        16
+      ],
+      "originalSourceSize": [
+        32,
+        32
+      ],
+      "packingTarget": [
+        256,
+        256
+      ]
+    },
+    {
+      "atlasId": "lod:dragon_block_staff",
+      "file": "goods/dragon_block_staff.png",
+      "logicalSize": [
+        16,
+        16
+      ],
+      "originalSourceSize": [
+        32,
+        32
+      ],
+      "packingTarget": [
+        256,
+        256
+      ]
+    },
+    {
+      "atlasId": "lod:fathers_stone",
+      "file": "goods/fathers_stone.png",
+      "logicalSize": [
+        16,
+        16
+      ],
+      "originalSourceSize": [
+        32,
+        32
+      ],
+      "packingTarget": [
+        256,
+        256
+      ]
+    },
+    {
+      "atlasId": "lod:good_spirits",
+      "file": "goods/good_spirits.png",
+      "logicalSize": [
+        16,
+        16
+      ],
+      "originalSourceSize": [
+        32,
+        32
+      ],
+      "packingTarget": [
+        256,
+        256
+      ]
+    },
+    {
+      "atlasId": "lod:kates_bouquet",
+      "file": "goods/kates_bouquet.png",
+      "logicalSize": [
+        16,
+        16
+      ],
+      "originalSourceSize": [
+        32,
+        32
+      ],
+      "packingTarget": [
+        256,
+        256
+      ]
+    },
+    {
+      "atlasId": "lod:key_to_ship",
+      "file": "goods/key_to_ship.png",
+      "logicalSize": [
+        16,
+        16
+      ],
+      "originalSourceSize": [
+        32,
+        32
+      ],
+      "packingTarget": [
+        256,
+        256
+      ]
+    },
+    {
+      "atlasId": "lod:lavitzs_picture",
+      "file": "goods/lavitzs_picture.png",
+      "logicalSize": [
+        16,
+        16
+      ],
+      "originalSourceSize": [
+        32,
+        32
+      ],
+      "packingTarget": [
+        256,
+        256
+      ]
+    },
+    {
+      "atlasId": "lod:law_maker",
+      "file": "goods/law_maker.png",
+      "logicalSize": [
+        16,
+        16
+      ],
+      "originalSourceSize": [
+        32,
+        32
+      ],
+      "packingTarget": [
+        256,
+        256
+      ]
+    },
+    {
+      "atlasId": "lod:law_output",
+      "file": "goods/law_output.png",
+      "logicalSize": [
+        16,
+        16
+      ],
+      "originalSourceSize": [
+        32,
+        32
+      ],
+      "packingTarget": [
+        256,
+        256
+      ]
+    },
+    {
+      "atlasId": "lod:letter_from_lynn",
+      "file": "goods/letter_from_lynn.png",
+      "logicalSize": [
+        16,
+        16
+      ],
+      "originalSourceSize": [
+        32,
+        32
+      ],
+      "packingTarget": [
+        256,
+        256
+      ]
+    },
+    {
+      "atlasId": "lod:magic_oil",
+      "file": "goods/magic_oil.png",
+      "logicalSize": [
+        16,
+        16
+      ],
+      "originalSourceSize": [
+        32,
+        32
+      ],
+      "packingTarget": [
+        256,
+        256
+      ]
+    },
+    {
+      "atlasId": "lod:moon_dagger",
+      "file": "goods/moon_dagger.png",
+      "logicalSize": [
+        16,
+        16
+      ],
+      "originalSourceSize": [
+        32,
+        32
+      ],
+      "packingTarget": [
+        256,
+        256
+      ]
+    },
+    {
+      "atlasId": "lod:moon_gem",
+      "file": "goods/moon_gem.png",
+      "logicalSize": [
+        16,
+        16
+      ],
+      "originalSourceSize": [
+        32,
+        32
+      ],
+      "packingTarget": [
+        256,
+        256
+      ]
+    },
+    {
+      "atlasId": "lod:moon_mirror",
+      "file": "goods/moon_mirror.png",
+      "logicalSize": [
+        16,
+        16
+      ],
+      "originalSourceSize": [
+        32,
+        32
+      ],
+      "packingTarget": [
+        256,
+        256
+      ]
+    },
+    {
+      "atlasId": "lod:pass_for_valley",
+      "file": "goods/pass_for_valley.png",
+      "logicalSize": [
+        16,
+        16
+      ],
+      "originalSourceSize": [
+        32,
+        32
+      ],
+      "packingTarget": [
+        256,
+        256
+      ]
+    },
+    {
+      "atlasId": "lod:prison_key",
+      "file": "goods/prison_key.png",
+      "logicalSize": [
+        16,
+        16
+      ],
+      "originalSourceSize": [
+        32,
+        32
+      ],
+      "packingTarget": [
+        256,
+        256
+      ]
+    },
+    {
+      "atlasId": "lod:red_stone",
+      "file": "goods/stone-spiral-master.png",
+      "logicalSize": [
+        16,
+        16
+      ],
+      "originalSourceSize": [
+        32,
+        32
+      ],
+      "packingTarget": [
+        256,
+        256
+      ],
+      "paletteBake": {
+        "tintRgb8": [
+          235,
+          45,
+          64
+        ],
+        "preserveWhiteHighlights": true,
+        "sourceReference": "gfx/goods/red_stone.png"
+      }
+    },
+    {
+      "atlasId": "lod:vanishing_stone",
+      "file": "goods/vanishing_stone.png",
+      "logicalSize": [
+        16,
+        16
+      ],
+      "originalSourceSize": [
+        32,
+        32
+      ],
+      "packingTarget": [
+        256,
+        256
+      ]
+    },
+    {
+      "atlasId": "lod:war_bulletin",
+      "file": "goods/war_bulletin.png",
+      "logicalSize": [
+        16,
+        16
+      ],
+      "originalSourceSize": [
+        32,
+        32
+      ],
+      "packingTarget": [
+        256,
+        256
+      ]
+    },
+    {
+      "atlasId": "lod:yellow_stone",
+      "file": "goods/stone-spiral-master.png",
+      "logicalSize": [
+        16,
+        16
+      ],
+      "originalSourceSize": [
+        32,
+        32
+      ],
+      "packingTarget": [
+        256,
+        256
+      ],
+      "paletteBake": {
+        "tintRgb8": [
+          255,
+          193,
+          40
+        ],
+        "preserveWhiteHighlights": true,
+        "sourceReference": "gfx/goods/yellow_stone.png"
+      }
+    }
+  ],
+  "standardItemOverrides": {
+    "lod:axe_from_shack": {
+      "name": "AXE",
+      "id": 1
+    },
+    "lod:good_spirits": {
+      "name": "BLUE_POTION",
+      "id": 33
+    },
+    "lod:shiny_bag": {
+      "name": "BAG",
+      "id": 29
+    },
+    "lod:water_bottle": {
+      "name": "BLUE_POTION",
+      "id": 33
+    },
+    "lod:life_water": {
+      "name": "BLUE_POTION",
+      "id": 33
+    },
+    "lod:omega_bomb": {
+      "name": "MAGIC",
+      "id": 38
+    },
+    "lod:omega_master": {
+      "name": "MAGIC",
+      "id": 38
+    },
+    "lod:magic_shiny_bag": {
+      "name": "BAG",
+      "id": 29
+    }
+  },
+  "modernAliases": {
+    "lod:dragon_blocker": "lod:dragon_block_staff",
+    "lod:gold_dragoon_spirit_2": "lod:gold_dragoon_spirit"
+  },
+  "spirits": {
+    "file": "spirits/spirit-orb-poses.png",
+    "columns": 3,
+    "rows": 1,
+    "poses": [
+      {
+        "image": "spirit-orb-poses.png",
+        "index": 0,
+        "sourceRect": [
+          0,
+          0,
+          724,
+          724
+        ],
+        "visibleBounds": [
+          77,
+          54,
+          693,
+          665
+        ],
+        "originalVisibleBounds": [
+          0,
+          0,
+          16,
+          16
+        ],
+        "logicalSize": [
+          16,
+          16
+        ],
+        "packingTarget": [
+          128,
+          128
+        ]
+      },
+      {
+        "image": "spirit-orb-poses.png",
+        "index": 1,
+        "sourceRect": [
+          724,
+          0,
+          724,
+          724
+        ],
+        "visibleBounds": [
+          50,
+          53,
+          667,
+          663
+        ],
+        "originalVisibleBounds": [
+          0,
+          0,
+          16,
+          16
+        ],
+        "logicalSize": [
+          16,
+          16
+        ],
+        "packingTarget": [
+          128,
+          128
+        ]
+      },
+      {
+        "image": "spirit-orb-poses.png",
+        "index": 2,
+        "sourceRect": [
+          1448,
+          0,
+          724,
+          724
+        ],
+        "visibleBounds": [
+          29,
+          54,
+          647,
+          664
+        ],
+        "originalVisibleBounds": [
+          0,
+          0,
+          16,
+          16
+        ],
+        "logicalSize": [
+          16,
+          16
+        ],
+        "packingTarget": [
+          128,
+          128
+        ]
+      }
+    ],
+    "states": [
+      {
+        "goodId": "lod:red_dragoon_spirit",
+        "element": "fire",
+        "inventoryGlyph": 13,
+        "inventoryLogicalSize": [
+          16,
+          16
+        ],
+        "inventoryPose": 0,
+        "originalPaletteRow": 8,
+        "palettePSX15": [
+          65535,
+          60287,
+          56031,
+          53919,
+          49727,
+          45503,
+          39167,
+          41310,
+          38138,
+          37077,
+          37041,
+          35984,
+          33900,
+          32775,
+          32773,
+          0
+        ]
+      },
+      {
+        "goodId": "lod:jade_dragoon_spirit",
+        "element": "wind",
+        "inventoryGlyph": 14,
+        "inventoryLogicalSize": [
+          16,
+          16
+        ],
+        "inventoryPose": 0,
+        "originalPaletteRow": 9,
+        "palettePSX15": [
+          65535,
+          61435,
+          57337,
+          55288,
+          51188,
+          48082,
+          44911,
+          46928,
+          43724,
+          41546,
+          40424,
+          39367,
+          37188,
+          35011,
+          33922,
+          0
+        ]
+      },
+      {
+        "goodId": "lod:silver_dragoon_spirit",
+        "element": "light",
+        "inventoryGlyph": 15,
+        "inventoryLogicalSize": [
+          16,
+          16
+        ],
+        "inventoryPose": 0,
+        "originalPaletteRow": 10,
+        "palettePSX15": [
+          65535,
+          61406,
+          58237,
+          56157,
+          53052,
+          49915,
+          46744,
+          48823,
+          45619,
+          42448,
+          41357,
+          40300,
+          38152,
+          34949,
+          33859,
+          0
+        ]
+      },
+      {
+        "goodId": "lod:dark_dragoon_spirit",
+        "element": "dark",
+        "inventoryGlyph": 16,
+        "inventoryLogicalSize": [
+          16,
+          16
+        ],
+        "inventoryPose": 0,
+        "originalPaletteRow": 11,
+        "palettePSX15": [
+          64478,
+          64347,
+          64278,
+          63188,
+          63056,
+          60941,
+          57770,
+          56780,
+          52553,
+          48391,
+          45254,
+          44197,
+          40035,
+          36929,
+          34848,
+          0
+        ]
+      },
+      {
+        "goodId": "lod:violet_dragoon_spirit",
+        "element": "thunder",
+        "inventoryGlyph": 17,
+        "inventoryLogicalSize": [
+          16,
+          16
+        ],
+        "inventoryPose": 0,
+        "originalPaletteRow": 12,
+        "palettePSX15": [
+          65535,
+          65374,
+          65243,
+          65178,
+          65049,
+          64919,
+          62740,
+          61781,
+          57586,
+          52430,
+          49325,
+          48268,
+          44105,
+          38948,
+          36866,
+          0
+        ]
+      },
+      {
+        "goodId": "lod:blue_dragoon_spirit",
+        "element": "water",
+        "inventoryGlyph": 18,
+        "inventoryLogicalSize": [
+          16,
+          16
+        ],
+        "inventoryPose": 0,
+        "originalPaletteRow": 13,
+        "palettePSX15": [
+          65535,
+          65402,
+          65398,
+          65364,
+          65264,
+          65228,
+          64103,
+          63082,
+          57799,
+          53637,
+          49445,
+          48388,
+          44162,
+          39041,
+          36928,
+          0
+        ]
+      },
+      {
+        "goodId": "lod:gold_dragoon_spirit",
+        "element": "earth",
+        "inventoryGlyph": 19,
+        "inventoryLogicalSize": [
+          16,
+          16
+        ],
+        "inventoryPose": 0,
+        "originalPaletteRow": 14,
+        "palettePSX15": [
+          65535,
+          60383,
+          56191,
+          54079,
+          49951,
+          45791,
+          39551,
+          41631,
+          38490,
+          37333,
+          36274,
+          35217,
+          34092,
+          32903,
+          32837,
+          0
+        ]
+      },
+      {
+        "goodId": "lod:divine_dragoon_spirit",
+        "element": "divine",
+        "inventoryGlyph": 20,
+        "inventoryLogicalSize": [
+          15,
+          16
+        ],
+        "inventoryPose": 0,
+        "originalPaletteRow": 15,
+        "palettePSX15": [
+          65535,
+          62427,
+          59320,
+          57239,
+          55156,
+          52049,
+          48878,
+          50896,
+          47724,
+          44522,
+          43432,
+          42375,
+          39173,
+          36002,
+          33889,
+          0
+        ]
+      }
+    ],
+    "atlasFrames": [
+      {
+        "atlasId": "lod:fire_0",
+        "file": "spirits/spirit-orb-poses.png",
+        "pose": 0,
+        "paletteIndex": 0,
+        "logicalSize": [
+          16,
+          16
+        ]
+      },
+      {
+        "atlasId": "lod:fire_1",
+        "file": "spirits/spirit-orb-poses.png",
+        "pose": 1,
+        "paletteIndex": 0,
+        "logicalSize": [
+          16,
+          16
+        ]
+      },
+      {
+        "atlasId": "lod:fire_2",
+        "file": "spirits/spirit-orb-poses.png",
+        "pose": 2,
+        "paletteIndex": 0,
+        "logicalSize": [
+          16,
+          16
+        ]
+      },
+      {
+        "atlasId": "lod:wind_0",
+        "file": "spirits/spirit-orb-poses.png",
+        "pose": 0,
+        "paletteIndex": 1,
+        "logicalSize": [
+          16,
+          16
+        ]
+      },
+      {
+        "atlasId": "lod:wind_1",
+        "file": "spirits/spirit-orb-poses.png",
+        "pose": 1,
+        "paletteIndex": 1,
+        "logicalSize": [
+          16,
+          16
+        ]
+      },
+      {
+        "atlasId": "lod:wind_2",
+        "file": "spirits/spirit-orb-poses.png",
+        "pose": 2,
+        "paletteIndex": 1,
+        "logicalSize": [
+          16,
+          16
+        ]
+      },
+      {
+        "atlasId": "lod:light_0",
+        "file": "spirits/spirit-orb-poses.png",
+        "pose": 0,
+        "paletteIndex": 2,
+        "logicalSize": [
+          16,
+          16
+        ]
+      },
+      {
+        "atlasId": "lod:light_1",
+        "file": "spirits/spirit-orb-poses.png",
+        "pose": 1,
+        "paletteIndex": 2,
+        "logicalSize": [
+          16,
+          16
+        ]
+      },
+      {
+        "atlasId": "lod:light_2",
+        "file": "spirits/spirit-orb-poses.png",
+        "pose": 2,
+        "paletteIndex": 2,
+        "logicalSize": [
+          16,
+          16
+        ]
+      },
+      {
+        "atlasId": "lod:dark_0",
+        "file": "spirits/spirit-orb-poses.png",
+        "pose": 0,
+        "paletteIndex": 3,
+        "logicalSize": [
+          16,
+          16
+        ]
+      },
+      {
+        "atlasId": "lod:dark_1",
+        "file": "spirits/spirit-orb-poses.png",
+        "pose": 1,
+        "paletteIndex": 3,
+        "logicalSize": [
+          16,
+          16
+        ]
+      },
+      {
+        "atlasId": "lod:dark_2",
+        "file": "spirits/spirit-orb-poses.png",
+        "pose": 2,
+        "paletteIndex": 3,
+        "logicalSize": [
+          16,
+          16
+        ]
+      },
+      {
+        "atlasId": "lod:thunder_0",
+        "file": "spirits/spirit-orb-poses.png",
+        "pose": 0,
+        "paletteIndex": 4,
+        "logicalSize": [
+          16,
+          16
+        ]
+      },
+      {
+        "atlasId": "lod:thunder_1",
+        "file": "spirits/spirit-orb-poses.png",
+        "pose": 1,
+        "paletteIndex": 4,
+        "logicalSize": [
+          16,
+          16
+        ]
+      },
+      {
+        "atlasId": "lod:thunder_2",
+        "file": "spirits/spirit-orb-poses.png",
+        "pose": 2,
+        "paletteIndex": 4,
+        "logicalSize": [
+          16,
+          16
+        ]
+      },
+      {
+        "atlasId": "lod:water_0",
+        "file": "spirits/spirit-orb-poses.png",
+        "pose": 0,
+        "paletteIndex": 5,
+        "logicalSize": [
+          16,
+          16
+        ]
+      },
+      {
+        "atlasId": "lod:water_1",
+        "file": "spirits/spirit-orb-poses.png",
+        "pose": 1,
+        "paletteIndex": 5,
+        "logicalSize": [
+          16,
+          16
+        ]
+      },
+      {
+        "atlasId": "lod:water_2",
+        "file": "spirits/spirit-orb-poses.png",
+        "pose": 2,
+        "paletteIndex": 5,
+        "logicalSize": [
+          16,
+          16
+        ]
+      },
+      {
+        "atlasId": "lod:earth_0",
+        "file": "spirits/spirit-orb-poses.png",
+        "pose": 0,
+        "paletteIndex": 6,
+        "logicalSize": [
+          16,
+          16
+        ]
+      },
+      {
+        "atlasId": "lod:earth_1",
+        "file": "spirits/spirit-orb-poses.png",
+        "pose": 1,
+        "paletteIndex": 6,
+        "logicalSize": [
+          16,
+          16
+        ]
+      },
+      {
+        "atlasId": "lod:earth_2",
+        "file": "spirits/spirit-orb-poses.png",
+        "pose": 2,
+        "paletteIndex": 6,
+        "logicalSize": [
+          16,
+          16
+        ]
+      },
+      {
+        "atlasId": "lod:divine_0",
+        "file": "spirits/spirit-orb-poses.png",
+        "pose": 0,
+        "paletteIndex": 7,
+        "logicalSize": [
+          16,
+          16
+        ]
+      },
+      {
+        "atlasId": "lod:divine_1",
+        "file": "spirits/spirit-orb-poses.png",
+        "pose": 1,
+        "paletteIndex": 7,
+        "logicalSize": [
+          16,
+          16
+        ]
+      },
+      {
+        "atlasId": "lod:divine_2",
+        "file": "spirits/spirit-orb-poses.png",
+        "pose": 2,
+        "paletteIndex": 7,
+        "logicalSize": [
+          16,
+          16
+        ]
+      }
+    ],
+    "paletteShadeOrder": [
+      14,
+      13,
+      12,
+      11,
+      10,
+      9,
+      8,
+      7,
+      6,
+      5,
+      4,
+      3,
+      2,
+      1,
+      0
+    ],
+    "packingPolicy": "Fit each visible generated pose into its original visible bounds scaled by 8 inside a fixed logical cell; normalize padding before colour baking to avoid jitter"
+  },
+  "divineOverlays": {
+    "file": "spirits/divine-overlay-poses.png",
+    "columns": 2,
+    "rows": 1,
+    "poses": [
+      {
+        "image": "divine-overlay-poses.png",
+        "index": 0,
+        "sourceRect": [
+          0,
+          0,
+          887,
+          887
+        ],
+        "visibleBounds": [
+          452,
+          100,
+          531,
+          785
+        ],
+        "atlasId": "lod:divine_overlay_0",
+        "logicalSize": [
+          8,
+          16
+        ],
+        "packingTarget": [
+          64,
+          128
+        ],
+        "originalVisibleBounds": [
+          3,
+          5,
+          5,
+          12
+        ]
+      },
+      {
+        "image": "divine-overlay-poses.png",
+        "index": 1,
+        "sourceRect": [
+          887,
+          0,
+          887,
+          887
+        ],
+        "visibleBounds": [
+          350,
+          86,
+          453,
+          790
+        ],
+        "atlasId": "lod:divine_overlay_1",
+        "logicalSize": [
+          8,
+          16
+        ],
+        "packingTarget": [
+          64,
+          128
+        ],
+        "originalVisibleBounds": [
+          2,
+          3,
+          6,
+          13
+        ]
+      }
+    ],
+    "blend": "B_PLUS_F",
+    "renderWhenBaseFrameIs": [
+      1,
+      2
+    ],
+    "originalAdditionalTransform": {
+      "translateX": 4,
+      "scaleX": 0.5
+    },
+    "packingPolicy": "Fit generated streak to corresponding original visible bounds scaled by 8; preserve original cell padding"
+  }
+}

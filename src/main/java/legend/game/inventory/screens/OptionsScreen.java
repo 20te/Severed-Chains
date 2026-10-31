@@ -19,6 +19,7 @@ import org.legendofdragoon.modloader.registries.RegistryId;
 
 import javax.annotation.Nullable;
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -31,6 +32,8 @@ import static legend.game.modding.coremod.CoreMod.INPUT_ACTION_MENU_ADVANCED;
 import static legend.game.modding.coremod.CoreMod.INPUT_ACTION_MENU_BACK;
 import static legend.game.modding.coremod.CoreMod.INPUT_ACTION_MENU_HELP;
 import static legend.game.modding.coremod.CoreMod.SHOW_ADVANCED_OPTIONS_CONFIG;
+import static legend.game.modding.coremod.CoreMod.ICON_SET;
+import static legend.game.modding.coremod.CoreMod.MODERN_ICONS;
 import static legend.game.sound.Audio.playMenuSound;
 
 public class OptionsScreen extends VerticalLayoutScreen {
@@ -60,7 +63,8 @@ public class OptionsScreen extends VerticalLayoutScreen {
     }
 
     translations.entrySet().stream()
-      .sorted((o1, o2) -> String.CASE_INSENSITIVE_ORDER.compare(o1.getValue().get(), o2.getValue().get()))
+      .sorted(Comparator.comparing(entry -> entry.getKey() == MODERN_ICONS.get() ?
+        translations.get(ICON_SET.get()).get() + '\0' : entry.getValue().get(), String.CASE_INSENSITIVE_ORDER))
       .forEach(entry -> {
         //noinspection rawtypes
         final ConfigEntry configEntry = entry.getKey();

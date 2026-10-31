@@ -46,7 +46,6 @@ import java.util.concurrent.CompletableFuture;
 
 import static legend.core.GameEngine.EVENTS;
 import static legend.core.GameEngine.REGISTRIES;
-import static legend.core.GameEngine.getTextureAtlas;
 import static legend.lodmod.LodLevelUpActions.UNLOCK_ADDITION;
 import static legend.lodmod.LodLevelUpActions.UNLOCK_SPELL;
 import static legend.lodmod.LodMod.ATTACK_AVOID_STAT;
@@ -258,7 +257,7 @@ public abstract class RetailCharacterTemplate extends CharacterTemplate {
 
   @Override
   public void renderTransformIcon(final CharacterData2c character, final PlayerBattleEntity bent, final MV transforms, final int frame) {
-    final TextureAtlasIcon icon = getTextureAtlas().getIcon(LodMod.id(bent.getElement().getRegistryId().entryId() + '_' + frame));
+    final TextureAtlasIcon icon = legend.game.textures.ModernIcons.registryOrOriginal(LodMod.id(bent.getElement().getRegistryId().entryId() + '_' + frame));
     icon.render(transforms);
   }
 

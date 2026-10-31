@@ -1,0 +1,82 @@
+﻿[
+    {
+        "image":  "spirit-orb-poses.png",
+        "index":  0,
+        "sourceRect":  [
+                           0,
+                           0,
+                           724,
+                           724
+                       ],
+        "visibleBounds":  [
+                              77,
+                              54,
+                              693,
+                              665
+                          ]
+    },
+    {
+        "image":  "spirit-orb-poses.png",
+        "index":  1,
+        "sourceRect":  [
+                           724,
+                           0,
+                           724,
+                           724
+                       ],
+        "visibleBounds":  [
+                              50,
+                              53,
+                              667,
+                              663
+                          ]
+    },
+    {
+        "image":  "spirit-orb-poses.png",
+        "index":  2,
+        "sourceRect":  [
+                           1448,
+                           0,
+                           724,
+                           724
+                       ],
+        "visibleBounds":  [
+                              29,
+                              54,
+                              647,
+                              664
+                          ]
+    },
+    {
+        "image":  "divine-overlay-poses.png",
+        "index":  0,
+        "sourceRect":  [
+                           0,
+                           0,
+                           887,
+                           887
+                       ],
+        "visibleBounds":  [
+                              452,
+                              100,
+                              531,
+                              785
+                          ]
+    },
+    {
+        "image":  "divine-overlay-poses.png",
+        "index":  1,
+        "sourceRect":  [
+                           887,
+                           0,
+                           887,
+                           887
+                       ],
+        "visibleBounds":  [
+                              350,
+                              86,
+                              453,
+                              790
+                          ]
+    }
+]
