@@ -1,0 +1,19 @@
+{
+  "sha256": "babb0890844906b4cb8be875fe3a9df4aa9c599411e71be46c923924704bb65f",
+  "width": 1254,
+  "height": 1254,
+  "logicalAtlas": [
+    256,
+    256
+  ],
+  "referenceClut": 15516,
+  "retainedAnimation": {
+    "x": 144,
+    "y": 64,
+    "width": 64,
+    "height": 64
+  },
+  "status": "material revision: relief ground, timber fences and tree cutout routing",
+  "format": "RGBA with authored high-resolution cutouts",
+  "compression": "Lossless zlib level 9; PNG image data and non-IDAT metadata preserved"
+}

@@ -1,0 +1,14 @@
+allprojects {
+  afterEvaluate {
+    tasks.withType(Test).configureEach {
+      setExcludes([])
+      jvmArgs "--add-opens=java.base/java.util=ALL-UNNAMED"
+      doFirst {
+        project.copy {
+          from layout.buildDirectory.dir("resources/main")
+          into layout.buildDirectory.dir("classes/java/resources")
+        }
+      }
+    }
+  }
+}

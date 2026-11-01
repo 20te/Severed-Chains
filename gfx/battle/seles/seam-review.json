@@ -1,0 +1,10 @@
+{
+  "prompt": "Edit this existing 1024x1536 game panorama. Preserve its high quality realistic clouds, geology, woodland, exact mountain silhouette and all central composition. Repair the wrap seam robustly: along BOTH far left and far right 5% strips, use the SAME gentle vertical succession of muted gray sky, amber sky, dark low mountain shoulder, then dark forest. Remove cloud fragments touching the two side boundaries; keep detailed main clouds within the central90%. Match the ridge height at the two side boundaries at y=63.5% and same dark brown shade. Blend these tiny border changes smoothly inward over next5%, with no straight vertical bands, duplicated/mirrored cloud shapes or noticeable flat strip. The two side boundaries must match as one continuous texture when repeated. Top 3% is UNIFORM opaque #6d695d; bottom 2% UNIFORM opaque #362117, blending smoothly into adjacent imagery. No black margins or borders. Do not change central peak, horizon or cloud positions. Entire existing image rebuilt only where needed for the seam. Output exactly1024x1536.",
+  "tool": "Built-in ImageGen",
+  "selectedGeneration": "exec-3e780276-70c3-411d-9700-9088033b11d5.png",
+  "discardedGeneration": "exec-a2ac2aaa-7a16-4be1-ba10-c196a091c6ec.png",
+  "discardReason": "Half-offset experiment changed geography and did not improve seam error.",
+  "pixelProcessing": "None",
+  "edgeErrorMeanRGB": 8.3,
+  "originalEdgeErrorMeanRGB": 3.07
+}

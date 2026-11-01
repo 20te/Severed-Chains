@@ -200,6 +200,7 @@ public class RenderEngine {
       shader.use();
       shader.uniformInt("tex24").set(0);
       shader.uniformInt("tex15").set(1);
+      shader.uniformInt("stagePalette").set(2);
       shader.bindUniformBlock("transforms", ShaderUniformBuffer.TRANSFORM);
       shader.bindUniformBlock("transforms2", ShaderUniformBuffer.TRANSFORM2);
       shader.bindUniformBlock("lighting", ShaderUniformBuffer.LIGHTING);

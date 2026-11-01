@@ -39,6 +39,7 @@ uniform float discardTranslucency;
 uniform int tmdTranslucency;
 uniform int ctmdFlags;
 uniform sampler2D tex24;
+uniform sampler2D stagePalette;
 uniform usampler2D tex15;
 
 layout(location = 0) out vec4 outColour;
@@ -83,6 +84,24 @@ void main() {
       texColour.b = float(pixel >> 10 & 0x1fu) / 31.0;
       texColour.g = float(pixel >>  5 & 0x1fu) / 31.0;
       texColour.r = float(pixel       & 0x1fu) / 31.0;
+
+      // Each remastered stage retains its own original animated rectangle.
+      vec2 stageUv = vertUv + uvOffset;
+      bool forest = (ctmdFlags & 0x80) != 0;
+      bool animatedTile = forest
+        ? stageUv.x >= 0.0 && stageUv.x < 64.0 && stageUv.y >= 128.0 && stageUv.y < 192.0
+        : stageUv.x >= 144.0 && stageUv.x < 208.0 && stageUv.y >= 64.0 && stageUv.y < 128.0;
+      // The bare tree has translucent primitives but an entirely opaque cutout palette.
+      bool treeCutout = (ctmdFlags & 0x40) != 0 && all(equal(ivec2(vertClut), ivec2(448, 245)));
+      if((ctmdFlags & 0xc0) != 0 && (!translucent || treeCutout) && !animatedTile) {
+        vec4 surface = texture(tex24, (stageUv + vec2(0.5)) / 256.0);
+        if(surface.a < 0.5) discard;
+        // A shared swatch tracks live palette effects without reintroducing retail pixel blocks.
+        uint swatch = texelFetch(tex15, ivec2(vertClut) + ivec2(8, 0), 0).r;
+        vec3 live = vec3(swatch & 31u, swatch >> 5 & 31u, swatch >> 10 & 31u) / 31.0;
+        vec3 reference = texelFetch(stagePalette, ivec2(vertClut) - ivec2(448, 240) + ivec2(8, 0), 0).rgb;
+        texColour = vec4(surface.rgb * live / max(reference, vec3(1.0 / 31.0)), treeCutout ? 0.0 : 1.0);
+      }
     } else if(vertBpp == 2) {
       ivec2 uv = ivec2(vertTpage.x + (vertUv.x + uvOffset.x), vertTpage.y + vertUv.y + uvOffset.y);
       uint pixel = texelFetch(tex15, uv, 0).r;

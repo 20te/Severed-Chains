@@ -207,6 +207,7 @@ tasks.register('copySupportFiles', Copy) {
   into("gfx") {
     from('gfx') {
       exclude 'ui/modern/**'
+      exclude 'battle/forest/arena-candidate.png' // Authoring source, never loaded at runtime.
     }
   }
 

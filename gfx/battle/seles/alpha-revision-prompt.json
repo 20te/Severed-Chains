@@ -1,0 +1,6 @@
+{
+  "tool": "Built-in ImageGen",
+  "prompt": "Edit this exact game UV atlas by removing ONLY the empty flat black background between islands. Output a genuinely transparent RGBA PNG at the exact same square dimensions and layout. Preserve all ground rectangles, stone walls, gothic window frames, timber, bare trees, fences, wheel and conifers in precisely the SAME locations, sizes and silhouettes. The flat black voids between objects, inside window openings and between bare branches should become transparent with clean high-resolution edges. Preserve dark shadows INSIDE stone/wood/foliage textures as opaque; do not erase dark material. Keep the large square dirt rectangle at upper left fully opaque, keep conifer rectangle fully opaque and preserve smoke rectangle even though the engine retains original animated smoke. No other repaint, no rearrangement, no new islands, no glow or matte fringe. This is a production high-resolution transparent atlas for the existing geometry; retain full original canvas and all UV positions, do not crop.",
+  "generation": "exec-a2a29c04-4a32-4691-8425-20402c42202b.png",
+  "processing": "No deterministic pixel editing; renderer now uses authored RGBA cutouts and color."
+}

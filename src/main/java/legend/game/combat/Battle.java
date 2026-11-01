@@ -17,6 +17,8 @@ import legend.core.gte.Transforms;
 import legend.core.memory.Method;
 import legend.core.memory.types.FloatRef;
 import legend.core.renderer.McqBuilder;
+import legend.core.renderer.QuadBuilder;
+import legend.core.renderer.Texture;
 import legend.core.platform.input.InputAction;
 import legend.core.tags.Tag;
 import legend.game.EngineState;
@@ -2460,10 +2462,7 @@ public class Battle extends EngineState<Battle> {
       this.setStageHasNoModel();
       this.deleteBattleStageModel();
 
-      if(battlePreloadedEntities_1f8003f4.skyboxObj != null) {
-        battlePreloadedEntities_1f8003f4.skyboxObj.delete();
-        battlePreloadedEntities_1f8003f4.skyboxObj = null;
-      }
+      this.deleteSkybox();
 
       this.playerBattleScript_800c66fc = null;
 
@@ -2532,6 +2531,16 @@ public class Battle extends EngineState<Battle> {
   }
 
   private void deleteBattleStageModel() {
+    final BattleStage stage = battlePreloadedEntities_1f8003f4.stage_963c;
+    if(stage.surfaceTexture != null) {
+      stage.surfaceTexture.delete();
+      stage.surfaceTexture = null;
+    }
+    if(stage.surfacePalette != null) {
+      stage.surfacePalette.delete();
+      stage.surfacePalette = null;
+    }
+    stage.surfaceTextureAttempted = false;
     if(battlePreloadedEntities_1f8003f4.stage_963c.dobj2s_00 != null) {
       for(int i = 0; i < battlePreloadedEntities_1f8003f4.stage_963c.dobj2s_00.length; i++) {
         battlePreloadedEntities_1f8003f4.stage_963c.dobj2s_00[i].tmd_08.delete();
@@ -2620,9 +2629,48 @@ public class Battle extends EngineState<Battle> {
       }
 
       if(battlePreloadedEntities_1f8003f4.skyboxObj == null) {
-        battlePreloadedEntities_1f8003f4.skyboxObj = new McqBuilder("Battle Skybox", mcq)
-          .vramOffset(320, 0)
-          .build();
+        final String backdropDirectory = switch(this.currentStage_800c66a4) {
+          case 1 -> "forest";
+          case 2 -> "seles";
+          default -> null;
+        };
+        if(backdropDirectory != null) {
+          final Path replacement = Path.of("gfx/battle", backdropDirectory, "backdrop.png");
+          if(Files.isRegularFile(replacement)) {
+            try {
+              final Texture texture = Texture.create(backdropDirectory + " battle backdrop", builder -> {
+                builder.png(replacement);
+                builder.minFilter(true);
+                builder.magFilter(true);
+                builder.wrapT(false);
+              });
+              if(texture.width < mcq.screenWidth_14 || texture.height < mcq.screenHeight_16 || (long)texture.width * mcq.screenHeight_16 != (long)texture.height * mcq.screenWidth_14) {
+                texture.delete();
+                LOGGER.warn("Ignoring battle backdrop %s with incompatible dimensions", replacement);
+              } else {
+                battlePreloadedEntities_1f8003f4.skyboxTexture = texture;
+              }
+            } catch(final RuntimeException e) {
+              LOGGER.warn("Unable to load battle backdrop " + replacement + "; using original", e);
+            }
+          }
+        }
+
+        if(battlePreloadedEntities_1f8003f4.skyboxTexture != null) {
+          // Forest keeps its original clear sky; stretching its painted edge produces vertical bands.
+          final int extension = this.currentStage_800c66a4 == 1 ? 0 : 4096;
+          battlePreloadedEntities_1f8003f4.skyboxObj = new QuadBuilder("Remastered battle backdrop")
+            .bpp(Bpp.BITS_24)
+            .pos(mcq.magic_00 == McqHeader.MAGIC_2 ? mcq.screenOffsetX_28 : 0, (mcq.magic_00 == McqHeader.MAGIC_2 ? mcq.screenOffsetY_2a : 0) - extension, 0)
+            .posSize(mcq.screenWidth_14, mcq.screenHeight_16 + extension * 2)
+            .uv(0.0f, -extension / (float)mcq.screenHeight_16)
+            .uvSize(1.0f, 1.0f + extension * 2.0f / mcq.screenHeight_16)
+            .build();
+        } else {
+          battlePreloadedEntities_1f8003f4.skyboxObj = new McqBuilder("Battle Skybox", mcq)
+            .vramOffset(320, 0)
+            .build();
+        }
       }
 
       this.mcqOffsetX_800c6774 += this.mcqStepX_800c676c;
@@ -2635,8 +2683,11 @@ public class Battle extends EngineState<Battle> {
 
       for(int i = -1; i < segments + 1; i++) {
         battlePreloadedEntities_1f8003f4.skyboxTransforms.transfer.set(-totalWidth / 2.0f + i * mcq.screenWidth_14 + x0, y, 60000.0f);
-        RENDERER.queueOrthoModel(battlePreloadedEntities_1f8003f4.skyboxObj, battlePreloadedEntities_1f8003f4.skyboxTransforms, QueuedModelStandard.class)
+        final QueuedModelStandard queued = RENDERER.queueOrthoModel(battlePreloadedEntities_1f8003f4.skyboxObj, battlePreloadedEntities_1f8003f4.skyboxTransforms, QueuedModelStandard.class)
           .monochrome(this.mcqColour_800fa6dc / 128.0f);
+        if(battlePreloadedEntities_1f8003f4.skyboxTexture != null) {
+          queued.texture(battlePreloadedEntities_1f8003f4.skyboxTexture);
+        }
       }
 
       //LAB_800c89d4
@@ -2662,14 +2713,22 @@ public class Battle extends EngineState<Battle> {
     //LAB_800c8af0
   }
 
-  @Method(0x800c8b20L)
-  public void loadStage(final int stage) {
-    LOGGER.info("Loading battle stage %d", stage);
-
+  private void deleteSkybox() {
     if(battlePreloadedEntities_1f8003f4.skyboxObj != null) {
       battlePreloadedEntities_1f8003f4.skyboxObj.delete();
       battlePreloadedEntities_1f8003f4.skyboxObj = null;
     }
+    if(battlePreloadedEntities_1f8003f4.skyboxTexture != null) {
+      battlePreloadedEntities_1f8003f4.skyboxTexture.delete();
+      battlePreloadedEntities_1f8003f4.skyboxTexture = null;
+    }
+  }
+
+  @Method(0x800c8b20L)
+  public void loadStage(final int stage) {
+    LOGGER.info("Loading battle stage %d", stage);
+
+    this.deleteSkybox();
 
     // GH#1931
     // Disable texture animations so we don't corrupt the texture of the loading stage due to the old stage model still being loaded...
@@ -2707,6 +2766,16 @@ public class Battle extends EngineState<Battle> {
 
     if(tim.hasClut()) {
       GPU.uploadData15(tim.getClutRect(), tim.getClutData());
+    }
+
+    if(this.currentStage_800c66a4 == 1 || this.currentStage_800c66a4 == 2) {
+      // Keep the full retail palette as the baseline for script-driven palette modulation.
+      final int[] palette = new int[64 * 16];
+      for(int i = 0; i < palette.length; i++) {
+        final int c = tim.getClutData().readUShort(i * 2);
+        palette[i] = 0xff000000 | (c & 31) * 255 / 31 | ((c >>> 5 & 31) * 255 / 31 << 8) | ((c >>> 10 & 31) * 255 / 31 << 16);
+      }
+      battlePreloadedEntities_1f8003f4.stage_963c.originalSurfacePalette = palette;
     }
 
     //LAB_800c8ccc
@@ -7999,6 +8068,32 @@ public class Battle extends EngineState<Battle> {
 
   @Method(0x800ec51cL)
   public void renderBattleStage(final BattleStage stage) {
+    if((this.currentStage_800c66a4 == 1 || this.currentStage_800c66a4 == 2) && stage.originalSurfacePalette != null && !stage.surfaceTextureAttempted) {
+      stage.surfaceTextureAttempted = true;
+      final Path asset = Path.of("gfx/battle", this.currentStage_800c66a4 == 1 ? "forest" : "seles", "arena.png");
+      if(Files.isRegularFile(asset)) {
+        try {
+          final var image = javax.imageio.ImageIO.read(asset.toFile());
+          if(image == null || !image.getColorModel().hasAlpha() || image.getWidth() < 256 || image.getWidth() != image.getHeight()) {
+            throw new IllegalArgumentException("Arena texture must be a square RGBA atlas of at least 256 pixels");
+          }
+          stage.surfaceTexture = Texture.create("Remastered arena surfaces", builder -> {
+            builder.png(asset);
+            builder.minFilter(true);
+            builder.magFilter(true);
+            builder.wrapS(false);
+            builder.wrapT(false);
+          });
+          final var palette = org.lwjgl.BufferUtils.createIntBuffer(64 * 16).put(stage.originalSurfacePalette).flip();
+          stage.surfacePalette = Texture.create("Arena reference palette", builder -> builder.data(palette, 64, 16));
+        } catch(final RuntimeException | java.io.IOException e) {
+          if(stage.surfaceTexture != null) stage.surfaceTexture.delete();
+          stage.surfaceTexture = null;
+          LOGGER.warn("Unable to load arena texture " + asset + "; using original", e);
+        }
+      }
+    }
+
     //LAB_800ec548
     for(int i = 0; i < 10; i++) {
       if(stage._618[i] != 0) {
@@ -8024,13 +8119,16 @@ public class Battle extends EngineState<Battle> {
         GTE.setTransforms(ls);
         Renderer.renderDobj2(part, true, 0);
 
-        RENDERER.queueModel(part.tmd_08.getObj(), lw, QueuedModelBattleTmd.class)
+        final QueuedModelBattleTmd queued = RENDERER.queueModel(part.tmd_08.getObj(), lw, QueuedModelBattleTmd.class)
           .depthOffset(stage.z_5e8 * 4)
           .lightDirection(lightDirectionMatrix_800c34e8)
           .lightColour(lightColourMatrix_800c3508)
           .backgroundColour(GTE.backgroundColour)
-          .ctmdFlags((part.attribute_00 & 0x4000_0000) != 0 ? 0x12 : 0x0)
+          .ctmdFlags(((part.attribute_00 & 0x4000_0000) != 0 ? 0x12 : 0x0) | (stage.surfaceTexture != null ? (this.currentStage_800c66a4 == 1 ? 0x80 : 0x40) : 0))
           .battleColour(this._800c6930.colour_00);
+        if(stage.surfaceTexture != null) {
+          queued.texture(stage.surfaceTexture).texture(stage.surfacePalette, 2);
+        }
       }
 
       //LAB_800ec608
@@ -9336,6 +9434,19 @@ public class Battle extends EngineState<Battle> {
     //LAB_8010993c
     //LAB_80109954
     deffManager.stageAmbiance_4c.set(stageAmbiance_801134fc[stage]);
+    if(stage == 2) {
+      // Tune the copied baseline so scripted ambiance overrides and restores still work normally.
+      deffManager.stageAmbiance_4c.ambientColour_00.set(0.34f, 0.29f, 0.21f);
+      deffManager.stageAmbiance_4c._10[0].lightColour_0a.set(224, 214, 196);
+      deffManager.stageAmbiance_4c._10[1].lightColour_0a.set(26, 12, 6);
+      deffManager.stageAmbiance_4c._10[2].lightColour_0a.set(164, 86, 28);
+    } else if(stage == 1) {
+      // Forest canopy fill retains its own warm key and original light directions.
+      deffManager.stageAmbiance_4c.ambientColour_00.set(0.32f, 0.32f, 0.28f);
+      deffManager.stageAmbiance_4c._10[0].lightColour_0a.set(128, 136, 128);
+      deffManager.stageAmbiance_4c._10[1].lightColour_0a.set(198, 180, 142);
+      deffManager.stageAmbiance_4c._10[2].lightColour_0a.set(88, 92, 78);
+    }
     this.applyStageAmbiance(deffManager.stageAmbiance_4c);
 
     //LAB_8010999c

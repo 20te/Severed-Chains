@@ -2,12 +2,17 @@ package legend.game.combat.environment;
 
 import legend.core.gte.GsCOORDINATE2;
 import legend.core.gte.ModelPart10;
+import legend.core.renderer.Texture;
 import legend.game.tmd.Tmd;
 import legend.core.gte.Transforms;
 import legend.game.types.CContainerSubfile2;
 import legend.game.types.Keyframe0c;
 
 public class BattleStage {
+  public Texture surfaceTexture;
+  public Texture surfacePalette;
+  public int[] originalSurfacePalette;
+  public boolean surfaceTextureAttempted;
   public String name;
 
   public ModelPart10[] dobj2s_00;

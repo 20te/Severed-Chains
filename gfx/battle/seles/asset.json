@@ -1,0 +1,12 @@
+{
+  "sha256": "98474bea284f07cd9a285e82655847350df068ee82f3bb9c4df95a667de5f210",
+  "width": 1024,
+  "height": 1536,
+  "logicalWidth": 256,
+  "logicalHeight": 384,
+  "stage": 2,
+  "status": "step 2 ready for visual review",
+  "edgeErrorMeanRGB": 3.22,
+  "originalEdgeErrorMeanRGB": 3.07,
+  "compression": "Lossless zlib level 9; PNG image data and non-IDAT metadata preserved"
+}
