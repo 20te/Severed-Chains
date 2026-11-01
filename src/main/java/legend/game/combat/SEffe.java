@@ -787,6 +787,8 @@ public final class SEffe {
   @Method(0x800ec258L)
   public static void renderBttlShadow(final Model124 model) {
     final Model124 shadow = shadowModel_800bda10;
+    final boolean seles = currentEngineState_8004dd04 instanceof Battle battle && battle.currentStage_800c66a4 == 2;
+    final boolean forest = currentEngineState_8004dd04 instanceof Battle battle && battle.currentStage_800c66a4 == 1;
 
     GsInitCoordinate2(model.coord2_14, shadow.coord2_14);
 
@@ -812,6 +814,9 @@ public final class SEffe {
     //LAB_800ec370
     shadow.zOffset_a0 = model.zOffset_a0 + 16;
     shadow.coord2_14.transforms.scale.set(model.shadowSize_10c).div(4.0f);
+    if(seles) {
+      shadow.coord2_14.transforms.scale.mul(1.08f, 1.0f, 0.94f);
+    }
     shadow.coord2_14.coord.scaling(shadow.coord2_14.transforms.scale);
     shadow.coord2_14.coord.rotateXYZ(shadow.coord2_14.transforms.rotate);
     shadow.coord2_14.flg = 0;
@@ -826,11 +831,18 @@ public final class SEffe {
     final MV lw = new MV();
     GsGetLw(shadow.modelParts_00[0].coord2_04, lw);
 
-    RENDERER
+    final QueuedModelTmd queued = RENDERER
       .queueModel(shadow.modelParts_00[0].tmd_08.getObj(), lw, QueuedModelTmd.class)
       .lightDirection(lightDirectionMatrix_800c34e8)
       .lightColour(lightColourMatrix_800c3508)
       .backgroundColour(GTE.backgroundColour);
+    if(seles) {
+      // Retain warm ground colour beneath the existing subtractive shadow.
+      queued.colour(0.42f, 0.46f, 0.52f);
+    } else if(forest) {
+      // Preserve visible forest-floor detail under the existing subtractive shadow.
+      queued.colour(0.48f, 0.45f, 0.40f);
+    }
 
     shadow.modelParts_00[0].coord2_04.flg--;
   }

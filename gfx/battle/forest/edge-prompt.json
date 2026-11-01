@@ -1,0 +1,6 @@
+{
+  "tool": "Built-in ImageGen",
+  "prompt": "Edit ONLY boundary continuity of this exact Forest backdrop. Keep all scenery, dimensions 1024x1536, cloud band positions, horizon height and woodland silhouettes unchanged. Critical top edge: make the very top 24 pixels a perfectly uniform solid dusty rose RGB(145,112,102), NO horizontal variation, texture, noise, vignette or mottling; blend smoothly into existing sky over next 40 pixels without moving cloud. The engine stretches the top row infinitely upward so every top-row pixel MUST be identical. Bottom edge similarly blend last 32 pixels to uniform muted dark taupe. Make leftmost and rightmost columns and adjacent strips match precisely at each height for horizontal repetition; cloud band edges and forest masses must join without a vertical discontinuity. Preserve the original image's subdued painterly style, all interior detail and full uncropped 2:3 composition. No new scenery or text.",
+  "generation": "exec-9839d00a-1b0a-4262-8ba0-90d8df2cd37e.png",
+  "pixelProcessing": "None; Forest uses original clear fill outside MCQ bounds."
+}

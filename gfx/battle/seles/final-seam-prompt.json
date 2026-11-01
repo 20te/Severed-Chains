@@ -1,0 +1,9 @@
+{
+  "tool": "Built-in ImageGen",
+  "prompt": "Edit the attached exact arena panorama. High-fidelity realistic matte painting, keep all original central geography, precise horizon, main peak and distinctive hooked cloud unchanged. This will repeat horizontally. Solve the seam by making the far LEFT and far RIGHT 3% margins identical LOW-CONTRAST ATMOSPHERIC HAZE: gray-brown upper sky, muted ochre lower sky, deep brown mountain shoulder at same height, dark forest below. Clouds and fine trees fade subtly into this haze near the extreme edges, smoothly over 6% width; no straight borders, lines, pillars, visible bands, or added objects. Copy the same vertical color profile into both boundary columns, essential. Equal brightness at both edges. Preserve the main clouds and dense individual conifers in the remaining94%. No dominant light on either edge. A truly seamlessly repeating cylindrical game backdrop. No extra sun, buildings, trees in foreground, text or padding. Full 1024x1536 image; same warm smoky Seles atmosphere. Top and bottom fades unchanged.",
+  "generation": "exec-ddb4ac29-dd05-4bae-9d01-545d60464176.png",
+  "pixelProcessing": "None",
+  "edgeErrorMeanRGB": 3.22,
+  "originalEdgeErrorMeanRGB": 3.07,
+  "acceptance": "Original-level visual edge continuity; boundaries are not pixel-identical."
+}

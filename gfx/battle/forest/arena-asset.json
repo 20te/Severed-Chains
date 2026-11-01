@@ -1,0 +1,12 @@
+{
+  "stage": 1,
+  "file": "arena.png",
+  "width": 1024,
+  "height": 1024,
+  "sha256": "f50f15b28c8ed32d033442102f8b595c09c310cd84499229fa0e6c8556ca6723",
+  "generation": "exec-0f0d6a28-162d-46f0-807c-2ff6df4e2fe9.png",
+  "source": "arena-candidate.png",
+  "processing": "User-authorized deterministic atlas alignment and saturated export fringe cleanup; tools/AlignForestAtlas.java. No runtime UV changes.",
+  "reference": "build/forest-baseline/assets/mapped-atlas-original.png",
+  "compression": "Lossless zlib level 9; PNG image data and non-IDAT metadata preserved"
+}

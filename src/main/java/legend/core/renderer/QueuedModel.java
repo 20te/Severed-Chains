@@ -188,14 +188,14 @@ public abstract class QueuedModel<Options extends ShaderOptionsBase, T extends Q
   }
 
   void useTexture() {
+    // Partial overrides must not inherit another model's private VRAM binding.
+    GPU.useVramTexture();
     if(this.texturesUsed) {
       for(int i = 0; i < this.textures.length; i++) {
         if(this.textures[i] != null) {
           this.textures[i].use(i);
         }
       }
-    } else {
-      GPU.useVramTexture();
     }
   }
 

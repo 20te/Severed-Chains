@@ -1,0 +1,6 @@
+{
+  "tool": "Built-in ImageGen",
+  "prompt": "Edit this original Forest battle backdrop from Legend of Dragoon into a faithful painterly remaster, 1024x1536 portrait 2:3. Preserve EXACT original composition and elevation: muted dusty rose/taupe upper sky with thin horizontal pale gold cloud bands, low dark hazy horizon at about 70% height, rolling densely wooded green hills in the lower quarter, nearest rounded tree crowns bottom foreground. No tall mountains, architecture, characters, sun disk, dramatic storm or orange fire. Enhance cloud wisps and layered forest canopy with restrained natural painted detail, coherent soft warm evening light and olive greens. Keep the sky calm, low contrast, matching the original atmosphere. Production horizontally repeating game panorama: left and right edges must match in color AND shapes at every height, cloud bands and forest ridges continue smoothly across the wrap, no vertical border strip or seam, no edge darkening. Top and bottom must each fade gradually into an even color along their full width so vertical clamp extension produces no streaks. Maintain horizon height, all major cloud positions and woodland masses. No crop, frame or text. Output only the texture.",
+  "generation": "exec-53caaf9a-d334-4108-9c38-7956fb221f18.png",
+  "pixelProcessing": "None"
+}

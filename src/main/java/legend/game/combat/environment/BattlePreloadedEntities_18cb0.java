@@ -3,6 +3,7 @@ package legend.game.combat.environment;
 import legend.core.gte.MV;
 import legend.core.memory.Method;
 import legend.core.renderer.Obj;
+import legend.core.renderer.Texture;
 import legend.game.additions.AdditionHitProperties10;
 import legend.game.additions.AdditionHits80;
 import legend.game.characters.CharacterAdditionInfo;
@@ -28,6 +29,7 @@ public class BattlePreloadedEntities_18cb0 {
   public final BattleStage stage_963c = new BattleStage();
   public McqHeader stageMcq_9cb0;
   public Obj skyboxObj;
+  public Texture skyboxTexture;
   public final MV skyboxTransforms = new MV();
 
   public AdditionHitProperties10 getHit(final int charSlot, final int hitNum) {
